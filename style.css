@@ -1,0 +1,210 @@
+/* מסילות הרכבת העות'מאניות
+   Palette after Nachum Gutman's Jaffa and early Tel Aviv: sunlit sand, roof-tile red,
+   the pale teal of the sea, dusty rose, olive, and a thin black ink line over light washes.
+   The aerial photograph is the subject; the interface is sand-coloured glass laid on it. */
+:root {
+  --sand: #efe3c8;
+  --sand-glass: rgba(240, 229, 203, .88);
+  --sand-deep: #e2d2ad;
+  --ink: #2c2a25;
+  --ink-soft: #6d6658;
+  --ink-faint: #958c79;
+  --rule: rgba(44, 42, 37, .16);
+  --tile: #b5533a;          /* roof-tile red: everything that survives */
+  --tile-wash: rgba(181, 83, 58, .12);
+  --sea: #2f7c82;           /* Jaffa sea: links */
+  --ochre: #c9963c;
+  --rose: #d9a08c;
+  --olive: #7d8452;
+  --panel-w: 372px;
+  --serif: "Frank Ruhl Libre", "Times New Roman", serif;
+  --display: "Bellefair", "Frank Ruhl Libre", serif;
+}
+
+* { box-sizing: border-box; }
+html, body { height: 100%; margin: 0; }
+body { font-family: var(--serif); color: var(--ink); background: #cdbf9d; font-size: 16px; line-height: 1.6; overflow: hidden; }
+a { color: var(--sea); text-decoration-color: rgba(47, 124, 130, .4); text-underline-offset: 3px; }
+button { font: inherit; color: inherit; cursor: pointer; }
+:focus-visible { outline: 1.5px solid var(--sea); outline-offset: 2px; }
+
+/* ------------------------------------------------------------------ map */
+#map { direction: ltr; position: fixed; inset: 0; background: #cdbf9d; }
+.leaflet-container { font-family: var(--serif); background: #cdbf9d; }
+/* a little warmth and less punch, like sun-bleached watercolour */
+.base-sat .leaflet-pane.leaflet-base-pane { filter: sepia(.2) saturate(.82) brightness(.98) contrast(.96); }
+.base-map .leaflet-pane.leaflet-base-pane { filter: grayscale(.45) sepia(.55) saturate(.85) brightness(1.0) contrast(.92); }
+.base-hike .leaflet-pane.leaflet-base-pane { filter: sepia(.25) saturate(.8); }
+.leaflet-control-attribution { background: rgba(240, 229, 203, .6) !important; font-size: 10px; color: var(--ink-soft); padding: 1px 8px !important; border-radius: 3px 0 0 0; }
+.leaflet-control-attribution a { color: var(--ink-soft); }
+.leaflet-bar { border: 1px solid var(--rule) !important; box-shadow: none; border-radius: 6px; overflow: hidden; backdrop-filter: blur(10px); -webkit-backdrop-filter: blur(10px); }
+.leaflet-bar a { background: var(--sand-glass); color: var(--ink); border-bottom-color: var(--rule); font-weight: 400; }
+.leaflet-bar a:hover { background: #f6ecd4; color: var(--ink); }
+
+/* lines: Leaflet writes stroke attributes, CSS takes precedence */
+path.ln-case { stroke: #f6ecd2; stroke-width: 5; stroke-opacity: .62; stroke-linecap: round; stroke-linejoin: round; fill: none; }
+path.ln-rem { stroke: var(--tile); stroke-width: 2; stroke-opacity: 1; stroke-linecap: round; stroke-linejoin: round; fill: none; }
+path.ln-gone { stroke: #f6ecd2; stroke-width: 1.4; stroke-opacity: .5; stroke-dasharray: 1 6; stroke-linecap: round; fill: none; }
+/* up close the line thins to a row of dots so the embankment itself shows in the photograph */
+.z-mid path.ln-case { stroke-opacity: .4; }
+.z-mid path.ln-rem { stroke-dasharray: 8 7; }
+.z-close path.ln-case { stroke-width: 6; stroke-dasharray: .1 13; stroke-opacity: .9; }
+.z-close path.ln-rem { stroke-width: 3; stroke-dasharray: .1 13; }
+path.dimmed.ln-rem { stroke-opacity: .35; }
+path.dimmed.ln-case { stroke-opacity: .2; }
+path.dimmed.ln-gone { stroke-opacity: .2; }
+path.lit.ln-gone { stroke-opacity: .8; }
+.hide-gone .gone, .hide-gone path.ln-gone { display: none; }
+
+/* markers: small sand medallions with an ink drawing */
+.mk { display: block; transition: transform .15s ease; transform-origin: 50% 50%; transform: scale(var(--mk, 1)); }
+.mk svg { display: block; overflow: visible; }
+.mk-disc .pt { fill: #f3e8cd; fill-opacity: .94; stroke: var(--tile); stroke-width: 1.3; }
+.mk-disc .glyph { fill: none; stroke: var(--ink); stroke-width: 1.25; stroke-linecap: round; stroke-linejoin: round; }
+.mk-ring circle { fill: none; stroke: #f6ecd2; stroke-width: 1.2; opacity: .6; stroke-dasharray: 2 2; }
+.leaflet-marker-icon:hover .mk { transform: scale(calc(var(--mk, 1) * 1.15)); }
+.leaflet-marker-icon.sel .mk { transform: scale(1.35); }
+.leaflet-marker-icon.sel .mk-disc .pt { fill: var(--tile); fill-opacity: 1; stroke: #f6ecd2; }
+.leaflet-marker-icon.sel .mk-disc .glyph { stroke: #f8efd9; }
+.leaflet-marker-icon.sel .mk-ring circle { opacity: 1; stroke: var(--tile); stroke-dasharray: none; }
+.mn { display: block; width: 7px; height: 7px; margin: 4.5px; border-radius: 50%; background: var(--tile); box-shadow: 0 0 0 1.5px rgba(246, 236, 210, .85); transition: transform .15s ease; }
+.leaflet-marker-icon.minor:hover .mn { transform: scale(1.5); }
+.leaflet-marker-icon.minor.sel .mn { transform: scale(1.8); background: var(--ink); }
+.z-far .leaflet-marker-icon.minor { display: none; }
+
+.leaflet-tooltip.tip, .leaflet-tooltip.tag { direction: rtl; background: rgba(243, 232, 205, .92); color: var(--ink); border: 1px solid var(--rule); border-radius: 4px; font-family: var(--serif); font-size: 12.5px; line-height: 1.25; padding: 2px 8px; box-shadow: none; white-space: nowrap; }
+.leaflet-tooltip.tag { background: rgba(243, 232, 205, .78); border-color: transparent; }
+.leaflet-tooltip.tip::before, .leaflet-tooltip.tag::before { display: none; }
+.here { display: block; width: 12px; height: 12px; border-radius: 50%; background: var(--sea); border: 2px solid #f6ecd2; box-shadow: 0 0 0 5px rgba(47, 124, 130, .22); }
+
+/* map controls */
+.mapctl { position: fixed; top: 16px; left: 16px; z-index: 800; display: flex; gap: 8px; align-items: center; direction: rtl; }
+.basemaps { display: flex; border: 1px solid var(--rule); border-radius: 6px; overflow: hidden; background: var(--sand-glass); backdrop-filter: blur(10px); -webkit-backdrop-filter: blur(10px); }
+.basemaps button { border: 0; background: transparent; padding: 6px 13px; font-size: 14px; color: var(--ink-soft); }
+.basemaps button + button { border-inline-start: 1px solid var(--rule); }
+.basemaps button.on { color: var(--ink); background: rgba(44, 42, 37, .08); }
+#locate { width: 34px; height: 34px; display: grid; place-items: center; border: 1px solid var(--rule); border-radius: 6px; background: var(--sand-glass); padding: 0; color: var(--ink-soft); backdrop-filter: blur(10px); -webkit-backdrop-filter: blur(10px); }
+#locate svg { stroke-width: 1.4; }
+#locate.busy { color: var(--sea); }
+
+/* ---------------------------------------------------------------- panel */
+#panel { position: fixed; top: 16px; right: 16px; bottom: 16px; width: var(--panel-w); z-index: 900; background: var(--sand-glass); border: 1px solid rgba(44, 42, 37, .22); border-radius: 10px; display: flex; flex-direction: column; overflow: hidden; backdrop-filter: blur(14px); -webkit-backdrop-filter: blur(14px); }
+#handle { display: none; }
+#panel-body { overflow-y: auto; flex: 1; overscroll-behavior: contain; -webkit-overflow-scrolling: touch; scrollbar-width: thin; scrollbar-color: rgba(44, 42, 37, .25) transparent; }
+
+.masthead { padding: 22px 26px 20px; border-bottom: 1px solid var(--rule); }
+.masthead .vignette { display: block; width: 200px; height: auto; margin: 0 0 14px; }
+.masthead .ota { font-family: "Aref Ruqaa", serif; font-size: 22px; line-height: 1; margin: 0 0 10px; color: var(--tile); opacity: .85; }
+.masthead h1 { font-family: var(--display); font-weight: 400; font-size: 31px; line-height: 1.1; margin: 0; text-wrap: balance; }
+.masthead .sub { margin: 10px 0 0; font-size: 15px; color: var(--ink-soft); }
+.tileband { display: none; }
+
+.pad { padding: 20px 26px 40px; }
+.lede { margin: 0 0 20px; font-size: 15.5px; }
+h2 { font-family: var(--display); font-weight: 400; font-size: 23px; margin: 30px 0 8px; padding-bottom: 8px; border-bottom: 1px solid var(--rule); }
+.hint { margin: 0 0 6px; font-size: 14px; color: var(--ink-faint); }
+.faint { color: var(--ink-soft); }
+
+.legend { border: 1px solid var(--rule); border-radius: 8px; padding: 14px 16px; display: grid; gap: 8px; font-size: 14.5px; background: rgba(255, 250, 235, .35); }
+.legend-h { margin: 0; font-size: 14.5px; color: var(--tile); }
+.legend-h.faint { color: var(--ink-soft); margin-top: 6px; padding-top: 12px; border-top: 1px solid var(--rule); }
+.legend-row { display: grid; grid-template-columns: 54px 1fr; align-items: center; gap: 10px; }
+.legend-row.faint { color: var(--ink-soft); }
+.lg-rail { stroke: var(--tile); stroke-width: 2; stroke-linecap: round; }
+.lg-ties { stroke: none; }
+.lg-gone { stroke: var(--ink); stroke-width: 1.3; stroke-opacity: .45; stroke-dasharray: 1 6; stroke-linecap: round; }
+.lg-star { width: 18px; height: 18px; margin-inline-start: 18px; border: 1.3px solid var(--tile); border-radius: 50%; background: #f6ecd2; }
+.lg-mn { width: 7px; height: 7px; margin-inline-start: 23.5px; border-radius: 50%; background: var(--tile); }
+.lg-ring { width: 10px; height: 10px; margin-inline-start: 22px; border: 1.2px dashed rgba(44, 42, 37, .5); border-radius: 50%; }
+.toggle { margin-top: 6px; padding-top: 12px; border-top: 1px solid var(--rule); display: flex; gap: 9px; align-items: center; cursor: pointer; color: var(--ink-soft); }
+.toggle input { accent-color: var(--tile); width: 15px; height: 15px; margin: 0; }
+
+.line-list { list-style: none; margin: 0; padding: 0; }
+.line-list button { width: 100%; text-align: start; background: none; border: 0; border-bottom: 1px solid rgba(44, 42, 37, .09); padding: 11px 0; display: grid; grid-template-columns: 1fr auto; gap: 2px 12px; }
+.line-list button:hover .ln, .site-btn:hover .sn { color: var(--tile); }
+.ln { font-size: 16.5px; }
+.ly { font-variant-numeric: tabular-nums; color: var(--ink-faint); font-size: 14.5px; }
+.lm { grid-column: 1 / -1; font-size: 13.5px; color: var(--ink-faint); }
+.bar { grid-column: 1 / -1; height: 2px; background: rgba(44, 42, 37, .12); margin-top: 6px; position: relative; border-radius: 1px; }
+.bar i { position: absolute; top: 0; bottom: 0; inset-inline-start: 0; background: var(--tile); border-radius: 1px; }
+
+.group-h { font-size: 13.5px; color: var(--ink-faint); margin: 18px 0 2px; }
+.site-btn { width: 100%; text-align: start; background: none; border: 0; padding: 6px 0; display: grid; grid-template-columns: 16px 1fr auto; gap: 8px; align-items: baseline; }
+.site-btn .dot { width: 6px; height: 6px; align-self: center; border-radius: 50%; background: var(--tile); }
+.site-btn .sn { font-size: 15.5px; transition: color .12s; }
+.site-btn .sk { font-size: 13px; color: var(--ink-faint); }
+.site-btn.none { opacity: .6; }
+.site-btn.none .dot { background: none; border: 1px dashed rgba(44, 42, 37, .6); width: 8px; height: 8px; }
+
+.about { margin-top: 32px; font-size: 14px; color: var(--ink-soft); }
+.about summary { cursor: pointer; color: var(--ink); font-size: 15px; }
+.about p { margin: 10px 0 0; }
+
+/* detail */
+.back { background: none; border: 0; padding: 16px 26px 12px; font-size: 14px; color: var(--ink-soft); display: block; }
+.back:hover { color: var(--ink); }
+.back::before { content: "› "; }
+.photo { margin: 0 14px; border-radius: 6px; overflow: hidden; background: var(--sand-deep); border: 1px solid var(--rule); }
+.photo img { display: block; width: 100%; aspect-ratio: 3 / 2; object-fit: cover; filter: sepia(.12) saturate(.92); }
+.photo figcaption { font-size: 11.5px; padding: 4px 12px 5px; color: var(--ink-faint); }
+.photo figcaption a { color: inherit; }
+.d-pad { padding: 18px 26px 40px; }
+.d-pad h2 { border: 0; font-size: 29px; line-height: 1.15; margin: 0; padding: 0; text-wrap: balance; }
+.status { display: inline-block; margin: 14px 0 0; padding: 3px 12px; font-size: 13.5px; border: 1px solid currentColor; border-radius: 20px; }
+.status.yes { color: var(--tile); background: var(--tile-wash); border-color: rgba(181, 83, 58, .5); }
+.status.no { color: var(--ink-soft); border-style: dashed; border-color: rgba(44, 42, 37, .35); }
+.d-desc { margin: 14px 0 0; font-size: 16px; }
+.d-note { margin: 10px 0 0; font-size: 13.5px; color: var(--ink-faint); }
+.facts { margin: 18px 0 0; padding: 14px 0 0; border-top: 1px solid var(--rule); display: grid; grid-template-columns: auto 1fr; gap: 4px 16px; font-size: 14.5px; }
+.facts dt { color: var(--ink-faint); }
+.facts dd { margin: 0; }
+.facts button { background: none; border: 0; padding: 0; color: var(--sea); text-decoration: underline; text-decoration-color: rgba(47, 124, 130, .4); text-underline-offset: 3px; text-align: start; }
+.d-pad h3 { font-family: var(--display); font-weight: 400; font-size: 20px; margin: 26px 0 6px; }
+.links { margin: 18px 0 0; padding: 14px 0 0; border-top: 1px solid var(--rule); display: flex; flex-wrap: wrap; gap: 6px 18px; font-size: 14.5px; }
+.links.nav { border-top: 0; margin-top: 6px; padding-top: 0; gap: 8px; }
+.links.nav a { border: 1px solid rgba(44, 42, 37, .28); color: var(--ink); text-decoration: none; padding: 6px 14px; border-radius: 20px; font-size: 14px; transition: border-color .12s, color .12s; }
+.links.nav a:hover { border-color: var(--sea); color: var(--sea); }
+
+/* popup on a stretch of line */
+.pop .leaflet-popup-content-wrapper { background: rgba(243, 232, 205, .95); color: var(--ink); border-radius: 8px; border: 1px solid rgba(44, 42, 37, .22); box-shadow: none; }
+.pop .leaflet-popup-tip { background: rgba(243, 232, 205, .95); box-shadow: none; }
+.pop .leaflet-popup-content { margin: 13px 16px; font-family: var(--serif); font-size: 14.5px; line-height: 1.5; direction: rtl; text-align: start; }
+.pop .leaflet-popup-content p { margin: 0 0 6px; }
+.pop-h.yes { color: var(--tile); }
+.pop-h.no { color: var(--ink-soft); }
+.pop-links { display: flex; flex-wrap: wrap; gap: 4px 12px; }
+.pop .leaflet-popup-content a { color: var(--sea); }
+.pop-more { background: none; border: 0; padding: 0; color: var(--ink-soft); text-decoration: underline; text-underline-offset: 3px; font-size: 14px; }
+.leaflet-container a.leaflet-popup-close-button { left: 2px; right: auto; color: var(--ink-faint); }
+
+/* --------------------------------------------------------------- mobile */
+@media (max-width: 760px) {
+  #panel { top: auto; left: 0; right: 0; bottom: 0; width: auto; height: 66dvh; max-height: calc(100dvh - 56px); border-width: 1px 0 0; border-radius: 14px 14px 0 0;
+    transform: translateY(calc(100% - 58px - env(safe-area-inset-bottom))); transition: transform .28s cubic-bezier(.2, .8, .2, 1); }
+  #panel.open { transform: none; }
+  #handle { display: grid; grid-template-columns: 1fr auto; align-items: center; gap: 2px 10px; width: 100%; min-height: 58px; padding: 14px 20px 8px; border: 0; border-bottom: 1px solid var(--rule); background: transparent; color: var(--ink); text-align: start; position: relative; flex: none; }
+  .grip { position: absolute; top: 6px; left: 50%; width: 34px; height: 3px; margin-left: -17px; border-radius: 2px; background: rgba(44, 42, 37, .28); }
+  .handle-title { font-family: var(--display); font-size: 21px; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
+  .handle-hint { font-size: 13px; color: var(--ink-soft); }
+  .masthead h1 { display: none; }
+  .masthead { padding: 14px 20px 14px; }
+  .masthead .vignette { width: 120px; margin-bottom: 8px; }
+  .masthead .ota { display: none; }
+  .masthead .sub { margin: 0; }
+  .pad { padding: 16px 20px calc(36px + env(safe-area-inset-bottom)); }
+  .back { padding: 12px 20px 10px; }
+  .photo { margin: 0 12px; }
+  .d-pad { padding: 14px 20px calc(36px + env(safe-area-inset-bottom)); }
+  .mapctl { top: 10px; left: 10px; }
+  .leaflet-control-zoom { display: none; }
+  .leaflet-bottom { bottom: calc(58px + env(safe-area-inset-bottom)); }
+}
+
+@media (min-width: 761px) {
+  .leaflet-right { right: calc(var(--panel-w) + 24px); }
+  .leaflet-bottom.leaflet-left { bottom: 8px; left: 6px; }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  #panel, .mk, .mn { transition: none; }
+}

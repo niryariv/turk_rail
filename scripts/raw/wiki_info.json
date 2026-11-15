@@ -1,0 +1,345 @@
+{
+ "מוזיאון רכבת ישראל": {
+  "lat": 32.81119167,
+  "lon": 35.00671111,
+  "thumb": "https://upload.wikimedia.org/wikipedia/he/e/e3/%D7%9C%D7%95%D7%92%D7%95_%D7%9E%D7%95%D7%96%D7%99%D7%90%D7%95%D7%9F_%D7%94%D7%A8%D7%9B%D7%91%D7%AA.png?utm_source=he.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "img": "לוגו_מוזיאון_הרכבת.png",
+  "extract": "מוזיאון רכבת ישראל הוא מוזיאון הרכבת הלאומי בישראל. המוזיאון נמצא בבעלות רכבת ישראל וממוקם בתחנת הרכבת חיפה מזרח. תחנה זו הייתה בעבר תחנת הרכבת העיקרית בחיפה, והיום אינה פעילה לתנועת נוסעים."
+ },
+ "תחנת הרכבת ראש העין – דרום": {
+  "lat": 32.10416667,
+  "lon": 34.93472222,
+  "thumb": "https://upload.wikimedia.org/wikipedia/he/9/93/Rosh_Hahyin_Darom_Railway_Station.jpg?utm_source=he.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "img": "Rosh_Hahyin_Darom_Railway_Station.jpg",
+  "extract": "תחנת הרכבת ראש העין – דרום (כשהייתה התחנה היחידה בעיר נקראה תחנת ראש העין) הייתה בעבר תחנת נוסעים של רכבת ישראל בעיר ראש העין. התחנה ממוקמת בסמוך לכביש 6, תל אפק והעיר ראש העין.\nלפי תוכנית שאישרה הוועדה לתשתיות לאומיות, הייתה עתידה התחנה לשוב ולפעול עם פתיחתה המחודשת של המסילה המזרחית בשנת 2026."
+ },
+ "תחנת הרכבת דיר סניד": {
+  "lat": 31.570551,
+  "lon": 34.553896,
+  "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/08/Dir_Snid_Train_Station_12_%28Large%29_-_main_building.jpg/960px-Dir_Snid_Train_Station_12_%28Large%29_-_main_building.jpg?utm_source=he.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "img": "Dir_Snid_Train_Station_12_(Large)_-_main_building.jpg",
+  "extract": "תחנת הרכבת דיר סניד (בערבית: دير سنيد, באנגלית: Deir Suneid) היא תחנת רכבת היסטורית לנוסעים ולמשא שהוקמה על ידי הרכבת המנדטורית ושימשה גם את רכבת ישראל עד שנת 1973, בשם \"תחנת הרכבת יד מרדכי\". שרידי התחנה, שלושה מבנים, שוכנים מזרחית לנתיב העשרה ולכביש 4, סמוך לרצועת עזה."
+ },
+ "תחנת הרכבת מסעודיה": {
+  "lat": 32.2816,
+  "lon": 35.17665,
+  "thumb": "https://thumb.wikimedia.org/wikipedia/he/thumb/7/79/Sebastia_station.jpg/960px-Sebastia_station.jpg?utm_source=he.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "img": "Sebastia_station.jpg",
+  "extract": "תחנת הרכבת מסעודיה ליד סבסטיה הייתה התחנה הרביעית (מ-6 תחנות) שבנו הטורקים בין השנים 1912 ל-1915 לאורך מסילת השומרון."
+ },
+ "תחנת הרכבת סג'ד": {
+  "lat": 31.79268,
+  "lon": 34.895389,
+  "thumb": "https://thumb.wikimedia.org/wikipedia/he/thumb/a/a3/Turkish_Sajad_Station.jpg/960px-Turkish_Sajad_Station.jpg?utm_source=he.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "img": "Turkish_Sajad_Station.jpg",
+  "extract": "תחנת הרכבת סג'ד (בערבית: سجد) היא תחנת רכבת היסטורית על מסילת הרכבת יפו–ירושלים. מיקומה של התחנה בקטע המסילה בין נען לבית שמש בסמוך לנחל שורק, כשניים וחצי ק\"מ ממזרח לתחנת הרכבת נחל שורק, בסמוך לכפר סג'ד שהיה במקום עד למלחמת העצמאות."
+ },
+ "תחנת הרכבת רינתיה": {
+  "lat": 32.041815,
+  "lon": 34.935714,
+  "thumb": "https://thumb.wikimedia.org/wikipedia/he/thumb/3/38/IL_Rinatiya_station.jpg/960px-IL_Rinatiya_station.jpg?utm_source=he.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "img": "IL_Rinatiya_station.jpg",
+  "extract": "תחנת הרכבת רינתיה (בערבית: رنتيّة, רנתיה, באנגלית: Rantiya) הייתה תחנת רכבת על המסילה המזרחית. התחנה שכנה בקטע המסילה בין לוד לראש העין, בפאתי המושב רינתיה ובסמוך למושבים גבעת כ\"ח ובני עטרות."
+ },
+ "תחנת הרכבת אחיטוב": {
+  "lat": 32.3835558,
+  "lon": 35.001935,
+  "thumb": "https://thumb.wikimedia.org/wikipedia/he/thumb/8/89/IL_Qaqun_station.jpg/960px-IL_Qaqun_station.jpg?utm_source=he.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "img": "IL_Qaqun_station.jpg",
+  "extract": "תחנת הרכבת אחיטוב או תחנת הרכבת קאקון (שם קודם בערבית: قاقون, קאקון באנגלית: Qaqun) היא תחנת רכבת היסטורית על המסילה המזרחית. התחנה שכנה בקטע המסילה בין טולכרם לחדרה, כשלושה קילומטרים מצפון למה שהיה הכפר הערבי קאקון שננטש במלחמת העצמאות, וכיום כקילומטר ממזרח למושב אחיטוב."
+ },
+ "מסילת השומרון": {
+  "lat": null,
+  "lon": null,
+  "thumb": "https://upload.wikimedia.org/wikipedia/commons/e/e4/The_train_tunnel_in_Samaria.JPG?utm_source=he.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "img": "The_train_tunnel_in_Samaria.JPG",
+  "extract": "מסילת השומרון (עפולה–ג'נין–מסעודיה–שכם) היא מסילת רכבת היסטורית, עיקרה לאורכה של הארץ, שנסללה בשיתוף פעולה בין הטורקים לגרמנים בין השנים 1912 ל-1914. מוצאה של המסילה בצומת הרכבות עפולה לצד מסילת העמק ומשם נסללה דרומה עד לתחנת הרכבת מסעודיה כ־12 ק\"מ צפונית לשכם, ומשם המשיכה דרום מזרחה לשכם. על פי התכנון המקורי נועדה המסילה לחבר את ירושלים אל מסילת הרכבת החיג'אזית באמצעות שלוחת רכבת העמק."
+ },
+ "תחנת הרכבת אייל": {
+  "lat": 32.21156944,
+  "lon": 34.96391111,
+  "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1c/08.04.25_02_Eyal_Train_Station.JPG/960px-08.04.25_02_Eyal_Train_Station.JPG?utm_source=he.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "img": "08.04.25_02_Eyal_Train_Station.JPG",
+  "extract": "תחנת הרכבת אייל או תחנת הרכבת קלקיליה (שם קודם בערבית: قلقيلية, קלקיליה באנגלית Qalqilyah) היא תחנת רכבת היסטורית על המסילה המזרחית. התחנה שכנה בקטע המסילה בין טולכרם לראש העין, כקילומטר וחצי ממערב לקיבוץ אייל וכ-2.5 קילומטרים מצפון מערב לקלקיליה."
+ },
+ "תחנת הרכבת טולכרם": {
+  "lat": 32.30771111,
+  "lon": 35.01563056,
+  "thumb": "https://thumb.wikimedia.org/wikipedia/he/thumb/5/5b/Tulkarm_station.jpg/960px-Tulkarm_station.jpg?utm_source=he.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "img": "Tulkarm_station.jpg",
+  "extract": "תחנת הרכבת טולכרם (בערבית: طولكرم, באנגלית: Tulkarm) היא תחנת רכבת וצומת מסילתית היסטוריים ממערב לעיר טולכרם – תחנת המוצא של המסילה המזרחית ונקודת מפגשה עם מסילת השומרון. שרידי מבני התחנה ומגדל המים שלה שוכנים כיום בתוך שטח אזור התעשייה ניצני שלום, דרום-מזרחית למחלף ניצני עוז, בעוד המסילות שעברו במקום פורקו במהלך השנים."
+ },
+ "תחנת הרכבת שכם": {
+  "lat": 32.219549,
+  "lon": 35.266303,
+  "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b6/Building_no_free_image_yet-he.svg/960px-Building_no_free_image_yet-he.svg.png?utm_source=he.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "img": "Building_no_free_image_yet-he.svg",
+  "extract": "תחנת הרכבת בשכם (בערבית: نابلس - נַאבְּלוּס) הייתה התחנה הדרומית ביותר בקו מסילת השומרון. סלילת המסילה לשכם הושלמה בראשית שנת 1914 כחלק ממסילת השומרון שהיוותה הסתעפות של מסילת הרכבת החיג'אזית. קו הרכבת תוכנן להגיע עד לירושלים, אך הגיע בסופו של דבר רק עד שכם."
+ },
+ "גשר הרכבת מעל נחל פטיש": {
+  "lat": null,
+  "lon": null,
+  "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d0/Turkish_railway_bridge_north_of_be%27er_sheva.jpg/960px-Turkish_railway_bridge_north_of_be%27er_sheva.jpg?utm_source=he.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "img": "Turkish_railway_bridge_north_of_be'er_sheva.jpg",
+  "extract": "גשר הרכבת מעל נחל פטיש הוא גשר רכבת שהוקם על ידי העות'מאנים מעל ערוץ נחל פטיש בזמן מלחמת העולם הראשונה כחלק ממסילת הברזל מנחל שורק לקוסיימה. הגשר נמצא בסמוך לכביש 25 בין צומת הנשיא לשדה תימן, כשלושה וחצי קילומטר דרומית לצומת הנשיא. במשך שנים רבות עבר מעל הגשר כביש עזה-באר שבע וכביש תל אביב-באר שבע."
+ },
+ "שלושת גשרי הירדן בג'יסר אל-מג'מעייה": {
+  "lat": null,
+  "lon": null,
+  "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/Jiser_el_Majmaiya_from_air_%28cropped%29.jpg/960px-Jiser_el_Majmaiya_from_air_%28cropped%29.jpg?utm_source=he.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "img": "Jiser_el_Majmaiya_from_air_(cropped).jpg",
+  "extract": "שלושת גשרי הירדן בג'יסר אל-מג'מעייה הם שלושה גשרים שנבנו מעל נהר הירדן באתר ג'יסר אל-מג'מעייה (כיום ליד קיבוץ גשר בעמק בית שאן). שניים מהם שימשו למעבר הולכי רגל ורכב והשלישי למעבר רכבת. הגשרים נבנו בנקודת מעבר אסטרטגית בין עבר הירדן לים התיכון ולכן היוו סלע מחלוקת לאורך ההיסטוריה."
+ },
+ "תחנת הרכבת ג'נין": {
+  "lat": null,
+  "lon": null,
+  "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e1/Carmel.svg/960px-Carmel.svg.png?utm_source=he.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "img": "Carmel.svg",
+  "extract": "תחנת הרכבת ג'נין הייתה התחנה השנייה (מתוך שש) במסילת השומרון שהובילה מעפולה לשכם. על פי התכנון המקורי נועדה המסילה לחבר את ירושלים אל מסילת הרכבת החיג'אזית באמצעות שלוחת רכבת העמק, אך בפועל צורכי מלחמת העולם הראשונה הביאו לחיבורה למסילה המזרחית, באמצעות שלוחה מתחנת הרכבת מסעודיה מערבה לכיוון טולכרם. בניית התחנה החלה בשנת 1912 בידי חברה צרפתית והתחנה נחנכה בשנת 1913 לנסיעות לרכבת העמק בעפולה."
+ },
+ "תל ניצנה": {
+  "lat": 30.87555556,
+  "lon": 34.43416667,
+  "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c8/NizanaFrDo0078.JPG/960px-NizanaFrDo0078.JPG?utm_source=he.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "img": "NizanaFrDo0078.JPG",
+  "extract": "תל ניצנה הוא אתר ארכאולוגי, מקומה של העיר הקדומה ניצנה, הממוקמת בנגב המערבי על מערך דרכים המקושר לדרך הבשמים הקדומה, ובקרבת כפר הנוער ניצנה והיישוב עזוז של היום. בניצנה נמצאו עדויות לפעילות אנושית ולהתיישבות נבטית בין המאה הראשונה לפנה\"ס עד המאה השביעית ולאחר מכן בתחילת המאה העשרים. בחפירות באתר בשנים 1935–1937 נתגלו הפפירוסים של ניצנה, שהם מקור היסטורי חשוב לתקופה הביזנטית וראשית התקופה הערבית בנגב, ובארץ ישראל בכלל"
+ },
+ "תחנת הרכבת בר גיורא": {
+  "lat": 31.747697,
+  "lon": 35.073997,
+  "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7a/BarGioraRailwayStation1.jpg/960px-BarGioraRailwayStation1.jpg?utm_source=he.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "img": "BarGioraRailwayStation1.jpg",
+  "extract": "תחנת הרכבת בר גיורא (השם הקודם, בערבית, עד 1948: دير الشيخ, תעתיק: דיר א-שייח', באנגלית: Deir Esh Sheikh Rail Station‏) היא תחנת רכבת תפעולית על מסילת הרכבת יפו–ירושלים. מיקום התחנה בערוץ נחל שורק כשני קילומטר צפונית למושב בר גיורא."
+ },
+ "תחנת הרכבת הטורקית בבאר שבע": {
+  "lat": 31.24537,
+  "lon": 34.784879,
+  "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0f/Turkish_train_bs.JPG/960px-Turkish_train_bs.JPG?utm_source=he.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "img": "Turkish_train_bs.JPG",
+  "extract": "תחנת הרכבת הטורקית בבאר שבע היא תחנת רכבת היסטורית שהוקמה על ידי העות'מאנים ב-1915. התחנה ממוקמת מצפון לעיר העתיקה של באר שבע והיא אתר מורשת.\nבשטח התחנה הוקם גם מתחם הקטר 70414 שגם הוא אתר מורשת."
+ },
+ "תחנת הרכבת נחל שורק": {
+  "lat": 31.80637,
+  "lon": 34.87357,
+  "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a1/Vadi_tzrar_sorek_rail_station_efi_elian_free.JPG/960px-Vadi_tzrar_sorek_rail_station_efi_elian_free.JPG?utm_source=he.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "img": "Vadi_tzrar_sorek_rail_station_efi_elian_free.JPG",
+  "extract": "תחנת הרכבת נחל שורק הוקמה ב-1915 בשם \"תחנת הרכבת ואדי צראר\" כתחנת צומת על המסילה המזרחית העות'מאנית בסמוך לפרוץ המערכה על סיני וארץ ישראל והייתה לאבן הראשה של הרכבת בארץ ישראל במלחמת העולם הראשונה. סביב \"תחנת הצומת\" התפתח מרחב בעל חשיבות לוגיסטית ואסטרטגית, שכלל מנחתי תעופה, הן עבור הברית העות'מאנית/גרמנית, ולאחר כיבושו ב-1917, עבור חיל המשלוח המצרי בפיקוד בריטי. עם תום המלחמה נותר המרחב צומת רכבות ומרכז לוגיסטי צבאי"
+ },
+ "גשר הרכבת הטורקי על נחל באר שבע": {
+  "lat": 31.234325,
+  "lon": 34.803121,
+  "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e7/Turkish_bridge_bs.JPG/960px-Turkish_bridge_bs.JPG?utm_source=he.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "img": "Turkish_bridge_bs.JPG",
+  "extract": "גשר הרכבת הטורקי על נחל באר שבע הוא גשר קשתות מאבן שנבנה בשנת 1916 בעבודה עברית עבור הצבא העות'מאני, כחלק ממסילת הרכבת מנחל שורק לקוסיימה - מסעף של המסילה המזרחית הצבאית למערב חצי האי סיני, על-מנת להוביל חיילים וציוד צבאי כחלק מהמאמץ הלוגיסטי העות'מאני-גרמני במערכה על סיני וארץ ישראל במלחמת העולם הראשונה. השימוש בגשר פסק במאי 1917; מסילת הרכבת רפיח-באר שבע הבריטית שנשלמה ונחנכה במאי 1918 הגיעה לבאר שבע מצפון מערב, וה"
+ },
+ "באר משאבים": {
+  "lat": 31.01605556,
+  "lon": 34.76302778,
+  "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ce/BeershebaNorthNegev.svg/960px-BeershebaNorthNegev.svg.png?utm_source=he.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "img": "BeershebaNorthNegev.svg",
+  "extract": "באר משאבים הוא השם העברי שניתן לאזור בו היה הכפר הבדואי ביר עסלוג'. המקום נמצא בנגב ליד צומת משאבים, דרומית לקיבוץ רביבים. בצומת אסטרטגי זה הקימו הטורקים, ולאחריהם הבריטים, מחנות צבא גדולים."
+ },
+ "גשר הרכבת הטורקי על נחל האלה": {
+  "lat": 31.73773,
+  "lon": 34.756751,
+  "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c6/Turky_train_rail_bridgh_kefar_achim_kmalachi_efi_elian_4.JPG/960px-Turky_train_rail_bridgh_kefar_achim_kmalachi_efi_elian_4.JPG?utm_source=he.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "img": "Turky_train_rail_bridgh_kefar_achim_kmalachi_efi_elian_4.JPG",
+  "extract": "גשר הרכבת הטורקי בנחל האלה הוא גשר רכבת הבנוי מאבן מסותתת ועובר מעל נחל האלה בשתי קשתות רחבות. הוא נבנה בשנת 1917 על ידי מהנדסים גרמניים עבור הצבא העות'מאני, ושימש את הרכבת הצבאית שנעה על המסילה המזרחית מתינה (כפר מנחם) לבית חאנון (שליד עזה) בזמן המערכה על סיני וארץ ישראל במלחמת העולם הראשונה כדי לשלוח כוחות לחזית המלחמה מול הבריטים. הגשר הוא מהשרידים האחרונים של מתקני המסילה המזרחית של הרכבת העות'מאנית בארץ ישראל במ"
+ },
+ "גשר הרכבת הטורקי על נחל בארותיים": {
+  "lat": 30.795221,
+  "lon": 34.468285,
+  "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fa/%D7%92%D7%A9%D7%A8_%D7%94%D7%A8%D7%9B%D7%91%D7%AA_%D7%94%D7%98%D7%95%D7%A8%D7%A7%D7%99_%D7%94%D7%9E%D7%A9%D7%95%D7%A4%D7%A5_%D7%A2%D7%9C_%D7%A0%D7%97%D7%9C_%D7%91%D7%90%D7%A8%D7%95%D7%AA%D7%99%D7%99%D7%9D_%D7%9E%D7%91%D7%98_%D7%9E%D7%A7%D7%A8%D7%95%D7%91.jpg/960px-%D7%92%D7%A9%D7%A8_%D7%94%D7%A8%D7%9B%D7%91%D7%AA_%D7%94%D7%98%D7%95%D7%A8%D7%A7%D7%99_%D7%94%D7%9E%D7%A9%D7%95%D7%A4%D7%A5_%D7%A2%D7%9C_%D7%A0%D7%97%D7%9C_%D7%91%D7%90%D7%A8%D7%95%D7%AA%D7%99%D7%99%D7%9D_%D7%9E%D7%91%D7%98_%D7%9E%D7%A7%D7%A8%D7%95%D7%91.jpg?utm_source=he.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "img": "גשר_הרכבת_הטורקי_המשופץ_על_נחל_בארותיים_מבט_מקרוב.jpg",
+  "extract": "גשר הרכבת הטורקי על נחל בארותיים נמצא ליד היישוב עזוז דרומית מערבית לניצנה על נחל בארותיים. זהו גשר קשתות מאבן שנבנה ב-1916 על ידי צבא האימפריה העות'מאנית בעת מלחמת העולם הראשונה. הגשר נבנה כחלק ממיזם \"השלוחה המצרית\" של המסילה המזרחית לכיוון עוג'ה אל-חפיר בואכה קוסיימה במזרח חצי האי סיני, והוא אחד מסדרה של גשרים ומעברי מים על תוואי המסילה."
+ },
+ "גשר הרכבת הטורקי על נחל יששכר": {
+  "lat": 32.72494247,
+  "lon": 35.09776639,
+  "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/91/0022%D7%92%D7%A9%D7%A8_%D7%A8%D7%9B%D7%91%D7%AA_%D7%94%D7%A2%D7%9E%D7%A7_%D7%9E%D7%A2%D7%9C_%D7%A0%D7%97%D7%9C_%D7%99%D7%A9%D7%A9%D7%9B%D7%A8_%D7%A9%D7%91%D7%A2%D7%9E%D7%A7_%D7%91%D7%99%D7%AA_%D7%A9%D7%90%D7%9F_%D7%9C%D7%99%D7%93_%D7%97%D7%95%D7%95%D7%AA_%D7%93%D7%95%D7%A9%D7%9F.jpg/960px-0022%D7%92%D7%A9%D7%A8_%D7%A8%D7%9B%D7%91%D7%AA_%D7%94%D7%A2%D7%9E%D7%A7_%D7%9E%D7%A2%D7%9C_%D7%A0%D7%97%D7%9C_%D7%99%D7%A9%D7%A9%D7%9B%D7%A8_%D7%A9%D7%91%D7%A2%D7%9E%D7%A7_%D7%91%D7%99%D7%AA_%D7%A9%D7%90%D7%9F_%D7%9C%D7%99%D7%93_%D7%97%D7%95%D7%95%D7%AA_%D7%93%D7%95%D7%A9%D7%9F.jpg?utm_source=he.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "img": "0022גשר_רכבת_העמק_מעל_נחל_יששכר_שבעמק_בית_שאן_ליד_חוות_דושן.jpg",
+  "extract": "גשר הרכבת הטורקי נחל יששכר הוא גשר המורכב משלוש קשתות המורכבות מאבני בזלת שחורות משולבות באבנים לבנות, שנבנה בין 1905-1904 על ידי האימפריה העות'מאנית כחלק ממסילת רכבת העמק. הגשר נמצא ליד חוות דושן צפונית לחמדיה עובר מעל נחל יששכר. הגשר נבנה כחלק ממסילה שחיברה את בית שאן עם צמח, והוא אחד מסדרה של גשרים ומעברי מים על תוואי המסילה."
+ },
+ "גשר הרכבת הטורקי על נחל תבור": {
+  "lat": 32.60444444,
+  "lon": 35.55286111,
+  "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9f/0017%D7%92%D7%A9%D7%A8_%D7%A8%D7%9B%D7%91%D7%AA_%D7%94%D7%A2%D7%9E%D7%A7_%D7%9E%D7%A2%D7%9C_%D7%A0%D7%97%D7%9C_%D7%91%D7%99%D7%A8%D7%94_%D7%94%D7%95%D7%90_%D7%A0%D7%97%D7%9C_%D7%AA%D7%91%D7%95%D7%A8.jpg/960px-0017%D7%92%D7%A9%D7%A8_%D7%A8%D7%9B%D7%91%D7%AA_%D7%94%D7%A2%D7%9E%D7%A7_%D7%9E%D7%A2%D7%9C_%D7%A0%D7%97%D7%9C_%D7%91%D7%99%D7%A8%D7%94_%D7%94%D7%95%D7%90_%D7%A0%D7%97%D7%9C_%D7%AA%D7%91%D7%95%D7%A8.jpg?utm_source=he.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "img": "0017גשר_רכבת_העמק_מעל_נחל_בירה_הוא_נחל_תבור.jpg",
+  "extract": "גשר הרכבת הטורקי נחל תבור נמצא צפונית לבית שאן בין נווה אור לבין אתר גשר הישנה ליד חרבת יקוש, עובר מעל נחל תבור. הגשר מורכב מחמש קשתות הבנוי מאבנים מסותתות לבנות, שנבנה בין 1905-1904 על ידי האימפריה העות'מאנית כחלק ממסילת רכבת העמק. הגשר נבנה כחלק ממסילה שחיברה בית שאן עם צמח, והוא אחד מסדרה של גשרים ומעברי מים על תוואי המסילה."
+ },
+ "גשר הרכבת הטורקי נחל לבן": {
+  "lat": null,
+  "lon": null,
+  "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c3/Lavan_stream_-_Turkish_train_bridge_3.jpg/960px-Lavan_stream_-_Turkish_train_bridge_3.jpg?utm_source=he.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "img": "Lavan_stream_-_Turkish_train_bridge_3.jpg",
+  "extract": "גשר הרכבת הטורקי על נחל לבן הוא גשר אבן שנבנה מעל נחל לבן, בתקופת מלחמת העולם הראשונה כחלק מהתשתית שהוקמה עבור מסילת הרכבת מנחל שורק לקוסיימה. הגשר פוצץ על ידי הבריטים ב-1917 על מנת למנוע מהטורקים העברת כוחות וציוד לסיני."
+ },
+ "גשר הרכבת הטורקי על נחל ניצנה": {
+  "lat": null,
+  "lon": null,
+  "thumb": "https://upload.wikimedia.org/wikipedia/commons/1/16/El_Auja_%28Auja_el_Hafir%29%2C_Palestine._c.1917-05._The_damaged_remains_of_a_bridge_which_was_blown_up_by_members_of_the_Camel_Brigade_and_C_Squadron.jpg?utm_source=he.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "img": "El_Auja_(Auja_el_Hafir),_Palestine._c.1917-05._The_damaged_remains_of_a_bridge_which_was_blown_up_by_members_of_the_Camel_Brigade_and_C_Squadron.jpg",
+  "extract": "גשר הרכבת הטורקי על נחל ניצנה היה גשר אבן שנבנה מעל נחל ניצנה (ואדי אל עוג'ה), בתקופת מלחמת העולם הראשונה כחלק מהתשתית שהקימו הטורקים עבור מסילת הרכבת מנחל שורק לקוסיימה. הגשר פוצץ על ידי הבריטים על מנת למנוע מהטורקים העברת כוחות וציוד לסיני."
+ },
+ "גשר הרכבת אל חמה": {
+  "lat": null,
+  "lon": null,
+  "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0b/T_E_Lawrence_and_the_Arab_Revolt_1916_-_1918_Q59615.jpg/960px-T_E_Lawrence_and_the_Arab_Revolt_1916_-_1918_Q59615.jpg?utm_source=he.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "img": "T_E_Lawrence_and_the_Arab_Revolt_1916_-_1918_Q59615.jpg",
+  "extract": "גשר הרכבת אל חַמָּה (גשר חמה, גשר ג'סר אל חאווי, גשר הרוחות) הוא גשר שנבנה על ידי העות'מאנים, מעל הירמוך, בקרבת אתר אל-חמה, ועליו הונחה מסילת הרכבת דרעא-צמח. הגשר חובל פעמיים על מנת למנוע את תנועת הרכבות בין שתי גדות הירדן. לאחר שהופל בליל הגשרים לא תוקן עוד."
+ },
+ "גשר הרכבת הטורקי על נחל הקישון": {
+  "lat": null,
+  "lon": null,
+  "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5e/PikiWiki_Israel_53891_the_railway_bridge_over_the_kishon.jpg/960px-PikiWiki_Israel_53891_the_railway_bridge_over_the_kishon.jpg?utm_source=he.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "img": "PikiWiki_Israel_53891_the_railway_bridge_over_the_kishon.jpg",
+  "extract": "גשר הרכבת הטורקי על נחל הקישון (בתעתיק לעברית: גִ'סְר אַל-חָארִתִ'יֶּה) הוא גשר הממוקם 13 ק\"מ דרומית מזרחית לחיפה. הוא בנוי מאבן מסותתת ונתמך בשש קשתות. נבנה על ידי בעלת הזיכיון השנייה לסלילת קו חיפה-דמשק החברה הבריטית S.O.R - Syrian-Ottoman Railway (\"מסילת הברזל הסורית-עת'מאנית\") טרם פשטה את הרגל ונטשה את המיזם."
+ },
+ "גשר נחל שקמה": {
+  "lat": null,
+  "lon": null,
+  "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/03/PikiWiki_Israel_19281_Turkish_Bridge_on_Vadi_Pura.JPG/960px-PikiWiki_Israel_19281_Turkish_Bridge_on_Vadi_Pura.JPG?utm_source=he.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "img": "PikiWiki_Israel_19281_Turkish_Bridge_on_Vadi_Pura.JPG",
+  "extract": "גשר נחל שקמה או גשר הרכבת הוא גשר שעובר מעל נחל שקמה, וממוקם בסמוך לשמורת הטבע פורה. הוא אחד מהגשרים הרבים שנבנו בידי העות'מאנים ב-1916 ברחבי הנגב המערבי כתשתית להנחת מסילת הרכבת מנחל שורק לקוסיימה. מסילת רכבת זו אפשרה מעבר כוחות ואספקה רבים דרומה כדי לתמוך במאמץ הטורקי לכבוש את תעלת סואץ בתקופת המערכה על סיני וארץ ישראל במלחמת העולם הראשונה."
+ },
+ "תחנת הרכבת סמח (צמח)": {
+  "lat": 32.704444,
+  "lon": 35.5932018,
+  "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/81/0018%D7%91%D7%99%D7%A0%D7%99%D7%9F_%D7%AA%D7%97%D7%A0%D7%AA_%D7%A8%D7%9B%D7%91%D7%AA_%D7%94%D7%A2%D7%9E%D7%A7_%D7%91%D7%AA%D7%97%D7%A0%D7%AA_%D7%A1%D7%9E%D7%97_%D7%95%D7%91%D7%99%D7%AA_%D7%9E%D7%A0%D7%94%D7%9C_%D7%94%D7%AA%D7%97%D7%A0%D7%94.jpg/960px-0018%D7%91%D7%99%D7%A0%D7%99%D7%9F_%D7%AA%D7%97%D7%A0%D7%AA_%D7%A8%D7%9B%D7%91%D7%AA_%D7%94%D7%A2%D7%9E%D7%A7_%D7%91%D7%AA%D7%97%D7%A0%D7%AA_%D7%A1%D7%9E%D7%97_%D7%95%D7%91%D7%99%D7%AA_%D7%9E%D7%A0%D7%94%D7%9C_%D7%94%D7%AA%D7%97%D7%A0%D7%94.jpg?utm_source=he.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "img": "0018בינין_תחנת_רכבת_העמק_בתחנת_סמח_ובית_מנהל_התחנה.jpg",
+  "extract": "תחנת הרכבת סמח' הייתה תחנת הרכבת של העיירה הערבית סמח' (سمخ) שהייתה בדרומה של הכנרת עד למלחמת העצמאות. התחנה היא שריד ממסילת רכבת העמק שהוקמה על ידי הסולטאן הטורקי עבדול חמיד השני במטרה לקשר את העיר דמשק עם חוף הים התיכון. שרידי התחנה המשוקמים מצויים בתחום המכללה האקדמית כנרת שבעמק הירדן, בסמוך למרכז האזורי צמח מדרום לכביש 92 בקטע מ\"צומת צמח\" ל\"צומת מעגן\"."
+ },
+ "תחנת הרכבת ההיסטורית של ירושלים": {
+  "lat": 31.76736944,
+  "lon": 35.22466944,
+  "thumb": "https://upload.wikimedia.org/wikipedia/commons/4/4f/JerusalemStation1978retouched.jpg?utm_source=he.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "img": "JerusalemStation1978retouched.jpg",
+  "extract": "תחנת הרכבת ההיסטורית של ירושלים (מכונה גם \"תחנת הרכבת הישנה\" או \"מתחם התחנה\". בפי הנהלת המקום \"התחנה הראשונה\") היא תחנת הרכבת ההיסטורית הממוקמת בשכונת בקעה בירושלים, בשטח שבין דרך חברון  ודוד רמז לדרך בית לחם, בסמוך לחאן הירושלמי. התחנה נחנכה בשנת 1892 כתחנת הקצה של קו יפו-ירושלים, קו הרכבת הראשון בארץ."
+ },
+ "תחנת הרכבת חיפה מזרח": {
+  "lat": 32.811841,
+  "lon": 35.004834,
+  "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a9/Haifa_Ost_4.jpg/960px-Haifa_Ost_4.jpg?utm_source=he.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "img": "Haifa_Ost_4.jpg",
+  "extract": "תחנת הרכבת חיפה מזרח היא תחנת הרכבת הראשונה שנבנתה בחיפה. התחנה החלה לפעול בינואר 1904 כתחנת הקצה המערבית של רכבת העמק (שלוחת מסילת הרכבת החיג'אזית). עד שנת 1937, בה נפתחה תחנת חיפה מרכז, היא נקראה תחנת חיפה."
+ },
+ "תחנת הרכבת בית שמש": {
+  "lat": 31.757436,
+  "lon": 34.990875,
+  "thumb": "https://thumb.wikimedia.org/wikipedia/he/thumb/4/47/%D7%AA%D7%9E%D7%95%D7%A0%D7%AA%D7%91%D7%99%D7%AA%D7%A9%D7%9E%D7%A9.JPG/960px-%D7%AA%D7%9E%D7%95%D7%A0%D7%AA%D7%91%D7%99%D7%AA%D7%A9%D7%9E%D7%A9.JPG?utm_source=he.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "img": "תמונתביתשמש.JPG",
+  "extract": "תחנת הרכבת בית שמש היא תחנת נוסעים של רכבת ישראל הממוקמת בצפון העיר בית שמש סמוך לאזור התעשייה הצפוני ומהווה כתחנת קצה של רכבות המגיעות מנתניה דרך תחנות תל אביב-יפו."
+ },
+ "תחנת הרכבת רמלה": {
+  "lat": 31.929356,
+  "lon": 34.876839,
+  "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d9/21-6-12_Ramla_Train_Station.jpg/960px-21-6-12_Ramla_Train_Station.jpg?utm_source=he.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "img": "21-6-12_Ramla_Train_Station.jpg",
+  "extract": "תחנת הרכבת רמלה היא תחנת נוסעים של רכבת ישראל הממוקמת ברמלה סמוך למרכז העיר, ליד צומת מעשיהו (הידועה גם כצומת תעבורה) ומהווה כתחנת ביניים בקו נתניה - בית שמש ובקו נהריה - באר שבע מרכז."
+ },
+ "תחנת הרכבת לוד": {
+  "lat": 31.945925,
+  "lon": 34.875581,
+  "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f5/Lod_new_railway_station_1.jpg/960px-Lod_new_railway_station_1.jpg?utm_source=he.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "img": "Lod_new_railway_station_1.jpg",
+  "extract": "תחנת הרכבת לוד היא תחנת נוסעים ומשא של רכבת ישראל הממוקמת בעיר לוד על מסילת יפו–ירושלים ועל מסילת לוד–אשקלון. בתחנה נמצאים משרדי ההנהלה של רכבת ישראל, והיא מהווה צומת רכבות חשוב שאליה מגיעות רכבות מרוב תחנות רכבת ישראל."
+ },
+ "תחנת הרכבת יפו": {
+  "lat": 32.059,
+  "lon": 34.7614,
+  "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/98/Jafa_Station1891.jpg/960px-Jafa_Station1891.jpg?utm_source=he.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "img": "Jafa_Station1891.jpg",
+  "extract": "תחנת הרכבת יפו (קרויה גם \"תחנת הרכבת מנשייה\") היא תחנת רכבת היסטורית הנמצאת צפונית ליפו, והיא למעשה תחנת הרכבת הראשונה שהוקמה במזרח התיכון מחוץ למצרים ולטורקיה.\nהתחנה פעלה בין השנים 1892–1948 כתחנת הקצה של מסילת הרכבת יפו–ירושלים. התחנה נסגרה בראשית מלחמת העצמאות, ולאחריה הועתקה תחנת הקצה של הקו לתחנת תל אביב דרום."
+ },
+ "תחנת הרכבת בתיר": {
+  "lat": 31.732775,
+  "lon": 35.142273,
+  "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f7/Jaffa_to_Jerusalem._Bittir_%28Baither%29_LOC_matpc.04996.jpg/960px-Jaffa_to_Jerusalem._Bittir_%28Baither%29_LOC_matpc.04996.jpg?utm_source=he.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "img": "Jaffa_to_Jerusalem._Bittir_(Baither)_LOC_matpc.04996.jpg",
+  "extract": "תחנת בתיר הוקמה כחלק מהקמת קו הרכבת לירושלים צפונית לכפר בתיר, באפיקו של נחל רפאים. החל משנת 1892 היא שימשה כתחנת ביניים קטנה למטרות מפגשי רכבות ומילוי מים בקטרי הקיטור. כיום משמשת התחנה כתחנה תפעולית בלבד."
+ },
+ "תחנת הרכבת כפר יהושע": {
+  "lat": 32.671861,
+  "lon": 35.1528,
+  "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/be/Tel_Shamam3.jpg/960px-Tel_Shamam3.jpg?utm_source=he.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "img": "Tel_Shamam3.jpg",
+  "extract": "תחנת הרכבת בכפר יהושע שנקראה תחנת תל א-שמאם הייתה אחת התחנות ברכבת העמק וחלק ממסילת הרכבת החיג'אזית. היא הייתה התחנה השלישית מבין שמונה התחנות המקוריות שנקבעו בשנת 1905, והשנייה בגודלה מבין התחנות. מיקום התחנה נקבע על פי המרחק מתחנת המוצא."
+ },
+ "תחנת הרכבת ההיסטורית של עפולה": {
+  "lat": 32.6106,
+  "lon": 35.2903,
+  "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/79/Afula_Old_Rail_Station_1.JPG/960px-Afula_Old_Rail_Station_1.JPG?utm_source=he.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "img": "Afula_Old_Rail_Station_1.JPG",
+  "extract": "תחנת הרכבת עפולה (אשר כונתה גם \"פוּלֶה\") הייתה תחנת רכבת שפעלה משנת 1905 עד לסוף שנת 1951, היא התחנה הרביעית משמונה התחנות המקוריות שנבנו לאורך השלוחה של מסילת הרכבת החיג'אזית המכונה רכבת העמק על שמו של עמק יזרעאל אותו חצתה, ומאוחר יותר תחנת הקצה של מסילת השומרון.\nהתחנה נקראה בתחילה על שם הכפר הערבי הקטן שבתחומו הוקמה, ואשר התפתח במרוצת השנים לעיר עפולה של ימינו וזאת הודות לרכבת העמק. בסמוך לתחנה נבנו מחנות צבא ושדות"
+ },
+ "תחנת הרכבת בית שאן (הישנה)": {
+  "lat": null,
+  "lon": null,
+  "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3b/PikiWiki_Israel_14982_%D7%A8%D7%9B%D7%91%D7%AA_%D7%94%D7%A2%D7%9E%D7%A7_%D7%94%D7%AA%D7%97%D7%A0%D7%94_%D7%91%D7%91%D7%99%D7%AA_%D7%A9%D7%90%D7%9F.jpg/960px-PikiWiki_Israel_14982_%D7%A8%D7%9B%D7%91%D7%AA_%D7%94%D7%A2%D7%9E%D7%A7_%D7%94%D7%AA%D7%97%D7%A0%D7%94_%D7%91%D7%91%D7%99%D7%AA_%D7%A9%D7%90%D7%9F.jpg?utm_source=he.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "img": "PikiWiki_Israel_14982_רכבת_העמק_התחנה_בבית_שאן.jpg",
+  "extract": "תחנת הרכבת בית שאן או תחנת ביסאן (בית שאן) היא אחת משמונה תחנות הרכבת המקוריות של רכבת העמק ההיסטורית, והיא ממוקמת בכניסה הצפונית לבית שאן. המבנה הוכרז כאתר מורשת על ידי המועצה לשימור אתרי מורשת בישראל.\nהתחנה נקראה בתחילה \"ביסאן\", כשמו הערבי של המקום."
+ },
+ "תחנת הרכבת אל חמה": {
+  "lat": null,
+  "lon": null,
+  "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/95/PikiWiki_Israel_13901_Turkish_railway_station_at_Hamat_Gader.JPG/960px-PikiWiki_Israel_13901_Turkish_railway_station_at_Hamat_Gader.JPG?utm_source=he.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "img": "PikiWiki_Israel_13901_Turkish_railway_station_at_Hamat_Gader.JPG",
+  "extract": "תחנת הרכבת אל חמה (El Hemme) הייתה התחנה האחרונה של רכבת העמק בגבולות ארץ ישראל המנדטורית לפני הגבול עם המנדט הצרפתי בסוריה ובלבנון. מעמק הירמוך עלתה הרכבת בעזרת גשרים ומנהרות לרמה הסורית בחורן בואכה דרעא שהייתה נקודת ההתחברות של מסילת הרכבת דרעא–צמח לקו הראשי של מסילת הרכבת החיג'אזית. התחנה ממוקמת בכניסה לאתר המרחצאות הרומי אל-חמה (כיום חמת גדר)."
+ },
+ "תחנת הרכבת אלרואי": {
+  "lat": null,
+  "lon": null,
+  "thumb": "https://thumb.wikimedia.org/wikipedia/he/thumb/3/33/%D7%90%D7%91%D7%99%D7%A9%D7%99_%D7%98%D7%99%D7%99%D7%9B%D7%A8_184.jpg/960px-%D7%90%D7%91%D7%99%D7%A9%D7%99_%D7%98%D7%99%D7%99%D7%9B%D7%A8_184.jpg?utm_source=he.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "img": "אבישי_טייכר_184.jpg",
+  "extract": "תחנת הרכבת אלרואי הייתה תחנת רכבת ששירתה את מושב אלרואי (כיום שכונה בקריית טבעון). התחנה הוקמה ב-1936 ונסגרה ב-1952.\nבסמוך לתחנה נמצא מעיין אלרואי."
+ },
+ "פארק המסילה (תל אביב)": {
+  "lat": null,
+  "lon": null,
+  "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f7/%D7%AA%D7%A6%D7%A4%D7%99%D7%AA_%D7%A2%D7%9C_%D7%A4%D7%90%D7%A8%D7%A7_%D7%94%D7%9E%D7%A1%D7%99%D7%9C%D7%94_%D7%91%D7%AA%D7%9C_%D7%90%D7%91%D7%99%D7%91_%D7%9E%D7%92%D7%A9%D7%A8_%D7%A9%D7%9C%D7%95%D7%A9_%D7%91%D7%A9%D7%9B%D7%95%D7%A0%D7%AA_%D7%A0%D7%95%D7%95%D7%94_%D7%A6%D7%93%D7%A7_02.jpg/960px-%D7%AA%D7%A6%D7%A4%D7%99%D7%AA_%D7%A2%D7%9C_%D7%A4%D7%90%D7%A8%D7%A7_%D7%94%D7%9E%D7%A1%D7%99%D7%9C%D7%94_%D7%91%D7%AA%D7%9C_%D7%90%D7%91%D7%99%D7%91_%D7%9E%D7%92%D7%A9%D7%A8_%D7%A9%D7%9C%D7%95%D7%A9_%D7%91%D7%A9%D7%9B%D7%95%D7%A0%D7%AA_%D7%A0%D7%95%D7%95%D7%94_%D7%A6%D7%93%D7%A7_02.jpg?utm_source=he.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "img": "תצפית_על_פארק_המסילה_בתל_אביב_מגשר_שלוש_בשכונת_נווה_צדק_02.jpg",
+  "extract": "פארק המסילה הוא פארק ציבורי בדרום תל אביב על תוואי מסילת הברזל העות'מאנית בסביבת נווה צדק, בין רחוב נחלת בנימין במזרח ועד למתחם התחנה ורחוב קויפמן במערב. הפארק נפתח בחלקו לציבור באוקטובר 2020. אחת ההשראות המרכזיות לפארק היא פארק המסילה הירושלמי, שנחנך בשנת 2013."
+ },
+ "פארק המסילה": {
+  "lat": null,
+  "lon": null,
+  "thumb": null,
+  "img": null,
+  "extract": "האם התכוונתם ל..."
+ },
+ "תחנת הרכבת נען": {
+  "lat": 31.8704,
+  "lon": 34.87005,
+  "thumb": "https://thumb.wikimedia.org/wikipedia/he/thumb/d/d7/%D7%AA%D7%97%D7%A0%D7%AA%D7%A0%D7%A2%D7%9F2.jpg/960px-%D7%AA%D7%97%D7%A0%D7%AA%D7%A0%D7%A2%D7%9F2.jpg?utm_source=he.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "img": "תחנתנען2.jpg",
+  "extract": "תחנת הרכבת נען הייתה בעבר תחנת משא של הרכבת המנדטורית, מיקומה ליד כפר נענה העתיק, קרוב למושב יציץ ולא רחוק מקיבוץ נען. \nתחנה זאת משמשת כצומת לקווים לירושלים (דרך בית שמש) ולבאר שבע."
+ },
+ "רכבת האלונים": {
+  "lat": 32.45985,
+  "lon": 35.00624,
+  "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/57/Track_Oak_Train_Ein_Shemer.jpg/960px-Track_Oak_Train_Ein_Shemer.jpg?utm_source=he.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "img": "Track_Oak_Train_Ein_Shemer.jpg",
+  "extract": "רכבת האלונים או מסילת הברזל העות'מאנית באזור השרון, היא מיזם תיירותי בקיבוץ עין שמר המשחזר קטע קצר מקו רכבת מימי השלטון העות'מאני בארץ ישראל.\nשמה נגזר מעצי האלון הרבים שהובילה אשר נכרתו מיער השרון."
+ },
+ "תחנת הרכבת תל אביב דרום": {
+  "lat": 32.0452,
+  "lon": 34.7866,
+  "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/44/Opening_ceremony_of_the_new_railway_station_Tel_Aviv_South_from_which_trains_to_the_southern_cities_like_Ashdod%2C_Be%27er_Sheva_and_Eilat_will_travel_in_near_future_%28FL61477943%29.jpg/960px-thumbnail.jpg?utm_source=he.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "img": "Opening_ceremony_of_the_new_railway_station_Tel_Aviv_South_from_which_trains_to_the_southern_cities_like_Ashdod,_Be'er_Sheva_and_Eilat_will_travel_in_near_future_(FL61477943).jpg",
+  "extract": "תחנת הרכבת תל אביב דרום הייתה תחנת קצה ששרתה נוסעים של רכבת ישראל על מסילת תל אביב–ירושלים החל ב-7 באוגוסט 1949, בעקבות הסכם שביתת הנשק עם ירדן, ולכל אורך שנות פעילותה. החליפה כתחנת קצה את תחנת הרכבת יפו, תחנת הקצה הקודמת על מסילת הרכבת יפו–ירושלים, שלא שבה לפעול לאחר מלחמת העצמאות. עם פתיחת תחנת הרכבת תל אביב צפון ב-20 בספטמבר 1949 (ב-1954 הוחלף שמה לתחנת בני ברק), שונה שם התחנה משמה בימי הרכבת המנדטורית, \"תחנת תל א"
+ },
+ "מגדל המים (באר שבע)": {
+  "lat": 31.24458333,
+  "lon": 34.78791667,
+  "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/55/PikiWiki_Israel_13210_The_water_tower_of_the_Turkish_railway_station_in.jpg/960px-PikiWiki_Israel_13210_The_water_tower_of_the_Turkish_railway_station_in.jpg?utm_source=he.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "img": "PikiWiki_Israel_13210_The_water_tower_of_the_Turkish_railway_station_in.jpg",
+  "extract": "מגדל המים בעיר העתיקה בבאר שבע, ניצב ברחוב הרמב\"ם 54, כ-250 מטרים דרומית-מזרחית לתחנת הרכבת הטורקית בעיר. הוא נבנה בשנת 1915, במקביל להקמת תחנת הרכבת, ומכלי המים הגליליים שניצבו בו בעבר, סיפקו את צורכיהם של קטרי הקיטור שפקדו את התחנה עד סגירתה ב-1927. \nאת מגדל המים תכנן היינריך אוגוסט מייסנר, מהנדס ומומחה בבניית מסילות רכבת ממוצא גרמני."
+ },
+ "גשר הקשתות (נחל לכיש)": {
+  "lat": 31.70141667,
+  "lon": 34.709,
+  "thumb": "https://thumb.wikimedia.org/wikipedia/he/thumb/3/37/Swafirim_bridge_efi_elian_2022.jpg/960px-Swafirim_bridge_efi_elian_2022.jpg?utm_source=he.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "img": "Swafirim_bridge_efi_elian_2022.jpg",
+  "extract": "גשר הקשתות (גשר הסוואפירים) הוא גשר לרכב שנבנה על ידי הבריטים מעל לנחל לכיש כתשתית לדרך שמחברת את רצועת עזה לירושלים (כיום כביש 3). משטח הגשר נתמך על יד קשתות ולכן כונה כך. הגשר נמצא מצפון למרכז שפירא ועין צורים."
+ }
+}

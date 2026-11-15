@@ -1,0 +1,115 @@
+<!doctype html>
+<html lang="he" dir="rtl">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>מסילות הרכבת העות'מאניות בארץ ישראל – מה נשאר בשטח</title>
+<meta name="description" content="מפה אינטראקטיבית של שרידי מסילות הרכבת העות'מאניות מהשנים 1892–1917: גשרים, תחנות, מגדלי מים וסוללות שאפשר לראות בשטח.">
+<meta name="theme-color" content="#efe3c8">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Aref+Ruqaa:wght@400;700&family=Bellefair&family=Frank+Ruhl+Libre:wght@400;500;700&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY=" crossorigin="">
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<div id="map" aria-label="מפת שרידי מסילות הרכבת העות'מאניות"></div>
+
+<aside id="panel" aria-label="מדריך למפה">
+  <button id="handle" type="button" aria-expanded="false" aria-controls="panel-body">
+    <span class="grip" aria-hidden="true"></span>
+    <span class="handle-title">מסילות הרכבת העות'מאניות</span>
+    <span class="handle-hint" id="handle-hint">למדריך</span>
+  </button>
+
+  <div id="panel-body">
+    <div id="view-home">
+      <header class="masthead">
+        <svg class="vignette" viewBox="0 0 150 52" aria-hidden="true" fill="none" stroke="#2c2a25" stroke-width="1.1" stroke-linecap="round" stroke-linejoin="round">
+          <path d="M2 44.500h146" stroke-width=".9"/>
+          <path d="M6 47h4M16 47h4M26 47h4M36 47h4M46 47h4M56 47h4M66 47h4M76 47h4M86 47h4M96 47h4M106 47h4M116 47h4M126 47h4M136 47h4" stroke-width=".8" opacity=".55"/>
+          <path d="M98 22h28v17H98z" fill="#b5533a" fill-opacity=".8"/>
+          <path d="M126 16h14v23h-14z" fill="#c9963c" fill-opacity=".75"/><path d="M124 16h18" /><path d="M129.500 21h7v6h-7z" fill="#efe3c8"/>
+          <path d="M103 22v-8h5v8" fill="#2c2a25" fill-opacity=".8"/><path d="M101.500 14h8"/>
+          <path d="M115 22v-3.500h4V22"/>
+          <path d="M98 39l-6 4h6"/>
+          <circle cx="106" cy="40" r="4.500" fill="#efe3c8"/><circle cx="118" cy="40" r="4.500" fill="#efe3c8"/><circle cx="133" cy="40" r="4.500" fill="#efe3c8"/>
+          <path d="M106 40h12" />
+          <path d="M104 10c-2-3-7-2-7 1.500-4-1-6 3-3.500 5" stroke="#6d6658"/><path d="M90 9c-2-4-9-3-9 1-4.500-1-7 3.500-4 5.500" stroke="#6d6658" opacity=".7"/><path d="M70 6c-2-3.500-8-2.500-8 1-4-1-6 3-3.500 5" stroke="#6d6658" opacity=".45"/>
+          <path d="M8 44.500c3-9 7-13 10-13s5 3 6 6c2-5 5-8 8-8s6 5 8 15" stroke="#7d8452" fill="#7d8452" fill-opacity=".25"/>
+          <path d="M50 44.500V34l7-5 7 5v10.500" fill="#d9a08c" fill-opacity=".6"/><path d="M48 34.500l9-6.500 9 6.500" stroke="#b5533a"/><path d="M55.500 44.500v-5h3v5"/>
+          <circle cx="24" cy="12" r="5" stroke="#c9963c" fill="#c9963c" fill-opacity=".35"/>
+        </svg>
+        <p class="ota" lang="ota" aria-hidden="true">دمیر یوللری</p>
+        <h1>מסילות הרכבת העות'מאניות בארץ ישראל</h1>
+        <p class="sub">שרידי המסילות של 1892–1917 שאפשר לראות בשטח</p>
+      </header>
+      <div class="tileband" aria-hidden="true"></div>
+
+      <div class="pad">
+        <p class="lede" id="lede">בין 1892 ל-1917 נסללו בארץ בתקופת השלטון העות'מאני יותר מ-600 ק"מ של מסילות ברזל צרות. רובן פורקו בתוך שנים ספורות, אבל הסוללות, הגשרים והמבתרים עדיין נראים מהאוויר. כדאי להתקרב בתצלום ולעקוב אחרי הקו.</p>
+
+        <div class="legend" role="group" aria-label="מקרא">
+          <p class="legend-h">שרידים שנראים בשטח</p>
+          <div class="legend-row">
+            <span class="lg-star" aria-hidden="true"></span>
+            <span>מבנה שעומד במקום: תחנה, גשר, מגדל מים, מנהרה</span>
+          </div>
+          <div class="legend-row">
+            <svg width="54" height="18" aria-hidden="true"><line x1="2" y1="9" x2="52" y2="9" class="lg-rail"/></svg>
+            <span>סוללה או פסים ששרדו</span>
+          </div>
+          <div class="legend-row">
+            <span class="lg-mn" aria-hidden="true"></span>
+            <span>שריד קטן: גשרון, מעביר מים, מבתר, קטע פסים</span>
+          </div>
+          <p class="legend-h faint">תוואי היסטורי, ללא שרידים</p>
+          <div class="legend-row faint">
+            <svg width="54" height="18" aria-hidden="true"><line x1="2" y1="9" x2="52" y2="9" class="lg-gone"/></svg>
+            <span>מהלך המסילה, משוער בחלקו</span>
+          </div>
+          <div class="legend-row faint">
+            <span class="lg-ring" aria-hidden="true"></span>
+            <span>אתר ידוע שלא נותר ממנו דבר</span>
+          </div>
+          <label class="toggle"><input type="checkbox" id="show-gone" checked> להציג גם את התוואי ההיסטורי</label>
+        </div>
+
+        <h2>שרידים לביקור</h2>
+        <p class="hint">לחיצה על אתר מציגה מה רואים במקום, תצלום וקישורים למקורות.</p>
+        <div id="site-list"></div>
+
+        <h2>המסילות</h2>
+        <ul id="line-list" class="line-list"></ul>
+
+        <details class="about">
+          <summary>מקורות ודיוק</summary>
+          <p>סוללות ופסים ששרדו מסומנים לפי קטעים המתויגים ב-<a href="https://www.openstreetmap.org/copyright" target="_blank" rel="noopener">OpenStreetMap</a> כמסילה נטושה או לא פעילה (© תורמי OpenStreetMap, רישיון ODbL). גם חלק מהאתרים אותרו שם, בחיפוש לפי כל צורות הכתיב: חיג'אזית, חיגזית, טורקית, תורכית, עות'מאנית, עותמנית ועוד. השרידים הקטנים (המעוינים) ועדכונים לכמה מהאתרים העיקריים מבוססים על נקודות שתיעדו מטיילים ב-<a href="https://amudanan.co.il" target="_blank" rel="noopener">עמוד ענן</a>; כל אחד מהם מקשר לדף המקורי. התאריכים והתיאורים מבוססים על ערכי ויקיפדיה העברית על כל מסילה, תחנה וגשר, בהצלבה עם נקודות העניין של <a href="https://israelhiking.osm.org.il" target="_blank" rel="noopener">מפת ישראל הפתוחה (Israel Hiking Map)</a>. התצלומים מוויקישיתוף, מוויקיפדיה ומעמוד ענן; הקישור מתחת לכל תצלום מוביל למקור, לפרטי הצלם ולרישיון.</p>
+          <p>הקווים השקופים למחצה מסמנים את מהלך המסילה במקומות שבהם לא נותר ממנה זכר. היכן שמסילה מודרנית נבנתה על התוואי הישן, הסימון עוקב אחריה; במקומות אחרים התוואי משורטט בין נקודות ידועות ועשוי לסטות במאות מטרים.</p>
+          <p>חלק מהשרידים נמצאים בשטחי אש, מעבר לגבול או בצמוד למסילה פעילה. יש לבדוק את אפשרות הגישה לפני היציאה לדרך.</p>
+        </details>
+      </div>
+    </div>
+
+    <div id="view-detail" hidden>
+      <button type="button" id="back" class="back">לכל האתרים והמסילות</button>
+      <div id="detail"></div>
+    </div>
+  </div>
+</aside>
+
+<div class="mapctl">
+  <div class="basemaps" role="group" aria-label="מפת רקע">
+    <button type="button" data-base="sat" class="on">תצלום אוויר</button>
+    <button type="button" data-base="hike">טיולים</button>
+    <button type="button" data-base="map">מפה</button>
+  </div>
+  <button type="button" id="locate" title="המיקום שלי" aria-label="המיקום שלי">
+    <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true"><circle cx="12" cy="12" r="4"/><path d="M12 2v4M12 18v4M2 12h4M18 12h4"/></svg>
+  </button>
+</div>
+
+<script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js" integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo=" crossorigin=""></script>
+<script src="app.js"></script>
+</body>
+</html>

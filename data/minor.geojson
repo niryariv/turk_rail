@@ -1,0 +1,3997 @@
+{
+"type": "FeatureCollection",
+"features": [
+{
+"type": "Feature",
+"geometry": {
+"type": "Point",
+"coordinates": [
+35.00955,
+32.331049
+]
+},
+"properties": {
+"id": "P811228",
+"line": "eastern",
+"kind": "bridge",
+"name": "שרידי גשר הרכבת",
+"desc": "שרידי גשר הרכבת התורכי מ1915 בתוואי המסילה המזרחית (קטע טול כרם - חדרה) מעל לנחל בת חפר.",
+"by": "אסףקרמר1, עמית הורן, Golanga,מי דרך",
+"url": "https://amudanan.co.il/#!wiki=P811228",
+"img": "https://amudanan.co.il/services/thumb.php?file=../w/images/2015-07-14_19.08.12.jpg&size=640"
+}
+},
+{
+"type": "Feature",
+"geometry": {
+"type": "Point",
+"coordinates": [
+34.998021,
+32.279441
+]
+},
+"properties": {
+"id": "P778431",
+"line": "eastern",
+"kind": "culvert",
+"name": "גשרון של המסילה המזרחית",
+"desc": "גשרון של המסילה המזרחית. שילוב של גשר טורקי ובטון מנדטורי",
+"by": "דני גר",
+"url": "https://amudanan.co.il/#!wiki=P778431",
+"img": "https://amudanan.co.il/services/thumb.php?file=../w/images/East_railway_-_bridge_south_to_Shaar_Ephraim.jpg&size=640"
+}
+},
+{
+"type": "Feature",
+"geometry": {
+"type": "Point",
+"coordinates": [
+34.992056,
+32.266378
+]
+},
+"properties": {
+"id": "P467888",
+"line": "eastern",
+"kind": "culvert",
+"name": "גשרון עותמאני",
+"desc": "גשר בעל קשת אחת קטנה, מעין מעביר מים של המסילה העותמאנית (ראה ערך דרומי יותר).",
+"by": "Marikriber",
+"url": "https://amudanan.co.il/#!wiki=P467888",
+"img": "https://amudanan.co.il/services/thumb.php?file=../w/images/%D7%92%D7%A9%D7%A8%D7%95%D7%AA%D7%95%D7%A8%D7%9B%D7%99.JPG&size=640"
+}
+},
+{
+"type": "Feature",
+"geometry": {
+"type": "Point",
+"coordinates": [
+34.990219,
+32.261348
+]
+},
+"properties": {
+"id": "P482527",
+"line": "eastern",
+"kind": "bridge",
+"name": "גשר עותמ'ני",
+"desc": "גשר מסילת הרכבת העותמנית מ1915, הבנוי משתי קשתות,ש מאפשר מעבר נוח ק הנוסעים בבדרך העפר הנמצאתן על תוואי סוללת הרכבת. הגשר היה21 ס עד שנות השישים, עת המסילה ירדה11 מגדולתה.ן",
+"by": "עמית הורן, Marikriber, דורון 23, היסטוריה על המפה",
+"url": "https://amudanan.co.il/#!wiki=P482527",
+"img": "https://amudanan.co.il/services/thumb.php?file=../w/images/%D7%92%D7%A9%D7%A8%D7%AA%D7%95%D7%A8%D7%9B%D7%99%D7%90.JPG&size=640"
+}
+},
+{
+"type": "Feature",
+"geometry": {
+"type": "Point",
+"coordinates": [
+34.90768,
+31.995348
+]
+},
+"properties": {
+"id": "P552323",
+"line": "eastern",
+"kind": "station",
+"name": "תחנת כפר ג'יניס",
+"desc": "תחנת הרכבת נבנתה בידי התורכים במלחמת העולם הראשונה כתחנת מעבר רכבות מהמסילה המזרחית שרוחבה היה 105ס\"מ למסילה הנעה מזרחה לא-לובן שרוחבה היה 76.2ס\"מ ושחלקה המערבי הוחלף לרוחב 143.5ס\"מ לאחר כיבוש הארץ בידי הבריטים עד לבסיס הבריטי המשמש כיום בסיס בית נבאללה (מרכז הובלה). התחנה שימשה גם את באי שדה התעופה וילהלמה / לוד דאז,…",
+"by": "יוניגת, עמית הורן, Marikriber, היסטוריה על המפה",
+"url": "https://amudanan.co.il/#!wiki=P552323",
+"img": "https://amudanan.co.il/services/thumb.php?file=../w/images/%D7%AA%D7%97%D7%A0%D7%AA%D7%92%D7%99%D7%A0%D7%99%D7%A1.JPG&size=640"
+}
+},
+{
+"type": "Feature",
+"geometry": {
+"type": "Point",
+"coordinates": [
+34.586576,
+31.553991
+]
+},
+"properties": {
+"id": "P959802",
+"line": "gaza",
+"kind": "cutting",
+"name": "מבתר הרכבת דיר סנייד - הוג'",
+"desc": "המבתר המעוגל שמקיף ממערב את תל מערת עזה זו חפירה של התורכים משנת 1917 בשביל פס הרכבת מדיר סנייד להוג' שנבנתה ממררץ 1917 ושימשה עד לאוקטובר-נובמבר 1917. החפיר הורחב וכיום עובר בו כביש ארז - אור הנר.",
+"by": "עמית הורן, רונן380, Ilafer, עמית מהשרון",
+"url": "https://amudanan.co.il/#!wiki=P959802",
+"img": "https://amudanan.co.il/services/thumb.php?file=../w/images/%D7%9E%D7%95%D7%A2%D7%A6%D7%94_%D7%9B%D7%97%D7%95%D7%9C.JPG&size=640"
+}
+},
+{
+"type": "Feature",
+"geometry": {
+"type": "Point",
+"coordinates": [
+35.289009,
+32.576899
+]
+},
+"properties": {
+"id": "P580094",
+"line": "samaria",
+"kind": "culvert",
+"name": "גשרון",
+"desc": "גשרון של מסילת הרכבת עפולה שכם דרך ג'נין. הגשר על נחל גלבוע בנוי משתי קשתות והוא אולי השריד האחרון בקטע המסילה בין ג'נין לעפולה. הבטון בין הלבנים בתחתית הגשר נשחק מזרימת המים בחורף.",
+"by": "Zeira ram, Golanga,אלדד סולו",
+"url": "https://amudanan.co.il/#!wiki=P580094",
+"img": "https://amudanan.co.il/services/thumb.php?file=../w/images/2015.05.15-150159.812.android.jpg&size=640"
+}
+},
+{
+"type": "Feature",
+"geometry": {
+"type": "Point",
+"coordinates": [
+35.28933,
+32.562495
+]
+},
+"properties": {
+"id": "P914995",
+"line": "samaria",
+"kind": "embankment",
+"name": "שרידי מסילת הברזל הטורקית עפולה - גינין",
+"desc": "מתחת לכביש ולצידיו.",
+"by": "Hagaye",
+"url": "https://amudanan.co.il/#!wiki=P914995"
+}
+},
+{
+"type": "Feature",
+"geometry": {
+"type": "Point",
+"coordinates": [
+35.199568,
+32.333504
+]
+},
+"properties": {
+"id": "P380219",
+"line": "samaria",
+"kind": "bridge",
+"name": "גשר רכבת",
+"desc": "גשר שתי קשתות שלם ושמור של מסילת הרכבת עפולה - מסעודיה (סבסטיה).",
+"by": "עמית הורן",
+"url": "https://amudanan.co.il/#!wiki=P380219"
+}
+},
+{
+"type": "Feature",
+"geometry": {
+"type": "Point",
+"coordinates": [
+35.153687,
+32.316003
+]
+},
+"properties": {
+"id": "P636462",
+"line": "samaria",
+"kind": "cutting",
+"name": "מבתר הרכבת הגדול",
+"desc": "המבתר הגדול ביותר בתוואי מסילת השומרון. גובה הקירות כ-15 מ'. על קירות המבתר ניתן לראות שרידי קשתות שהיו חלק מקירות התמיכה שנבנו במקום",
+"by": "Nklein, Eitanh53,خنان,חרגבים שיראל",
+"url": "https://amudanan.co.il/#!wiki=P636462",
+"img": "https://amudanan.co.il/services/thumb.php?file=../w/images/Picture_264_%28Medium%29.jpg&size=640"
+}
+},
+{
+"type": "Feature",
+"geometry": {
+"type": "Point",
+"coordinates": [
+35.130719,
+32.301491
+]
+},
+"properties": {
+"id": "P367409",
+"line": "samaria",
+"kind": "culvert",
+"name": "שרידי גשרון רכבת ומבנה",
+"desc": "ממש בצומת ענבתה בזריה. בצד הדרך מדרום מערב. נבחין במבנה תורכי ישן צמוד לשרידי גשרון קטן עליו עברה הרכבת התורכית בדרכה צפונה לעבר מנהרת הרכבת התורכית מתחת לרכס חומש. הגשרון נועד לחצות ואדיות קטנים ולהשאיר את הרכבת על פני גובה אחיד. מספר גשרונים כאלו נבנו בנקודות שונות בהם הרכבת נאלצה לגשר מעל מכשולים או וואדיות קטנים.…",
+"by": "מאיר רוטר,בןאפר,Marikriber",
+"url": "https://amudanan.co.il/#!wiki=P367409",
+"img": "https://amudanan.co.il/services/thumb.php?file=../w/images/2022-01-14T11_46_52.492425768302.jpg&size=640"
+}
+},
+{
+"type": "Feature",
+"geometry": {
+"type": "Point",
+"coordinates": [
+35.165908,
+32.285023
+]
+},
+"properties": {
+"id": "P275358",
+"line": "samaria",
+"kind": "culvert",
+"name": "מעבר מים עתיק מתחת תוואי הרכבת",
+"desc": "מעבר מים עתיק תחת תוואי הרכבת",
+"by": "דב כץ",
+"url": "https://amudanan.co.il/#!wiki=P275358",
+"img": "https://amudanan.co.il/services/thumb.php?file=../w/images/2021-04-26T13_25_58.772072639970.jpg&size=640"
+}
+},
+{
+"type": "Feature",
+"geometry": {
+"type": "Point",
+"coordinates": [
+35.186401,
+32.283837
+]
+},
+"properties": {
+"id": "P490801",
+"line": "samaria",
+"kind": "bridge",
+"name": "גשר הרכבת התורכית",
+"desc": "גשר הרכבת מתחנת סבסטיה לשכם שנבנה ב-1915. עומד כיום בגאון במרכז הואדי ובצידיו עדיין נמצאת הסוללה המקורית. מצפון אליו נמצאת המזבלה של נקורה, כך שכשיש רוח צפונית, מעט מסריח להגיע לגשר.",
+"by": "עמית הורן, Nklein, מאיר רוטר",
+"url": "https://amudanan.co.il/#!wiki=P490801",
+"img": "https://amudanan.co.il/services/thumb.php?file=../w/images/DSC_3595.JPG&size=640"
+}
+},
+{
+"type": "Feature",
+"geometry": {
+"type": "Point",
+"coordinates": [
+35.18292,
+32.281528
+]
+},
+"properties": {
+"id": "P429307",
+"line": "samaria",
+"kind": "cutting",
+"name": "מבתר לרכבת התורכית",
+"desc": "חציבה בהר לרכבת מסבסטיה לשכם שנסללה בשנת 1915",
+"by": "עמית הורן",
+"url": "https://amudanan.co.il/#!wiki=P429307"
+}
+},
+{
+"type": "Feature",
+"geometry": {
+"type": "Point",
+"coordinates": [
+35.180411,
+32.280675
+]
+},
+"properties": {
+"id": "P539307",
+"line": "samaria",
+"kind": "bridge",
+"name": "גשר הרכבת הטורקית",
+"desc": "גשר הרכבת התורכית בקו מסעודיה-טול-כרם שנבנה ב1915 בידי התורכים. זהו גשר עם שתי קשתות בסוללה במרכז הפיתול החד",
+"by": "Nklein, Urijjj, Eitanh53, עמית הורן, ליאו",
+"url": "https://amudanan.co.il/#!wiki=P539307",
+"img": "https://amudanan.co.il/services/thumb.php?file=../w/images/%D7%A1%D7%91%D7%A1%D7%98%D7%99%D7%94_060_%28Medium%29.jpg&size=640"
+}
+},
+{
+"type": "Feature",
+"geometry": {
+"type": "Point",
+"coordinates": [
+35.164404,
+32.276393
+]
+},
+"properties": {
+"id": "P841627",
+"line": "samaria",
+"kind": "water",
+"name": "באר מיים על תוואי מסילת הברזל",
+"desc": "באר מיים יפה על תוואי מסילת הברזל. על הבור יש חולייה מבטון. יש דלי וחבל, הבור פתוח ויש מיים (קיץ תשעז)",
+"by": "Gal.homesh,גולדין גולדין",
+"url": "https://amudanan.co.il/#!wiki=P841627",
+"img": "https://amudanan.co.il/services/thumb.php?file=../w/images/%D7%91%D7%90%D7%A8_%D7%91%D7%AA%D7%95%D7%95%D7%90%D7%99_%D7%9E%D7%A1%D7%99%D7%9C%D7%AA_%D7%94%D7%91%D7%A8%D7%96%D7%9C_%D7%A0%D7%97%D7%9C_%D7%A9%D7%9B%D7%9D.jpg&size=640"
+}
+},
+{
+"type": "Feature",
+"geometry": {
+"type": "Point",
+"coordinates": [
+35.17082,
+32.276235
+]
+},
+"properties": {
+"id": "P428825",
+"line": "samaria",
+"kind": "bridge",
+"name": "גשר של מסילת רכבת השומרון",
+"desc": "אחד מגשרי המסילה השומרונית שהייתה סעיף לרכבת החיגאז'ת (מדמשק למכה ומדינה)",
+"by": "גולדין גולדין",
+"url": "https://amudanan.co.il/#!wiki=P428825",
+"img": "https://amudanan.co.il/services/thumb.php?file=../w/images/2018.09.28-082422.718.android.jpg&size=640"
+}
+},
+{
+"type": "Feature",
+"geometry": {
+"type": "Point",
+"coordinates": [
+35.192432,
+32.271429
+]
+},
+"properties": {
+"id": "P208142",
+"line": "samaria",
+"kind": "bridge",
+"name": "גשרוני רכבת",
+"desc": "ריכוז גדול של גשרונים שמסילת הרכבת התורכית עברה עליהם, נמצאים מצפון לכביש בקטע זה שמדרום מערב לכפר סבסטיה.",
+"by": "עמית הורן",
+"url": "https://amudanan.co.il/#!wiki=P208142"
+}
+},
+{
+"type": "Feature",
+"geometry": {
+"type": "Point",
+"coordinates": [
+35.190161,
+32.261337
+]
+},
+"properties": {
+"id": "P586307",
+"line": "samaria",
+"kind": "cutting",
+"name": "מפער הרכבת התורכית",
+"desc": "זהו מפער על דרך סלולה אספלט כיום (אנו מציעים לקרוא לה \"דרך שוקי\", ראה להלן) אשר נחצב בסלע הקרטון הרך (תצ.ערב-תקיה) לשם הנחת מסילת הברזל התורכית בין סבסטיה לשכם. בהמשך הדרך המובילה, המתפתלת ברום טופוגרפי אחיד וחצובה בקרטון רך ומובילה להר-עיבל, מספר מפערים דומים. כל אדני המסילה הועתקו בשנות השבעים למען בניית מעוזי…",
+"by": "אבי שמידע,איש חיפה",
+"url": "https://amudanan.co.il/#!wiki=P586307"
+}
+},
+{
+"type": "Feature",
+"geometry": {
+"type": "Point",
+"coordinates": [
+35.211028,
+32.245242
+]
+},
+"properties": {
+"id": "P47422",
+"line": "samaria",
+"kind": "cutting",
+"name": "דרך שוקי-לוי, מפער מסילת הרכבת התורכית",
+"desc": "לאורך הכביש המחבר את שבי שומרון ואת סבסטיה עם הכפר זוויטא והר-עיבל סלולה דרך עפר אשר כוסתה לאחרונה באספלט. הדרך פתלתלה ושומרת על קו-גובה אחיד ועתה (2020) איך בה שריד של רלסים של מסילת רכבת. מפערים חצובים בסלע קרטון רך (מתצורת ע'רב-תקיה) מאפיינים קטע זה אשר מוצע לקרוא לו \"דרך שוקי-לוי\" על שם מדריכנו הידען והמסור ששוקד…",
+"by": "אבי שמידע,איש חיפה",
+"url": "https://amudanan.co.il/#!wiki=P47422"
+}
+},
+{
+"type": "Feature",
+"geometry": {
+"type": "Point",
+"coordinates": [
+35.234848,
+32.243236
+]
+},
+"properties": {
+"id": "P611845",
+"line": "samaria",
+"kind": "cutting",
+"name": "מבתר הרכבת לשכם ומנרת וסכר אמת המים לסבסטיה",
+"desc": "הנקודה בה הכביש להר עיבל נפרד מתוואי הרכבת. במקום ישנו מבתר גדול שדרכו נכנסה הרכבת לשכם. מסילת הרכבת שנחנכה ב-1915 מתחנת סבסטיה לשכם מהווה את תוואי הכביש המוביל מנקודה זו מערבה לשבי שומרון, וניתן לראות לאורכו את החציבות המקוריות והגשרונים למים. אותו שיקול שעמד בפני מתכנני קו הרכבת בשל הטופוגרפיה הנוחה בתוואי זה, אותו…",
+"by": "עמית הורן, Nklein, מאיר רוטר",
+"url": "https://amudanan.co.il/#!wiki=P611845"
+}
+},
+{
+"type": "Feature",
+"geometry": {
+"type": "Point",
+"coordinates": [
+34.776313,
+31.550078
+]
+},
+"properties": {
+"id": "P254208",
+"line": "south",
+"kind": "embankment",
+"name": "מעבר מתחת לפסי רכבת",
+"desc": "",
+"by": "Yotam Elon",
+"url": "https://amudanan.co.il/#!wiki=P254208",
+"img": "https://amudanan.co.il/services/thumb.php?file=../w/images/2018.04.04-133658.847.android.jpg&size=640"
+}
+},
+{
+"type": "Feature",
+"geometry": {
+"type": "Point",
+"coordinates": [
+34.786105,
+31.527483
+]
+},
+"properties": {
+"id": "P172214",
+"line": "south",
+"kind": "bridge",
+"name": "שרידי גשר רכבת על נחל אדוריים",
+"desc": "במקום יסודות של גשר בטון עליו עברה המסילה הישנה לבאר שבע. בנוסף ניתן לראות על דופן הנחל שרידים של מבנה אבן שיתכן והיו שייכים לגשר הרכבת הטורקי.",
+"by": "דני גר, צוות08",
+"url": "https://amudanan.co.il/#!wiki=P172214",
+"img": "https://amudanan.co.il/services/thumb.php?file=../w/images/Old_train_bridge_over_Aduraim_stream_3.jpg&size=640"
+}
+},
+{
+"type": "Feature",
+"geometry": {
+"type": "Point",
+"coordinates": [
+34.78726,
+31.527271
+]
+},
+"properties": {
+"id": "P302040",
+"line": "south",
+"kind": "embankment",
+"name": "מעבר מתחת לפסי רכבת",
+"desc": "שביל ישראל",
+"by": "David6033, Itay34547, צוות08",
+"url": "https://amudanan.co.il/#!wiki=P302040",
+"img": "https://amudanan.co.il/services/thumb.php?file=../w/images/2021-03-25T07_12_12.382195566225.jpg&size=640"
+}
+},
+{
+"type": "Feature",
+"geometry": {
+"type": "Point",
+"coordinates": [
+34.782629,
+31.525654
+]
+},
+"properties": {
+"id": "P24655",
+"line": "south",
+"kind": "cutting",
+"name": "מבתר רכבת",
+"desc": "מבתר רכבת שחפרו הטורקים עבור הרכבת בין תחנת נחל שורק לבאר שבע וקסיימה",
+"by": "דני גר, Ilafer, צוות08",
+"url": "https://amudanan.co.il/#!wiki=P24655",
+"img": "https://amudanan.co.il/services/thumb.php?file=../w/images/Machaz_Junction_-_The_big_train_moat_4.jpg&size=640"
+}
+},
+{
+"type": "Feature",
+"geometry": {
+"type": "Point",
+"coordinates": [
+34.778509,
+31.524922
+]
+},
+"properties": {
+"id": "P710662",
+"line": "south",
+"kind": "cutting",
+"name": "מבתר הרכבת",
+"desc": "מבתר רכבת שחפרו הטורקים עבור הרכבת בין תחנת נחל שורק לבאר שבע וקסיימה",
+"by": "דני גר",
+"url": "https://amudanan.co.il/#!wiki=P710662",
+"img": "https://amudanan.co.il/services/thumb.php?file=../w/images/Machaz_Junction_-_The_small_train_moat_2.jpg&size=640"
+}
+},
+{
+"type": "Feature",
+"geometry": {
+"type": "Point",
+"coordinates": [
+34.777608,
+31.520971
+]
+},
+"properties": {
+"id": "P133350",
+"line": "south",
+"kind": "bridge",
+"name": "גשר רכבת טורקי",
+"desc": "גשר רכבת שבנו הטורקים עבור מסילת הרכבת מתחנת נחל שורק לבאר שבע ולקסיימה.",
+"by": "דני גר, Ilafer",
+"url": "https://amudanan.co.il/#!wiki=P133350",
+"img": "https://amudanan.co.il/services/thumb.php?file=../w/images/Machaz_Junction_-_Turkish_train_bridge_2.jpg&size=640"
+}
+},
+{
+"type": "Feature",
+"geometry": {
+"type": "Point",
+"coordinates": [
+34.77697,
+31.51868
+]
+},
+"properties": {
+"id": "P810018",
+"line": "south",
+"kind": "culvert",
+"name": "מעביר מים",
+"desc": "מעביר מים ליד חוות פיליפ. בתוואי מסילת הרכבת העותמנית מתחנת ואדי סראר לקסיימה דרך באר שבע. נסללה במלחה'ע הראשונה.",
+"by": "Meni10, Ilafer",
+"url": "https://amudanan.co.il/#!wiki=P810018",
+"img": "https://amudanan.co.il/services/thumb.php?file=../w/images/2016.03.05-135746.844.android.jpg&size=640"
+}
+},
+{
+"type": "Feature",
+"geometry": {
+"type": "Point",
+"coordinates": [
+34.774432,
+31.516728
+]
+},
+"properties": {
+"id": "P939116",
+"line": "south",
+"kind": "culvert",
+"name": "גשרון רכבת טורקי",
+"desc": "גשרון של מסילת הרכבת מנחל שורק לקוסיימה",
+"by": "דני גר, Ilafer",
+"url": "https://amudanan.co.il/#!wiki=P939116",
+"img": "https://amudanan.co.il/services/thumb.php?file=../w/images/Machaz_junction_to_Pura_-_Turkish_train_8.jpg&size=640"
+}
+},
+{
+"type": "Feature",
+"geometry": {
+"type": "Point",
+"coordinates": [
+34.773831,
+31.516325
+]
+},
+"properties": {
+"id": "P512828",
+"line": "south",
+"kind": "culvert",
+"name": "גשרון רכבת טורקי",
+"desc": "גשרון של מסילת הרכבת מנחל שורק לקוסיימה",
+"by": "דני גר, Ilafer",
+"url": "https://amudanan.co.il/#!wiki=P512828",
+"img": "https://amudanan.co.il/services/thumb.php?file=../w/images/Machaz_junction_to_Pura_-_Turkish_train_7.jpg&size=640"
+}
+},
+{
+"type": "Feature",
+"geometry": {
+"type": "Point",
+"coordinates": [
+34.772243,
+31.514715
+]
+},
+"properties": {
+"id": "P31835",
+"line": "south",
+"kind": "bridge",
+"name": "גשר רכבת טורקי",
+"desc": "גשר של מסילת הרכבת מנחל שורק לקוסיימה",
+"by": "דני גר, Ilafer",
+"url": "https://amudanan.co.il/#!wiki=P31835",
+"img": "https://amudanan.co.il/services/thumb.php?file=../w/images/Machaz_junction_to_Pura_-_Turkish_train_6.jpg&size=640"
+}
+},
+{
+"type": "Feature",
+"geometry": {
+"type": "Point",
+"coordinates": [
+34.771342,
+31.512154
+]
+},
+"properties": {
+"id": "P283530",
+"line": "south",
+"kind": "bridge",
+"name": "גשר רכבת טורקי",
+"desc": "גשר של מסילת הרכבת מנחל שורק לקוסיימה",
+"by": "דני גר, Ilafer",
+"url": "https://amudanan.co.il/#!wiki=P283530",
+"img": "https://amudanan.co.il/services/thumb.php?file=../w/images/Machaz_junction_to_Pura_-_Turkish_train_5.jpg&size=640"
+}
+},
+{
+"type": "Feature",
+"geometry": {
+"type": "Point",
+"coordinates": [
+34.770999,
+31.507508
+]
+},
+"properties": {
+"id": "P443474",
+"line": "south",
+"kind": "bridge",
+"name": "גשר הרוס בחלקו - מסילת הרכבת הטורקית",
+"desc": "גשר אבני גוויל של מסילת הרכבת מנחל שורק לקוסיימה",
+"by": "דני גר, Ilafer",
+"url": "https://amudanan.co.il/#!wiki=P443474",
+"img": "https://amudanan.co.il/services/thumb.php?file=../w/images/Machaz_junction_to_Pura_-_Turkish_train_4.jpg&size=640"
+}
+},
+{
+"type": "Feature",
+"geometry": {
+"type": "Point",
+"coordinates": [
+34.768295,
+31.505166
+]
+},
+"properties": {
+"id": "P471184",
+"line": "south",
+"kind": "cutting",
+"name": "מבתר הרכבת הטורקית",
+"desc": "מסילת הרכבת הטורקית מצפון לנחל פורה עוברת בחפיר מתון",
+"by": "דני גר, Ilafer",
+"url": "https://amudanan.co.il/#!wiki=P471184",
+"img": "https://amudanan.co.il/services/thumb.php?file=../w/images/Machaz_junction_to_Pura_-_Turkish_train_1.jpg&size=640"
+}
+},
+{
+"type": "Feature",
+"geometry": {
+"type": "Point",
+"coordinates": [
+34.762459,
+31.50019
+]
+},
+"properties": {
+"id": "P911603",
+"line": "south",
+"kind": "cutting",
+"name": "חפיר הרכבת הטורקית מנחל שורק לקוסיימה",
+"desc": "חפיר הרכבת הטורקית מנחל שורק לקוסיימה מדרום לנחל פורה",
+"by": "דני גר,Adarg",
+"url": "https://amudanan.co.il/#!wiki=P911603",
+"img": "https://amudanan.co.il/services/thumb.php?file=../w/images/Pura_to_Beit_Kama_section_-_Train_to_Kussiema_-_dugout_2.jpg&size=640"
+}
+},
+{
+"type": "Feature",
+"geometry": {
+"type": "Point",
+"coordinates": [
+34.761429,
+31.498543
+]
+},
+"properties": {
+"id": "P655012",
+"line": "south",
+"kind": "culvert",
+"name": "גשרון רכבת טורקי",
+"desc": "גשרון הרכבת הטורקית מנחל שורק לקוסיימה",
+"by": "דני גר, Ilafer",
+"url": "https://amudanan.co.il/#!wiki=P655012",
+"img": "https://amudanan.co.il/services/thumb.php?file=../w/images/Pura_to_Beit_Kama_section_-_Train_to_Kussiema_-_bridge_3.jpg&size=640"
+}
+},
+{
+"type": "Feature",
+"geometry": {
+"type": "Point",
+"coordinates": [
+34.759884,
+31.495396
+]
+},
+"properties": {
+"id": "P350722",
+"line": "south",
+"kind": "culvert",
+"name": "גשרון רכבת טורקי",
+"desc": "גשרון הרכבת הטורקית מנחל שורק לקוסיימה",
+"by": "דני גר, Ilafer",
+"url": "https://amudanan.co.il/#!wiki=P350722",
+"img": "https://amudanan.co.il/services/thumb.php?file=../w/images/Pura_to_Beit_Kama_section_-_Train_to_Kussiema_-_bridge_2.jpg&size=640"
+}
+},
+{
+"type": "Feature",
+"geometry": {
+"type": "Point",
+"coordinates": [
+34.757738,
+31.491847
+]
+},
+"properties": {
+"id": "P488947",
+"line": "south",
+"kind": "bridge",
+"name": "שרידי גשר טורקי בינוני מעל נחל שקמה",
+"desc": "שרידים של גשר השייך לרכבת הטורקית מנחל שורק לקוסיימה",
+"by": "דני גר, Ilafer",
+"url": "https://amudanan.co.il/#!wiki=P488947",
+"img": "https://amudanan.co.il/services/thumb.php?file=../w/images/Shikma_stream_bridge_-_Train_to_Kussiema_1.jpg&size=640"
+}
+},
+{
+"type": "Feature",
+"geometry": {
+"type": "Point",
+"coordinates": [
+34.75894,
+31.488004
+]
+},
+"properties": {
+"id": "P788059",
+"line": "south",
+"kind": "culvert",
+"name": "גשרון רכבת טורקי",
+"desc": "גשרון הרכבת הטורקית מנחל שורק לקוסיימה",
+"by": "דני גר, Ilafer",
+"url": "https://amudanan.co.il/#!wiki=P788059",
+"img": "https://amudanan.co.il/services/thumb.php?file=../w/images/Pura_to_Beit_Kama_section_-_Train_to_Kussiema_-_bridge_1.jpg&size=640"
+}
+},
+{
+"type": "Feature",
+"geometry": {
+"type": "Point",
+"coordinates": [
+34.761525,
+31.484943
+]
+},
+"properties": {
+"id": "P755760",
+"line": "south",
+"kind": "embankment",
+"name": "פריצת מי נגר דרך סוללת המסילה התורכית",
+"desc": "מי גשם או מי השקיה שנחסמו ע\"י הסוללה, הצטברו במקום ופרצו אותה. בחתך שנותר נראים בבירור אבנים וחלוקי נחל ששימשו לבניית הסוללה.",
+"by": "Meni10",
+"url": "https://amudanan.co.il/#!wiki=P755760"
+}
+},
+{
+"type": "Feature",
+"geometry": {
+"type": "Point",
+"coordinates": [
+34.763885,
+31.479392
+]
+},
+"properties": {
+"id": "P290567",
+"line": "south",
+"kind": "culvert",
+"name": "שרידי גשרון המסילה התורכית לקסיימה",
+"desc": "",
+"by": "meni10",
+"url": "https://amudanan.co.il/#!wiki=P290567",
+"img": "https://amudanan.co.il/services/thumb.php?file=../w/images/2016.05.21-145425.958.android.jpg&size=640"
+}
+},
+{
+"type": "Feature",
+"geometry": {
+"type": "Point",
+"coordinates": [
+34.700103,
+31.4146
+]
+},
+"properties": {
+"id": "P551029",
+"line": "south",
+"kind": "culvert",
+"name": "גשרון רכבת טורקי",
+"desc": "גשרון של הרכבת הטורקית מנחל שורק לקוסיימה",
+"by": "דני גר",
+"url": "https://amudanan.co.il/#!wiki=P551029",
+"img": "https://amudanan.co.il/services/thumb.php?file=../w/images/Shoval_to_Tel_A-Sheria_section_-_Train_from_Sorek_to_Kusseima_-_bridge_1.jpg&size=640"
+}
+},
+{
+"type": "Feature",
+"geometry": {
+"type": "Point",
+"coordinates": [
+34.699588,
+31.410864
+]
+},
+"properties": {
+"id": "P509985",
+"line": "south",
+"kind": "culvert",
+"name": "גשרון רכבת טורקי",
+"desc": "גשרון של הרכבת הטורקית מנחל שורק לקוסיימה",
+"by": "דני גר",
+"url": "https://amudanan.co.il/#!wiki=P509985",
+"img": "https://amudanan.co.il/services/thumb.php?file=../w/images/Shoval_to_Tel_A-Sheria_section_-_Train_from_Sorek_to_Kusseima_-_bridge_2.jpg&size=640"
+}
+},
+{
+"type": "Feature",
+"geometry": {
+"type": "Point",
+"coordinates": [
+34.696712,
+31.407202
+]
+},
+"properties": {
+"id": "P384157",
+"line": "south",
+"kind": "culvert",
+"name": "גשרון רכבת טורקי",
+"desc": "גשרון של הרכבת הטורקית מנחל שורק לקוסיימה",
+"by": "דני גר",
+"url": "https://amudanan.co.il/#!wiki=P384157",
+"img": "https://amudanan.co.il/services/thumb.php?file=../w/images/Shoval_to_Tel_A-Sheria_section_-_Train_from_Sorek_to_Kusseima_-_bridge_3.jpg&size=640"
+}
+},
+{
+"type": "Feature",
+"geometry": {
+"type": "Point",
+"coordinates": [
+34.693794,
+31.404565
+]
+},
+"properties": {
+"id": "P770110",
+"line": "south",
+"kind": "culvert",
+"name": "גשרון רכבת טורקי",
+"desc": "גשרון של הרכבת הטורקית מנחל שורק לקוסיימה",
+"by": "דני גר",
+"url": "https://amudanan.co.il/#!wiki=P770110",
+"img": "https://amudanan.co.il/services/thumb.php?file=../w/images/Shoval_to_Tel_A-Sheria_section_-_Train_from_Sorek_to_Kusseima_-_bridge_4.jpg&size=640"
+}
+},
+{
+"type": "Feature",
+"geometry": {
+"type": "Point",
+"coordinates": [
+34.690104,
+31.403612
+]
+},
+"properties": {
+"id": "P971634",
+"line": "south",
+"kind": "culvert",
+"name": "גשרון רכבת טורקי",
+"desc": "גשרון של הרכבת הטורקית מנחל שורק לקוסיימה",
+"by": "דני גר",
+"url": "https://amudanan.co.il/#!wiki=P971634",
+"img": "https://amudanan.co.il/services/thumb.php?file=../w/images/Shoval_to_Tel_A-Sheria_section_-_Train_from_Sorek_to_Kusseima_-_bridge_5.jpg&size=640"
+}
+},
+{
+"type": "Feature",
+"geometry": {
+"type": "Point",
+"coordinates": [
+34.683752,
+31.403173
+]
+},
+"properties": {
+"id": "P193173",
+"line": "south",
+"kind": "culvert",
+"name": "גשרון רכבת טורקי",
+"desc": "גשרון של הרכבת הטורקית מנחל שורק לקוסיימה",
+"by": "דני גר",
+"url": "https://amudanan.co.il/#!wiki=P193173",
+"img": "https://amudanan.co.il/services/thumb.php?file=../w/images/Shoval_to_Tel_A-Sheria_section_-_Train_from_Sorek_to_Kusseima_-_bridge_6.jpg&size=640"
+}
+},
+{
+"type": "Feature",
+"geometry": {
+"type": "Point",
+"coordinates": [
+34.679546,
+31.400096
+]
+},
+"properties": {
+"id": "P790737",
+"line": "south",
+"kind": "culvert",
+"name": "גשרון רכבת טורקי",
+"desc": "גשרון של הרכבת הטורקית מנחל שורק לקוסיימה",
+"by": "דני גר",
+"url": "https://amudanan.co.il/#!wiki=P790737",
+"img": "https://amudanan.co.il/services/thumb.php?file=../w/images/Shoval_to_Tel_A-Sheria_section_-_Train_from_Sorek_to_Kusseima_-_bridge_7.jpg&size=640"
+}
+},
+{
+"type": "Feature",
+"geometry": {
+"type": "Point",
+"coordinates": [
+34.678173,
+31.395041
+]
+},
+"properties": {
+"id": "P176200",
+"line": "south",
+"kind": "culvert",
+"name": "גשרון רכבת טורקי",
+"desc": "גשרון של הרכבת הטורקית מנחל שורק לקוסיימה",
+"by": "דני גר",
+"url": "https://amudanan.co.il/#!wiki=P176200",
+"img": "https://amudanan.co.il/services/thumb.php?file=../w/images/Shoval_to_Tel_A-Sheria_section_-_Train_from_Sorek_to_Kusseima_-_bridge_8.jpg&size=640"
+}
+},
+{
+"type": "Feature",
+"geometry": {
+"type": "Point",
+"coordinates": [
+34.678516,
+31.393575
+]
+},
+"properties": {
+"id": "P718961",
+"line": "south",
+"kind": "embankment",
+"name": "סוללת הרכבת לקראת תל א-שריעה",
+"desc": "ממערב לתל א-שריעה יש מבתר חצוב בו עברה המסילה",
+"by": "דני גר",
+"url": "https://amudanan.co.il/#!wiki=P718961",
+"img": "https://amudanan.co.il/services/thumb.php?file=../w/images/Train_embankment_towards_Tel_A-Sheria.jpg&size=640"
+}
+},
+{
+"type": "Feature",
+"geometry": {
+"type": "Point",
+"coordinates": [
+34.679074,
+31.391231
+]
+},
+"properties": {
+"id": "P232453",
+"line": "south",
+"kind": "cutting",
+"name": "מבתר הרכבת הטורקית",
+"desc": "מבתר הרכבת ממערב לתל א-שריעה",
+"by": "דני גר, צוות08",
+"url": "https://amudanan.co.il/#!wiki=P232453",
+"img": "https://amudanan.co.il/services/thumb.php?file=../w/images/Train_dugout_near_Tel_A-Sheria_1.jpg&size=640"
+}
+},
+{
+"type": "Feature",
+"geometry": {
+"type": "Point",
+"coordinates": [
+34.661543,
+31.344165
+]
+},
+"properties": {
+"id": "P114718",
+"line": "south",
+"kind": "bridge",
+"name": "גשר תורכי נחל שמריה",
+"desc": "שרידי (נותר שריד אחד קטן של עמוד תמך) גשר תורכי על נחל שמריה לתוואי הרכבת. משני צידי שרידי הרכב סוללת הרכבת נשמרה באופן חלקי.",
+"by": "Ilafer, סאקרה, Marikriber, Alik36, דני גר,שיר2023",
+"url": "https://amudanan.co.il/#!wiki=P114718",
+"img": "https://amudanan.co.il/services/thumb.php?file=../w/images/%D7%A9%D7%A8%D7%99%D7%93%D7%A2%D7%9E%D7%95%D7%93%D7%92%D7%A9%D7%A81.JPG&size=640"
+}
+},
+{
+"type": "Feature",
+"geometry": {
+"type": "Point",
+"coordinates": [
+34.742808,
+31.257125
+]
+},
+"properties": {
+"id": "P282103",
+"line": "south",
+"kind": "culvert",
+"name": "מעביר מים - סוללת הרכבת התורכית",
+"desc": "סוללת הרכבת התורכית. תחתיה בואדי מעביר מים עשוי אבן, שיחיה (בעיקר מלוח מקשה על המראה). במקום הזה מקבלת הסוללה תפנית ופונה לעבר שדרות טוביהו. לסוללה המשך אחר הגן הבוטני - חתוכה במספר נקודות. ).",
+"by": "Shlomoch, Ilafer",
+"url": "https://amudanan.co.il/#!wiki=P282103",
+"img": "https://amudanan.co.il/services/thumb.php?file=../w/images/IMG_0792.JPG&size=640"
+}
+},
+{
+"type": "Feature",
+"geometry": {
+"type": "Point",
+"coordinates": [
+34.75217,
+31.256432
+]
+},
+"properties": {
+"id": "P300986",
+"line": "south",
+"kind": "embankment",
+"name": "סוללת הרכבת התורכית",
+"desc": "הקטע האחרון שנותר מסוללת הרכבת התורכית בואכה לבאר שבע. הסוללה נחתכה במקומות שונים. היא המשיכה וחותכת דרומה מעבר לכביש לשדרות טוביהו.",
+"by": "Ilafer, פלטוב",
+"url": "https://amudanan.co.il/#!wiki=P300986",
+"img": "https://amudanan.co.il/services/thumb.php?file=../w/images/IMG_0797.JPG&size=640"
+}
+},
+{
+"type": "Feature",
+"geometry": {
+"type": "Point",
+"coordinates": [
+34.804123,
+31.157146
+]
+},
+"properties": {
+"id": "P499235",
+"line": "south",
+"kind": "culvert",
+"name": "מעביר מים קשתי במסילה התורכית",
+"desc": "חלקו התחתון סתום בסחף נראים נדבך או שניים ישרים מעליהם 6 נדבכי קשת משני עברי אבן הראשה לא שרדו אבני החזית והכנפיים. הבנייה נעשתה באבני קירטון ונארי. כל השרידים בלויים ומתפוררים. מקור: אתר 49 בסקר אתרי רמת נגב. סקר וערך אמנון (בוצי) ליבנה מקור נוסף סקר הרכבת התורכית \"כשקטרים צפרו בנגב\".",
+"by": "Amnonl",
+"url": "https://amudanan.co.il/#!wiki=P499235"
+}
+},
+{
+"type": "Feature",
+"geometry": {
+"type": "Point",
+"coordinates": [
+34.791765,
+31.145761
+]
+},
+"properties": {
+"id": "P916483",
+"line": "south",
+"kind": "culvert",
+"name": "מעביר מים משולב",
+"desc": "מעביר מים תורכי, משולב בגשר המסילה לרמת חובב. המעביר הקדום בנוי מאבני גזית-סלע חוף. (BECH ROCKׂ) האבנים מכילים מאובני צדפים רבים. פרטים נוספים רבים. מקור: אתר 58 בסקר אתרי רמת נגב, או בסקר המסילה התורכית \"כשקטרים צפרו בנגב\" סקר וערך אמנון בוצי ליבנה.",
+"by": "Amnonl",
+"url": "https://amudanan.co.il/#!wiki=P916483"
+}
+},
+{
+"type": "Feature",
+"geometry": {
+"type": "Point",
+"coordinates": [
+34.78496,
+31.121652
+]
+},
+"properties": {
+"id": "P202253",
+"line": "south",
+"kind": "bridge",
+"name": "גשר על נחל סכר",
+"desc": "גשר הרכבת התורכית בקו באר שבע קסיימה. באבני הקשת הפנימית ניתן לראות מאובנים",
+"by": "אב08",
+"url": "https://amudanan.co.il/#!wiki=P202253",
+"img": "https://amudanan.co.il/services/thumb.php?file=../w/images/2023-04-28T07_25_43.994686117846.jpg&size=640"
+}
+},
+{
+"type": "Feature",
+"geometry": {
+"type": "Point",
+"coordinates": [
+34.784882,
+31.114753
+]
+},
+"properties": {
+"id": "P842441",
+"line": "south",
+"kind": "bridge",
+"name": "שריד גשר מסילה הרוס / בעיית מעבר",
+"desc": "בקטע זה של הנחל מבוצעות עבודות להנחת צינור. לא ניתן לעבור לכוון נחל הד אלא לאחר נסיעה ארוכה צפונה. לפיכך הנסיעה לנחל הד יש לבצע כבר מאזור הדיונה הגדולה , ולאורך ציר הרכס החולי במגמה מערבה",
+"by": "Taylorh, Oferg22, Amnonl",
+"url": "https://amudanan.co.il/#!wiki=P842441",
+"img": "https://amudanan.co.il/services/thumb.php?file=../w/images/2015.12.16-081420.169.android.jpg&size=640"
+}
+},
+{
+"type": "Feature",
+"geometry": {
+"type": "Point",
+"coordinates": [
+34.790085,
+31.093083
+]
+},
+"properties": {
+"id": "P242752",
+"line": "south",
+"kind": "culvert",
+"name": "מעביר מים  במסילה התורכית",
+"desc": "נמצא בעמק לס-חול בין דיונות. המתקן הרוס ואבני קירטון חלקן מסותתות מפוזרות מסביבו. שרדו חלקית 3-4 נדבכים ישרים וקשת. כל אבני הבנייה קירטוניות. מקור: אתר 99 בסקר אתרי רמת נגב, וסקר הרכבת התורכית \"כשקטרים צפרו בנגב\". סקר וערך אמנון (בוצי) ליבנה",
+"by": "Amnonl",
+"url": "https://amudanan.co.il/#!wiki=P242752"
+}
+},
+{
+"type": "Feature",
+"geometry": {
+"type": "Point",
+"coordinates": [
+34.779066,
+31.072611
+]
+},
+"properties": {
+"id": "P196376",
+"line": "south",
+"kind": "embankment",
+"name": "{כמעט} מפגש מסילות",
+"desc": "אחד משני מפגשים של קו רכבת צרה עם המסילה הראשית. הקו הצר הגיע עד לביר עסלוג' ובעבר הלא רחוק ניתן היה לראות את הסוללה הצרה בסמוך לנחל רביבים. לכל אור התוואי אין מעבירי מים והיחיד הקיים כלל אינו נראה כמו מעביר מים בקו הראשי. מקור: סקר אתרי רמת נגב. פרטים נוספים רבים באתר 140.",
+"by": "Amnonl, צוות08",
+"url": "https://amudanan.co.il/#!wiki=P196376"
+}
+},
+{
+"type": "Feature",
+"geometry": {
+"type": "Point",
+"coordinates": [
+34.779204,
+31.065295
+]
+},
+"properties": {
+"id": "P171747",
+"line": "south",
+"kind": "culvert",
+"name": "מעביר מים קשתי במסילה התורכית",
+"desc": "המעביר נמוך מאד מעל הסחף נראים נדבך ישר אחד ושני נדבכי קשת, משני עברי אבן הראשה. בנוי מאבני קירטון מתבלות. מקור: אתר 108 בסקר המסילה התורכית \"כשקטרים צפרו בנגב\" סקר וערך אמנון (בוצי) ליבנה",
+"by": "Amnonl, צוות08",
+"url": "https://amudanan.co.il/#!wiki=P171747"
+}
+},
+{
+"type": "Feature",
+"geometry": {
+"type": "Point",
+"coordinates": [
+34.779024,
+31.061904
+]
+},
+"properties": {
+"id": "P175423",
+"line": "south",
+"kind": "cutting",
+"name": "חפיר הרכבת הטורקית מנחל שורק לקוסיימה",
+"desc": "חפיר של מסילת הרכבת הטורקית לקוסיימה שנבנתה בתקופת מלחמת העולם הראשונה",
+"by": "דני גר, רן גרול, צוות08",
+"url": "https://amudanan.co.il/#!wiki=P175423",
+"img": "https://amudanan.co.il/services/thumb.php?file=../w/images/Atadim_stream_dugouts_-_Train_from_Sorek_to_Kusseima_-_dugout_4.jpg&size=640"
+}
+},
+{
+"type": "Feature",
+"geometry": {
+"type": "Point",
+"coordinates": [
+34.780325,
+31.060878
+]
+},
+"properties": {
+"id": "P340284",
+"line": "south",
+"kind": "culvert",
+"name": "מעביר מים בסוללת הרכבת התורכית",
+"desc": "ממערב מבתר חצוב בשלוחה",
+"by": "שלמי אהרן, Ilafer, צוות08",
+"url": "https://amudanan.co.il/#!wiki=P340284",
+"img": "https://amudanan.co.il/services/thumb.php?file=../w/images/2015.05.21-144958.364.android.jpg&size=640"
+}
+},
+{
+"type": "Feature",
+"geometry": {
+"type": "Point",
+"coordinates": [
+34.782286,
+31.059074
+]
+},
+"properties": {
+"id": "P768429",
+"line": "south",
+"kind": "culvert",
+"name": "גשרון רכבת טורקי",
+"desc": "שרידי גשרון רכבת טורקי של מסילת הרכבת הטורקית לקוסיימה שנבנתה בתקופת מלחמת העולם הראשונה",
+"by": "דני גר, Ilafer, צוות08",
+"url": "https://amudanan.co.il/#!wiki=P768429",
+"img": "https://amudanan.co.il/services/thumb.php?file=../w/images/Atadim_stream_bridges_-_Train_from_Sorek_to_Kusseima_-_bridge_7.jpg&size=640"
+}
+},
+{
+"type": "Feature",
+"geometry": {
+"type": "Point",
+"coordinates": [
+34.783947,
+31.056516
+]
+},
+"properties": {
+"id": "P858569",
+"line": "south",
+"kind": "culvert",
+"name": "מעביר מים קשתי במסילה התורכית",
+"desc": "מעל הסחף בקרקעית נראים 3 נדבכים ישרים ו-4 נדבכי קשת משני עברי אבן הראשה. אבני הבנייה הם קירטוניות ומתפוררות. הגג החשוף של הקימרון מכוסה כולו במלט בהיר. על פי רוב הגג מכוסה אדמה ולא ניתן לראות פרט זה. מקור: סקר סוללת הרכבת התורכית \"כשקטרים צפרו בנגב\" אתר 103. סקר וערך אמנון (בוצי) ליבנה",
+"by": "Amnonl",
+"url": "https://amudanan.co.il/#!wiki=P858569"
+}
+},
+{
+"type": "Feature",
+"geometry": {
+"type": "Point",
+"coordinates": [
+34.784346,
+31.05514
+]
+},
+"properties": {
+"id": "P690944",
+"line": "south",
+"kind": "cutting",
+"name": "חפיר הרכבת הטורקית מנחל שורק לקוסיימה",
+"desc": "חפיר של מסילת הרכבת הטורקית לקוסיימה שנבנתה בתקופת מלחמת העולם הראשונה",
+"by": "דני גר, צוות08",
+"url": "https://amudanan.co.il/#!wiki=P690944",
+"img": "https://amudanan.co.il/services/thumb.php?file=../w/images/Atadim_stream_dugouts_-_Train_from_Sorek_to_Kusseima_-_dugout_3.jpg&size=640"
+}
+},
+{
+"type": "Feature",
+"geometry": {
+"type": "Point",
+"coordinates": [
+34.785805,
+31.052603
+]
+},
+"properties": {
+"id": "P691590",
+"line": "south",
+"kind": "cutting",
+"name": "חפיר הרכבת הטורקית מנחל שורק לקוסיימה",
+"desc": "חפיר של מסילת הרכבת הטורקית לקוסיימה שנבנתה בתקופת מלחמת העולם הראשונה",
+"by": "דני גר, צוות08",
+"url": "https://amudanan.co.il/#!wiki=P691590",
+"img": "https://amudanan.co.il/services/thumb.php?file=../w/images/Atadim_stream_dugouts_-_Train_from_Sorek_to_Kusseima_-_dugout_2.jpg&size=640"
+}
+},
+{
+"type": "Feature",
+"geometry": {
+"type": "Point",
+"coordinates": [
+34.787006,
+31.04889
+]
+},
+"properties": {
+"id": "P62319",
+"line": "south",
+"kind": "culvert",
+"name": "שרידי גשרון רכבת טורקי",
+"desc": "שרידי גשרון רכבת טורקי של מסילת הרכבת הטורקית לקוסיימה שנבנתה בתקופת מלחמת העולם הראשונה",
+"by": "דני גר, צוות08",
+"url": "https://amudanan.co.il/#!wiki=P62319",
+"img": "https://amudanan.co.il/services/thumb.php?file=../w/images/Atadim_stream_bridges_-_Train_from_Sorek_to_Kusseima_-_bridge_6.jpg&size=640"
+}
+},
+{
+"type": "Feature",
+"geometry": {
+"type": "Point",
+"coordinates": [
+34.787393,
+31.046463
+]
+},
+"properties": {
+"id": "P741232",
+"line": "south",
+"kind": "cutting",
+"name": "חפיר הרכבת הטורקית מנחל שורק לקוסיימה",
+"desc": "חפיר של מסילת הרכבת הטורקית לקוסיימה שנבנתה בתקופת מלחמת העולם הראשונה",
+"by": "דני גר, צוות08",
+"url": "https://amudanan.co.il/#!wiki=P741232",
+"img": "https://amudanan.co.il/services/thumb.php?file=../w/images/Atadim_stream_dugouts_-_Train_from_Sorek_to_Kusseima_-_dugout_1.jpg&size=640"
+}
+},
+{
+"type": "Feature",
+"geometry": {
+"type": "Point",
+"coordinates": [
+34.788294,
+31.043669
+]
+},
+"properties": {
+"id": "P875837",
+"line": "south",
+"kind": "culvert",
+"name": "גשרון רכבת טורקי",
+"desc": "שרידי גשרון רכבת טורקי של מסילת הרכבת הטורקית לקוסיימה שנבנתה בתקופת מלחמת העולם הראשונה נכון לאוגוסט 25 אין גשר שלם באתר",
+"by": "דני גר, Ilafer, צוות08,Ram88",
+"url": "https://amudanan.co.il/#!wiki=P875837",
+"img": "https://amudanan.co.il/services/thumb.php?file=../w/images/Atadim_stream_bridges_-_Train_from_Sorek_to_Kusseima_-_bridge_5.jpg&size=640"
+}
+},
+{
+"type": "Feature",
+"geometry": {
+"type": "Point",
+"coordinates": [
+34.791641,
+31.039477
+]
+},
+"properties": {
+"id": "P288782",
+"line": "south",
+"kind": "culvert",
+"name": "גשרון רכבת טורקי-גשרון נחל שחר",
+"desc": "שרידי גשרון רכבת טורקי של מסילת הרכבת הטורקית לקוסיימה שנבנתה בתקופת מלחמת העולם הראשונה",
+"by": "דני גר, צוות08",
+"url": "https://amudanan.co.il/#!wiki=P288782",
+"img": "https://amudanan.co.il/services/thumb.php?file=../w/images/Atadim_stream_bridges_-_Train_from_Sorek_to_Kusseima_-_bridge_4.jpg&size=640"
+}
+},
+{
+"type": "Feature",
+"geometry": {
+"type": "Point",
+"coordinates": [
+34.79207,
+31.038264
+]
+},
+"properties": {
+"id": "P371438",
+"line": "south",
+"kind": "culvert",
+"name": "גשרון רכבת טורקי-גשרון נחל אטדים",
+"desc": "שרידי גשרון רכבת טורקי של מסילת הרכבת הטורקית לקוסיימה שנבנתה בתקופת מלחמת העולם הראשונה",
+"by": "דני גר, Amnonl, צוות08",
+"url": "https://amudanan.co.il/#!wiki=P371438",
+"img": "https://amudanan.co.il/services/thumb.php?file=../w/images/Atadim_stream_bridges_-_Train_from_Sorek_to_Kusseima_-_bridge_2.jpg&size=640"
+}
+},
+{
+"type": "Feature",
+"geometry": {
+"type": "Point",
+"coordinates": [
+34.792461,
+31.03673
+]
+},
+"properties": {
+"id": "P263703",
+"line": "south",
+"kind": "embankment",
+"name": "סוללת הרכבת התורכית",
+"desc": "קטע ארוך מתוואי סוללת הרכבת התורכית, שנסללה בתחילת מלחמת העולם הראשונה מב\"ש לקסיימה. הסוללה נחצת ע\"י מתחם רמת חובב.",
+"by": "Ilafer,רונן ג",
+"url": "https://amudanan.co.il/#!wiki=P263703",
+"img": "https://amudanan.co.il/services/thumb.php?file=../w/images/%D7%9E%D7%95%D7%A2%D7%A6%D7%94_%D7%9B%D7%97%D7%95%D7%9C.JPG&size=640"
+}
+},
+{
+"type": "Feature",
+"geometry": {
+"type": "Point",
+"coordinates": [
+34.793015,
+31.035138
+]
+},
+"properties": {
+"id": "P268997",
+"line": "south",
+"kind": "culvert",
+"name": "גשרון רכבת טורקי",
+"desc": "שרידי גשרון רכבת טורקי של מסילת הרכבת הטורקית לקוסיימה שנבנתה בתקופת מלחמת העולם הראשונה",
+"by": "דני גר, צוות08",
+"url": "https://amudanan.co.il/#!wiki=P268997",
+"img": "https://amudanan.co.il/services/thumb.php?file=../w/images/Atadim_stream_bridges_-_Train_from_Sorek_to_Kusseima_-_bridge_2.jpg&size=640"
+}
+},
+{
+"type": "Feature",
+"geometry": {
+"type": "Point",
+"coordinates": [
+34.796019,
+31.030762
+]
+},
+"properties": {
+"id": "P660964",
+"line": "south",
+"kind": "culvert",
+"name": "שרידי גשרון רכבת",
+"desc": "שרידי גשרון רכבת טורקי של מסילת הרכבת הטורקית לקוסיימה שנבנתה בתקופת מלחמת העולם הראשונה",
+"by": "דני גר",
+"url": "https://amudanan.co.il/#!wiki=P660964",
+"img": "https://amudanan.co.il/services/thumb.php?file=../w/images/Atadim_stream_bridges_-_Train_from_Sorek_to_Kusseima_-_bridge_1.jpg&size=640"
+}
+},
+{
+"type": "Feature",
+"geometry": {
+"type": "Point",
+"coordinates": [
+34.796276,
+31.029806
+]
+},
+"properties": {
+"id": "P300780",
+"line": "south",
+"kind": "embankment",
+"name": "סוללת רכבת תורכית",
+"desc": "קטע מתוואי סוללת הרכבת התורכית, שנסללה בתחילת מלחמת העולם הראשונה מב\"ש לקסיימה. במקום זה, בוצעה ע\"י מקורות עבודת דחיקת צינור מים לעיר הבה\"דים מתחת לסולל על מנת לא לפגוע בה.",
+"by": "Ilafer, דני גר",
+"url": "https://amudanan.co.il/#!wiki=P300780",
+"img": "https://amudanan.co.il/services/thumb.php?file=../w/images/%D7%9E%D7%95%D7%A2%D7%A6%D7%94_%D7%9B%D7%97%D7%95%D7%9C.JPG&size=640"
+}
+},
+{
+"type": "Feature",
+"geometry": {
+"type": "Point",
+"coordinates": [
+34.782425,
+31.013017
+]
+},
+"properties": {
+"id": "P45207",
+"line": "south",
+"kind": "embankment",
+"name": "תוואי מסילת הרכבת התורכית",
+"desc": "קטע קצר אך בולט, של תוואי מסילת הרכבת התורכית מב\"ש לקסיימה. משיק לגבעה וממשיך לגשר על נחל הבשור. המסילה הוקמה בתחילת מלחמת העולם הראשונה. למעשה המסילה הגיעה עד אחרי ניצנה לקסיימה.",
+"by": "Ilafer",
+"url": "https://amudanan.co.il/#!wiki=P45207",
+"img": "https://amudanan.co.il/services/thumb.php?file=../w/images/IMG_8693.JPG&size=640"
+}
+},
+{
+"type": "Feature",
+"geometry": {
+"type": "Point",
+"coordinates": [
+34.781427,
+31.012631
+]
+},
+"properties": {
+"id": "P242013",
+"line": "south",
+"kind": "culvert",
+"name": "גשרון רכבת טורקי",
+"desc": "גשרון בסוללת הרכבת הטורקית - מסילת הרכבת מנחל שורק לקוסיימה",
+"by": "דני גר, Ilafer, Amnonl",
+"url": "https://amudanan.co.il/#!wiki=P242013",
+"img": "https://amudanan.co.il/services/thumb.php?file=../w/images/Bir_Asluj_to_Ashalim_section_-_Train_from_Sorek_to_Kusseima_-_bridge_near_Bir_Asluj_1.jpg&size=640"
+}
+},
+{
+"type": "Feature",
+"geometry": {
+"type": "Point",
+"coordinates": [
+34.770209,
+31.001795
+]
+},
+"properties": {
+"id": "P65930",
+"line": "south",
+"kind": "culvert",
+"name": "מעביר מים קשתי סוללת רכבת תורכית",
+"desc": "מעביר מים שמור היטב אך סתום כמעט לכל גובה הקשת. כביש 40 וחלק ממתחם מועצה אזורית רמת נגב חוצים את תוואי המסילה שממערב לכביש. התוואי נראה מחדש ממזרח לכביש, כסוללה גבוהה על עמק הנחלים הימן ורביבים.",
+"by": "Ilafer",
+"url": "https://amudanan.co.il/#!wiki=P65930",
+"img": "https://amudanan.co.il/services/thumb.php?file=../w/images/%D7%9C%D7%9C%D7%90_%D7%A9%D7%9D_7.jpg&size=640"
+}
+},
+{
+"type": "Feature",
+"geometry": {
+"type": "Point",
+"coordinates": [
+34.768982,
+31.000713
+]
+},
+"properties": {
+"id": "P743737",
+"line": "south",
+"kind": "culvert",
+"name": "גשרון רכבת טורקי",
+"desc": "גשרון בסוללת הרכבת הטורקית - מסילת הרכבת מנחל שורק לקוסיימה",
+"by": "דני גר, Ilafer",
+"url": "https://amudanan.co.il/#!wiki=P743737",
+"img": "https://amudanan.co.il/services/thumb.php?file=../w/images/Bir_Asluj_to_Ashalim_section_-_Train_from_Sorek_to_Kusseima_-_bridge_near_Tlalim_1.jpg&size=640"
+}
+},
+{
+"type": "Feature",
+"geometry": {
+"type": "Point",
+"coordinates": [
+34.767952,
+30.999536
+]
+},
+"properties": {
+"id": "P318530",
+"line": "south",
+"kind": "embankment",
+"name": "קטע נוסף מסילת רבת תורכית",
+"desc": "קטע קצר אך בולט, של תוואי מסילת הרכבת התורכית מב\"ש לקסיימה. משיק לגבעה וממשיך לגשר על נחל הבשור. המסילה הוקמה בתחילת מלחמת העולם הראשונה. למעשה המסילה הגיעה עד אחרי ניצנה לקסיימה.",
+"by": "Ilafer",
+"url": "https://amudanan.co.il/#!wiki=P318530",
+"img": "https://amudanan.co.il/services/thumb.php?file=../w/images/IMG_8906.JPG&size=640"
+}
+},
+{
+"type": "Feature",
+"geometry": {
+"type": "Point",
+"coordinates": [
+34.75585,
+30.985961
+]
+},
+"properties": {
+"id": "P642221",
+"line": "south",
+"kind": "culvert",
+"name": "גשרון רכבת טורקי",
+"desc": "גשרון בסוללת הרכבת הטורקית - מסילת הרכבת מנחל שורק לקוסיימה",
+"by": "דני גר, Ilafer, Amnonl",
+"url": "https://amudanan.co.il/#!wiki=P642221",
+"img": "https://amudanan.co.il/services/thumb.php?file=../w/images/Bir_Asluj_to_Ashalim_section_-_Train_from_Sorek_to_Kusseima_-_bridge_near_Tlalim_2.jpg&size=640"
+}
+},
+{
+"type": "Feature",
+"geometry": {
+"type": "Point",
+"coordinates": [
+34.752942,
+30.984256
+]
+},
+"properties": {
+"id": "P508339",
+"line": "south",
+"kind": "culvert",
+"name": "מעביר מים קשתי סוללת רכבת תורכית",
+"desc": "גובה תקרתו כ-שני מטר מהרצפה. הקשת בנויה מ-3 נדבכים ישרים ו-6 נדבכי קשת משני עברי אבן הראשה. כל אבני הגזית של הכנפיים נשדדו. כאן כל נדבכי הקשת מסותתים בשיטת סיתות שוליים וזיז.",
+"by": "Ilafer, Amnonl",
+"url": "https://amudanan.co.il/#!wiki=P508339",
+"img": "https://amudanan.co.il/services/thumb.php?file=../w/images/%D7%9C%D7%9C%D7%90_%D7%A9%D7%9D_6.jpg&size=640"
+}
+},
+{
+"type": "Feature",
+"geometry": {
+"type": "Point",
+"coordinates": [
+34.7492,
+30.983034
+]
+},
+"properties": {
+"id": "P740285",
+"line": "south",
+"kind": "bridge",
+"name": "גשר נחל באר חיל צפון סוללת רכבת תורכית",
+"desc": "אורכו כ-20 מטר. בין האומנות החיצוניות נותרו 4 בסיסי אומנות קשתות. בכל שרידי האומנות נותרו מעט אבני גזית. ממרום הסוללה הגבוהה כאן, נראה לכל אורכה שקע חפירת הקרקע. שרוחבו כ-10 מטר.",
+"by": "Ilafer, Amnonl",
+"url": "https://amudanan.co.il/#!wiki=P740285",
+"img": "https://amudanan.co.il/services/thumb.php?file=../w/images/%D7%9C%D7%9C%D7%90_%D7%A9%D7%9D_5.jpg&size=640"
+}
+},
+{
+"type": "Feature",
+"geometry": {
+"type": "Point",
+"coordinates": [
+34.743276,
+30.981068
+]
+},
+"properties": {
+"id": "P67221",
+"line": "south",
+"kind": "bridge",
+"name": "גשר נחל באר חיל דרום סוללת רכבת תורכית",
+"desc": "אורכו כ-15 מטר. בשתי האומנות החיצוניות שרדו רוב אבני הגזית. צילומים: 0378-0395 במרכז הגשר חשוף יסוד אומנת קשתות. כנראה אחד משניים. הערוץ הפעיל מתחתר לרגלי האומנה הדרומית וחושף את יסודותיה.",
+"by": "Ilafer, Amnonl",
+"url": "https://amudanan.co.il/#!wiki=P67221",
+"img": "https://amudanan.co.il/services/thumb.php?file=../w/images/%D7%9C%D7%9C%D7%90_%D7%A9%D7%9D_4.jpg&size=640"
+}
+},
+{
+"type": "Feature",
+"geometry": {
+"type": "Point",
+"coordinates": [
+34.72935,
+30.976793
+]
+},
+"properties": {
+"id": "P580931",
+"line": "south",
+"kind": "culvert",
+"name": "מעביר מים קשתי סוללת רכבת תורכית",
+"desc": "לא נותרו בחזיתות אבני גזית. סתום בחלקו. נראים רק שני נדבכים ישרים 5 נדבכי קשת משני עברי אבן הראשה. צילומים:0523-0524 בשנים האחרונות הוסדר כאן הערוץ ואפיק הזרימה הוסט לפרצה בסוללה. נראה כאן עיקול קל לסוללה. למעביר מים זה חלק בהיסטוריה של מלחמת העצמאות. תחתיו הוסתרו פצועי \"הקומנדו הצרפתי\" באחד מקרבות משלטי התמילה. ושם…",
+"by": "Ilafer, אילןנאמן, Amnonl, קטנוע שטח",
+"url": "https://amudanan.co.il/#!wiki=P580931",
+"img": "https://amudanan.co.il/services/thumb.php?file=../w/images/%D7%9C%D7%9C%D7%90_%D7%A9%D7%9D_2.jpg&size=640"
+}
+},
+{
+"type": "Feature",
+"geometry": {
+"type": "Point",
+"coordinates": [
+34.708471,
+30.970213
+]
+},
+"properties": {
+"id": "P791129",
+"line": "south",
+"kind": "culvert",
+"name": "גשרון רכבת טורקי תחתיו נרצחו חיילי הקומנדו הצרפתי",
+"desc": "גשרון רכבת טורקי תחתיו נרצחו חיילי הקומנדו הצרפתי. הגשר נמצא בשולי מטע הזיתים של אשלים. 27.1.17-שלט ההנצחה אינו קים. טעות בזיהוי המקום",
+"by": "דני גר, Ilafer, צוות08, Amnonl",
+"url": "https://amudanan.co.il/#!wiki=P791129",
+"img": "https://amudanan.co.il/services/thumb.php?file=../w/images/The_French_commando_site_-_the_bridge_2.jpg&size=640"
+}
+},
+{
+"type": "Feature",
+"geometry": {
+"type": "Point",
+"coordinates": [
+34.705877,
+30.969185
+]
+},
+"properties": {
+"id": "P385094",
+"line": "south",
+"kind": "culvert",
+"name": "גשרון רכבת טורקית",
+"desc": "מכוסה בחול ברובו הגדול.",
+"by": "שמעון כהן, צוות08, Amnonl",
+"url": "https://amudanan.co.il/#!wiki=P385094",
+"img": "https://amudanan.co.il/services/thumb.php?file=../w/images/2017.01.27-084049.128.android.jpg&size=640"
+}
+},
+{
+"type": "Feature",
+"geometry": {
+"type": "Point",
+"coordinates": [
+34.681601,
+30.954674
+]
+},
+"properties": {
+"id": "P373805",
+"line": "south",
+"kind": "embankment",
+"name": "קטע סוללת רכבת תורכית",
+"desc": "קטע סוללת הרכבת בתורכית 1916, מבאר שבע לכיוון תעלת סואץ, כאשר בפועל הסוללה הגיעה לקסיימה. הסוללה נהרסה ברובה אחרי הקמת מושב אשלים וזהו שריד שנותר מהסוללה. דרומית מזרחית לו, שרידי מעביר מים שנבנה לטובת הסוללה.",
+"by": "Ilafer",
+"url": "https://amudanan.co.il/#!wiki=P373805"
+}
+},
+{
+"type": "Feature",
+"geometry": {
+"type": "Point",
+"coordinates": [
+34.676199,
+30.950672
+]
+},
+"properties": {
+"id": "P128018",
+"line": "south",
+"kind": "bridge",
+"name": "גשר רכבת טורקי",
+"desc": "גשר רכבת. עומד באמצע שדה חקלאי. הסוללה משני צידי הגשר נעלמה. 20.06.20 בשטח מגדלים חוחובה",
+"by": "דני גר, Ilafer, Benie, Amnonl",
+"url": "https://amudanan.co.il/#!wiki=P128018",
+"img": "https://amudanan.co.il/services/thumb.php?file=../w/images/Ashalim_to_Lavan_stream_section_-_Train_from_Sorek_to_Kusseima_-_bridge_1.jpg&size=640"
+}
+},
+{
+"type": "Feature",
+"geometry": {
+"type": "Point",
+"coordinates": [
+34.663161,
+30.939797
+]
+},
+"properties": {
+"id": "P793439",
+"line": "south",
+"kind": "station",
+"name": "תחנת רכבת, שדה פקועה תמילת ראשד",
+"desc": "בתחנה שרדו שלושה מבנים-מתקנים. באר מקורה, רצפת מבנה מוגבהת, כנראה מתקן מים כלשהו ונדבכים אחדים במבנה שלישי. על הרצפות שרידי לבני חימר חלולות ושברי רעפי חרס שנושאים את הטביעה JREUSALEM. בתחנה היו שתי מסילות בלבד.",
+"by": "Amnonl",
+"url": "https://amudanan.co.il/#!wiki=P793439"
+}
+},
+{
+"type": "Feature",
+"geometry": {
+"type": "Point",
+"coordinates": [
+34.62101,
+30.911835
+]
+},
+"properties": {
+"id": "P430182",
+"line": "south",
+"kind": "culvert",
+"name": "גשרון רכבת טורקי",
+"desc": "גשרון השייך למסילת הרכבת הטורקית מנחל שורק לקוסיימה. הרכבת נבנתה בתקופת מלחמת העולם הראשונה.",
+"by": "דני גר, Ilafer,נעם שמרלר",
+"url": "https://amudanan.co.il/#!wiki=P430182",
+"img": "https://amudanan.co.il/services/thumb.php?file=../w/images/Ashalim_to_Lavan_stream_section_-_Karcha_valley_-_bridge_1.jpg&size=640"
+}
+},
+{
+"type": "Feature",
+"geometry": {
+"type": "Point",
+"coordinates": [
+34.617534,
+30.908705
+]
+},
+"properties": {
+"id": "P763163",
+"line": "south",
+"kind": "embankment",
+"name": "סוללת רכבת",
+"desc": "סוללת עפר השייכת למסילת הרכבת הטורקית מנחל שורק לקוסיימה. הרכבת נבנתה בתקופת מלחמת העולם הראשונה.",
+"by": "דני גר",
+"url": "https://amudanan.co.il/#!wiki=P763163",
+"img": "https://amudanan.co.il/services/thumb.php?file=../w/images/Ashalim_to_Lavan_stream_section_-_Karcha_valley_-_dugout_1.jpg&size=640"
+}
+},
+{
+"type": "Feature",
+"geometry": {
+"type": "Point",
+"coordinates": [
+34.617062,
+30.908227
+]
+},
+"properties": {
+"id": "P741629",
+"line": "south",
+"kind": "culvert",
+"name": "גשרון רכבת טורקי",
+"desc": "גשרון השייך למסילת הרכבת הטורקית מנחל שורק לקוסיימה. הרכבת נבנתה בתקופת מלחמת העולם הראשונה.",
+"by": "דני גר, Ilafer",
+"url": "https://amudanan.co.il/#!wiki=P741629",
+"img": "https://amudanan.co.il/services/thumb.php?file=../w/images/Ashalim_to_Lavan_stream_section_-_Karcha_valley_-_bridge_2.jpg&size=640"
+}
+},
+{
+"type": "Feature",
+"geometry": {
+"type": "Point",
+"coordinates": [
+34.615173,
+30.906312
+]
+},
+"properties": {
+"id": "P90791",
+"line": "south",
+"kind": "culvert",
+"name": "גשרון רכבת טורקי",
+"desc": "גשרון השייך למסילת הרכבת הטורקית מנחל שורק לקוסיימה. הרכבת נבנתה בתקופת מלחמת העולם הראשונה.",
+"by": "דני גר, Ilafer",
+"url": "https://amudanan.co.il/#!wiki=P90791",
+"img": "https://amudanan.co.il/services/thumb.php?file=../w/images/Ashalim_to_Lavan_stream_section_-_Karcha_valley_-_bridge_3.jpg&size=640"
+}
+},
+{
+"type": "Feature",
+"geometry": {
+"type": "Point",
+"coordinates": [
+34.531531,
+30.904471
+]
+},
+"properties": {
+"id": "P419053",
+"line": "south",
+"kind": "culvert",
+"name": "גשרון רכבת טורקי",
+"desc": "גשרון של הרכבת הטורקית לייד גשר נחל לבן",
+"by": "דני גר, Ilafer, Amnonl",
+"url": "https://amudanan.co.il/#!wiki=P419053",
+"img": "https://amudanan.co.il/services/thumb.php?file=../w/images/Lavan_stream_to_Nizana_section_-_west_to_Lavan_bridge_2.jpg&size=640"
+}
+},
+{
+"type": "Feature",
+"geometry": {
+"type": "Point",
+"coordinates": [
+34.606075,
+30.902998
+]
+},
+"properties": {
+"id": "P881760",
+"line": "south",
+"kind": "culvert",
+"name": "גשרון רכבת טורקי",
+"desc": "גשרון השייך למסילת הרכבת הטורקית מנחל שורק לקוסיימה. הרכבת נבנתה בתקופת מלחמת העולם הראשונה.",
+"by": "דני גר, Ilafer",
+"url": "https://amudanan.co.il/#!wiki=P881760",
+"img": "https://amudanan.co.il/services/thumb.php?file=../w/images/Ashalim_to_Lavan_stream_section_-_Karcha_valley_-_bridge_5.jpg&size=640"
+}
+},
+{
+"type": "Feature",
+"geometry": {
+"type": "Point",
+"coordinates": [
+34.535866,
+30.902151
+]
+},
+"properties": {
+"id": "P224341",
+"line": "south",
+"kind": "culvert",
+"name": "גשרון רכבת טורקי",
+"desc": "גשרון של הרכבת הטורקית לייד גשר נחל לבן",
+"by": "דני גר, Ilafer, Amnonl",
+"url": "https://amudanan.co.il/#!wiki=P224341",
+"img": "https://amudanan.co.il/services/thumb.php?file=../w/images/Lavan_stream_to_Nizana_section_-_west_to_Lavan_bridge_1.jpg&size=640"
+}
+},
+{
+"type": "Feature",
+"geometry": {
+"type": "Point",
+"coordinates": [
+34.604191,
+30.902097
+]
+},
+"properties": {
+"id": "P288600",
+"line": "south",
+"kind": "water",
+"name": "בור מים",
+"desc": "הבור צמוד לסוללת הרכבת התורכית, מצידה המערבי. בחולייתו מספר אבני גזית מהמסילה. מתפקד עד לימים אלה (2017). כנראה שהבור היה קיים, בעת סלילת המסילה. מקור אמנון ליבנה",
+"by": "Amnonl",
+"url": "https://amudanan.co.il/#!wiki=P288600"
+}
+},
+{
+"type": "Feature",
+"geometry": {
+"type": "Point",
+"coordinates": [
+34.603586,
+30.902004
+]
+},
+"properties": {
+"id": "P87749",
+"line": "south",
+"kind": "culvert",
+"name": "גשרון רכבת טורקי עם קשת כפולה",
+"desc": "גשרון השייך למסילת הרכבת הטורקית מנחל שורק לקוסיימה. הרכבת נבנתה בתקופת מלחמת העולם הראשונה.",
+"by": "דני גר, Ilafer",
+"url": "https://amudanan.co.il/#!wiki=P87749",
+"img": "https://amudanan.co.il/services/thumb.php?file=../w/images/Ashalim_to_Lavan_stream_section_-_Karcha_valley_-_bridge_6.jpg&size=640"
+}
+},
+{
+"type": "Feature",
+"geometry": {
+"type": "Point",
+"coordinates": [
+34.514279,
+30.900494
+]
+},
+"properties": {
+"id": "P779861",
+"line": "south",
+"kind": "bridge",
+"name": "שרידי גשר טורקי בינוני",
+"desc": "שרידי גשרון של מסילת הרכבת הטורקית מנחל שורק לקוסיימה.",
+"by": "דני גר, Ilafer",
+"url": "https://amudanan.co.il/#!wiki=P779861",
+"img": "https://amudanan.co.il/services/thumb.php?file=../w/images/Ashalim_to_Lavan_stream_section_-_Shadmot_Shezaf_area_-_bridge_1_south.jpg&size=640"
+}
+},
+{
+"type": "Feature",
+"geometry": {
+"type": "Point",
+"coordinates": [
+34.561563,
+30.8997
+]
+},
+"properties": {
+"id": "P539745",
+"line": "south",
+"kind": "water",
+"name": "בור מים- מאגורה",
+"desc": "המאגורה חצובה לרגלי רכס גבעות מצפון לאפיק נחל לבן. סוללת הרכבת התורכית סמוכה למאגורה. המאגורה ניזונה מתעלת איסוף ארוכה שמתמשכת במעלה מדרון הרכס שמעליו. בתעלה שהשתמרה היטב מספר קטעים חצובים ובנויים באבני גוויל. המאגורה גדולה, 11X11מ'גובה תקרתה כ-5 מ' עמוד התמך החצוב התמוטט עם חלק מהתקרה. נבנה בחלקו מחדש באבני…",
+"by": "Amnonl",
+"url": "https://amudanan.co.il/#!wiki=P539745"
+}
+},
+{
+"type": "Feature",
+"geometry": {
+"type": "Point",
+"coordinates": [
+34.559855,
+30.899542
+]
+},
+"properties": {
+"id": "P134140",
+"line": "south",
+"kind": "culvert",
+"name": "גשרון  רכבת  עתיק",
+"desc": "גשרון עתיק",
+"by": "סופה 1",
+"url": "https://amudanan.co.il/#!wiki=P134140",
+"img": "https://amudanan.co.il/services/thumb.php?file=../w/images/2017.03.10-155946.865.android.jpg&size=640"
+}
+},
+{
+"type": "Feature",
+"geometry": {
+"type": "Point",
+"coordinates": [
+34.554191,
+30.899131
+]
+},
+"properties": {
+"id": "P675357",
+"line": "south",
+"kind": "culvert",
+"name": "גשרון רכבת טורקי",
+"desc": "גשרון של מסילת הרכבת הטורקית מנחל שורק לניצנה. נחל לבן. נבנה במלחמת העולם הראשונה.הרכבת עוברת פעמיים ביום",
+"by": "דני גר, Ilafer,enp",
+"url": "https://amudanan.co.il/#!wiki=P675357",
+"img": "https://amudanan.co.il/services/thumb.php?file=../w/images/Ashalim_to_Lavan_stream_section_-_Lavan_stream_bridge_1.jpg&size=640"
+}
+},
+{
+"type": "Feature",
+"geometry": {
+"type": "Point",
+"coordinates": [
+34.553118,
+30.898984
+]
+},
+"properties": {
+"id": "P217372",
+"line": "south",
+"kind": "embankment",
+"name": "סוללת רכבת",
+"desc": "סוללת עפר של מסילת הרכבת הטורקית בנחל לבן. המסילה נבנתה בתקופת מלחמת העולם הראשונה בין נחל שורק לקוסיימה",
+"by": "דני גר",
+"url": "https://amudanan.co.il/#!wiki=P217372",
+"img": "https://amudanan.co.il/services/thumb.php?file=../w/images/Ashalim_to_Lavan_stream_section_-_Lavan_stream_embankment_1.jpg&size=640"
+}
+},
+{
+"type": "Feature",
+"geometry": {
+"type": "Point",
+"coordinates": [
+34.550672,
+30.898358
+]
+},
+"properties": {
+"id": "P958057",
+"line": "south",
+"kind": "bridge",
+"name": "גשר רכבת טורקי",
+"desc": "גשר רכבת טורקי בנחל לבן",
+"by": "דני גר, Ilafer",
+"url": "https://amudanan.co.il/#!wiki=P958057",
+"img": "https://amudanan.co.il/services/thumb.php?file=../w/images/Ashalim_to_Lavan_stream_section_-_Train_from_Sorek_to_Kusseima_-_bridge_3.jpg&size=640"
+}
+},
+{
+"type": "Feature",
+"geometry": {
+"type": "Point",
+"coordinates": [
+34.549427,
+30.897916
+]
+},
+"properties": {
+"id": "P666306",
+"line": "south",
+"kind": "cutting",
+"name": "חפיר הרכבת על דופן נחל לבן",
+"desc": "חפיר הרכבת על דופן נחל לבן",
+"by": "דני גר",
+"url": "https://amudanan.co.il/#!wiki=P666306",
+"img": "https://amudanan.co.il/services/thumb.php?file=../w/images/Ashalim_to_Lavan_stream_section_-_Train_from_Sorek_to_Kusseima_-_dugout_1.jpg&size=640"
+}
+},
+{
+"type": "Feature",
+"geometry": {
+"type": "Point",
+"coordinates": [
+34.472939,
+30.897029
+]
+},
+"properties": {
+"id": "P826205",
+"line": "south",
+"kind": "bridge",
+"name": "גשר רכבת נחל רות",
+"desc": "שרידי גשר המסילה התורכית על נחל רות, לפי המרחק בין שתי האומנות החיצוניות ששרדו היה הגשר בן 6 קשתות. השרידים נמצאים כיום בין גדרות מתקן צבאי וקרבתו נעשו עבודות עפר. בשנות ה-80 לפני סגירתו בין הגדרות נראו במקום ערימות פריטי אבן כנרה לשם הוצאתם מהמקום. מקור: אמנון ליבנה",
+"by": "Amnonl",
+"url": "https://amudanan.co.il/#!wiki=P826205"
+}
+},
+{
+"type": "Feature",
+"geometry": {
+"type": "Point",
+"coordinates": [
+34.598393,
+30.896554
+]
+},
+"properties": {
+"id": "P896830",
+"line": "south",
+"kind": "culvert",
+"name": "גשרון רכבת טורקי",
+"desc": "גשרון השייך למסילת הרכבת הטורקית מנחל שורק לקוסיימה. הרכבת נבנתה בתקופת מלחמת העולם הראשונה.",
+"by": "דני גר, Ilafer",
+"url": "https://amudanan.co.il/#!wiki=P896830",
+"img": "https://amudanan.co.il/services/thumb.php?file=../w/images/Ashalim_to_Lavan_stream_section_-_Karcha_valley_-_bridge_7.jpg&size=640"
+}
+},
+{
+"type": "Feature",
+"geometry": {
+"type": "Point",
+"coordinates": [
+34.546595,
+30.896296
+]
+},
+"properties": {
+"id": "P297490",
+"line": "south",
+"kind": "cutting",
+"name": "חפיר הרכבת על דופן נחל לבן",
+"desc": "חפיר של מסילת הרכבת הטורקית בנחל לבן. המסילה נבנתה בתקופת מלחמת העולם הראשונה בין נחל שורק לקוסיימה",
+"by": "דני גר",
+"url": "https://amudanan.co.il/#!wiki=P297490",
+"img": "https://amudanan.co.il/services/thumb.php?file=../w/images/Ashalim_to_Lavan_stream_section_-_Lavan_stream_dugout_1.jpg&size=640"
+}
+},
+{
+"type": "Feature",
+"geometry": {
+"type": "Point",
+"coordinates": [
+34.57899,
+30.896286
+]
+},
+"properties": {
+"id": "P16101",
+"line": "south",
+"kind": "culvert",
+"name": "מעביר מים קשתי",
+"desc": "מעביר מים קשתי בסוללת הרכבת התורכית, פרט שונה מרוב מעבירי הקשת בסוללה. הוא צר ונמוך גובהו 1ממ' בלבד. שמור היטב. מקור: אמנון (בוצי) ליבנה",
+"by": "Amnonl",
+"url": "https://amudanan.co.il/#!wiki=P16101"
+}
+},
+{
+"type": "Feature",
+"geometry": {
+"type": "Point",
+"coordinates": [
+34.543033,
+30.896075
+]
+},
+"properties": {
+"id": "P555254",
+"line": "south",
+"kind": "culvert",
+"name": "גשרון רכבת טורקי",
+"desc": "גשרון של מסילת הרכבת הטורקית בנחל לבן. המסילה נבנתה בתקופת מלחמת העולם הראשונה בין נחל שורק לקוסיימה",
+"by": "דני גר, Ilafer, Amnonl",
+"url": "https://amudanan.co.il/#!wiki=P555254",
+"img": "https://amudanan.co.il/services/thumb.php?file=../w/images/Ashalim_to_Lavan_stream_section_-_Lavan_stream_bridge_2.jpg&size=640"
+}
+},
+{
+"type": "Feature",
+"geometry": {
+"type": "Point",
+"coordinates": [
+34.451879,
+30.895131
+]
+},
+"properties": {
+"id": "P885701",
+"line": "south",
+"kind": "embankment",
+"name": "קטע סוללת רכבת תורכית",
+"desc": "קטע מגודר ששרד מסוללת הרכבת התורכית מבאר שבע לקסיימה. במקום מחנות צבא ובתי כלא אשר מחקו את יתרת הסוללה.",
+"by": "Ilafer",
+"url": "https://amudanan.co.il/#!wiki=P885701",
+"img": "https://amudanan.co.il/services/thumb.php?file=../w/images/%D7%9E%D7%95%D7%A2%D7%A6%D7%94_%D7%9B%D7%97%D7%95%D7%9C.JPG&size=640"
+}
+},
+{
+"type": "Feature",
+"geometry": {
+"type": "Point",
+"coordinates": [
+34.587278,
+30.893755
+]
+},
+"properties": {
+"id": "P358378",
+"line": "south",
+"kind": "bridge",
+"name": "סוללה וגשר",
+"desc": "סוללה גבוהה של הרכבת העותמאנית מעל יובל של נחל לבן. בסוללה גשר מקושת יפה.סוללת המסילה עוזבת כאן את שולי עמק נחל לבן אל עבר הגבעות הנמוכות של שבטה בסוללה הגבוהה גשר גבוה כ- 4.0מ'. רוחבו 4.0מ' ואורך החלל 21מ'. רצפת הגשר מרוצפת. בסמוך לגשר, שכבות אבן גיר קשה ונראים סימני חציבה. באחת מאבנה המחצבה עקבות מקדח. במקום נמצא…",
+"by": "יוני ווקר, Rafael 4x4,Gilhadari,Goldiag8p",
+"url": "https://amudanan.co.il/#!wiki=P358378",
+"img": "https://amudanan.co.il/services/thumb.php?file=../w/images/%D7%92%D7%A9%D7%A8%D7%9C%D7%91%D7%9F%D7%A7%D7%A9%D7%AA.jpg&size=640"
+}
+},
+{
+"type": "Feature",
+"geometry": {
+"type": "Point",
+"coordinates": [
+34.443446,
+30.884953
+]
+},
+"properties": {
+"id": "P936617",
+"line": "south",
+"kind": "culvert",
+"name": "מעביר מים משולש מהטיפוס המרובע",
+"desc": "מעביר המים נמצא במישור רחב ידיים. סתום ברובו בסחף. בסקר המסילה זוהה רק עוד מתקן אחד זהה. מקור: אמנוןל",
+"by": "Amnonl",
+"url": "https://amudanan.co.il/#!wiki=P936617"
+}
+},
+{
+"type": "Feature",
+"geometry": {
+"type": "Point",
+"coordinates": [
+34.441402,
+30.874974
+]
+},
+"properties": {
+"id": "P697389",
+"line": "south",
+"kind": "water",
+"name": "הבאר הצפונית",
+"desc": "חפורה בסמוך לגדתו הצפונית של נחל ניצנה, מול מתקני הרכבת התורכית שבגדה הדרומית. מיקומה ניכר למרחוק על המישור הגדול. ערימת החלוקים והחומר הקירטוני הלבן נראית ממרחקים. הבאר אינה מדופנת ויש חשש להתקרב לשפתה. חפורה בשכבת חלוקים עבה וקרקעיתה חצובה בסלע קירטווני. בסמוך לבאר פזורים בלוקים מבטון בעלי צורה מיוחדת שמותאמים…",
+"by": "Amnonl",
+"url": "https://amudanan.co.il/#!wiki=P697389"
+}
+},
+{
+"type": "Feature",
+"geometry": {
+"type": "Point",
+"coordinates": [
+34.473553,
+30.81425
+]
+},
+"properties": {
+"id": "P465664",
+"line": "south",
+"kind": "culvert",
+"name": "גשרון רכבת טורקי",
+"desc": "גשרון של מסילת הרכבת הטורקית שנסללה, בתקופת מלחמת העולם הראשונה, מנחל שורק לקוסיימה. לאור התקדמות הבריטים צפונה נעצרה הסלילה מעבר לניצנה הונחו פסים על הסוללה עד לישוב קסיימה.",
+"by": "דני גר, Ilafer,הש",
+"url": "https://amudanan.co.il/#!wiki=P465664",
+"img": "https://amudanan.co.il/services/thumb.php?file=../w/images/Turkish_train_from_Sorek_to_Kusseima_-_section_between_Ezuz_to_Kusseima_-_Bridge_6.jpg&size=640"
+}
+},
+{
+"type": "Feature",
+"geometry": {
+"type": "Point",
+"coordinates": [
+34.470549,
+30.80428
+]
+},
+"properties": {
+"id": "P323906",
+"line": "south",
+"kind": "cutting",
+"name": "מבתר הרכבת הטורקית מנחל שורק לקוסיימה",
+"desc": "חפיר של מסילת הרכבת הטורקית שנסללה, בתקופת מלחמת העולם הראשונה, מנחל שורק לקוסיימה. לאור התקדמות הבריטים צפונה נעצרה הסלילה ומעבר לניצנה כבר לא הונחו פסים על הסוללה. החפיר הפך לדרך סלולה לרכבים על גשר תורכי יפה העובר על נחל בארותיים.",
+"by": "דני גר, Ilafer, חוגי סיירות,נון צדיק",
+"url": "https://amudanan.co.il/#!wiki=P323906",
+"img": "https://amudanan.co.il/services/thumb.php?file=../w/images/Turkish_train_from_Sorek_to_Kusseima_-_section_between_Ezuz_to_Kusseima_-_Dugout_3.jpg&size=640"
+}
+},
+{
+"type": "Feature",
+"geometry": {
+"type": "Point",
+"coordinates": [
+34.464452,
+30.790127
+]
+},
+"properties": {
+"id": "P722284",
+"line": "south",
+"kind": "culvert",
+"name": "מעביר מים קשתי בסוללת הרכבת התורכית",
+"desc": "הקטן בין המעבירים הקשתיים שנסקרו. רוחבו כ-0.95 מ', משני עברי אבן הראשה רק שלושה נדבכי קשת. החזית הדרום מזרחית סתומה בצמחיה. מקור:אמנון (בוצי) ליבנה",
+"by": "Amnonl",
+"url": "https://amudanan.co.il/#!wiki=P722284"
+}
+},
+{
+"type": "Feature",
+"geometry": {
+"type": "Point",
+"coordinates": [
+34.465334,
+30.789203
+]
+},
+"properties": {
+"id": "P647173",
+"line": "south",
+"kind": "cutting",
+"name": "מבתר הרכבת הטורקית מנחל שורק לקוסיימה",
+"desc": "חפיר מסילת הרכבת הטורקית שנסללה, בתקופת מלחמת העולם הראשונה, מנחל שורק לקוסיימה. לאור התקדמות הבריטים צפונה נצרה הסלילה ומעבר לניצנה כבר לא הונחו פסים על הסוללה.",
+"by": "דני גר, Ilafer, Mulibloch, חוגי סיירות",
+"url": "https://amudanan.co.il/#!wiki=P647173",
+"img": "https://amudanan.co.il/services/thumb.php?file=../w/images/Turkish_train_from_Sorek_to_Kusseima_-_section_between_Ezuz_to_Kusseima_-_Dugout_1.jpg&size=640"
+}
+},
+{
+"type": "Feature",
+"geometry": {
+"type": "Point",
+"coordinates": [
+34.464326,
+30.78712
+]
+},
+"properties": {
+"id": "P953313",
+"line": "south",
+"kind": "culvert",
+"name": "גשרון רכבת טורקי",
+"desc": "גשרון השייךלמסילת הרכבת הטורקית שנסללה, בתקופת מלחמת העולם השנייה, מנחל שורק לקוסיימה. לאור התקדמות הבריטים צפונה נצרה הסלילה ומעבר לניצנה כבר לא הונחו פסים על הסוללה.",
+"by": "דני גר, Amnonl",
+"url": "https://amudanan.co.il/#!wiki=P953313",
+"img": "https://amudanan.co.il/services/thumb.php?file=../w/images/Turkish_train_from_Sorek_to_Kusseima_-_section_between_Ezuz_to_Kusseima_-_Bridge_1.jpg&size=640"
+}
+},
+{
+"type": "Feature",
+"geometry": {
+"type": "Point",
+"coordinates": [
+34.464412,
+30.784797
+]
+},
+"properties": {
+"id": "P999759",
+"line": "south",
+"kind": "culvert",
+"name": "גשרון רכבת טורקי",
+"desc": "גשרון של מסילת הרכבת הטורקית שנסללה, בתקופת מלחמת העולם הראשונה, מנחל שורק לקוסיימה. לאור התקדמות הבריטים צפונה נעצרה הסלילה ומעבר לניצנה כבר לא הונחו פסים על הסוללה.",
+"by": "דני גר, בארי ש, Ilafer",
+"url": "https://amudanan.co.il/#!wiki=P999759",
+"img": "https://amudanan.co.il/services/thumb.php?file=../w/images/Turkish_train_from_Sorek_to_Kusseima_-_section_between_Ezuz_to_Kusseima_-_Bridge_5.jpg&size=640"
+}
+},
+{
+"type": "Feature",
+"geometry": {
+"type": "Point",
+"coordinates": [
+34.464455,
+30.783949
+]
+},
+"properties": {
+"id": "P503607",
+"line": "south",
+"kind": "embankment",
+"name": "סוללת רכבת",
+"desc": "סוללת עפר של מסילת הרכבת הטורקית שנסללה, בתקופת מלחמת העולם הראשונה, מנחל שורק לקוסיימה. לאור התקדמות הבריטים צפונה נעצרה הסלילה ומעבר לניצנה כבר לא הונחו פסים על הסוללה.",
+"by": "דני גר, Ilafer",
+"url": "https://amudanan.co.il/#!wiki=P503607",
+"img": "https://amudanan.co.il/services/thumb.php?file=../w/images/Turkish_train_from_Sorek_to_Kusseima_-_section_between_Ezuz_to_Kusseima_-_Embankment_1.jpg&size=640"
+}
+},
+{
+"type": "Feature",
+"geometry": {
+"type": "Point",
+"coordinates": [
+34.464412,
+30.781073
+]
+},
+"properties": {
+"id": "P935901",
+"line": "south",
+"kind": "cutting",
+"name": "מבתר הרכבת הטורקית מנחל שורק לקוסיימה",
+"desc": "חפיר מסילת הרכבת הטורקית שנסללה, בתקופת מלחמת העולם הראשונה, מנחל שורק לקוסיימה. לאור התקדמות הבריטים צפונה נעצרה הסלילה ומעבר לניצנה כבר לא הונחו פסים על הסוללה.",
+"by": "דני גר, Mulibloch, חוגי סיירות",
+"url": "https://amudanan.co.il/#!wiki=P935901",
+"img": "https://amudanan.co.il/services/thumb.php?file=../w/images/Turkish_train_from_Sorek_to_Kusseima_-_section_between_Ezuz_to_Kusseima_-_Dugout_2.jpg&size=640"
+}
+},
+{
+"type": "Feature",
+"geometry": {
+"type": "Point",
+"coordinates": [
+34.459176,
+30.779672
+]
+},
+"properties": {
+"id": "P256298",
+"line": "south",
+"kind": "embankment",
+"name": "סוללת רכבת",
+"desc": "סוללת עפר של מסילת הרכבת הטורקית שנסללה, בתקופת מלחמת העולם הראשונה, מנחל שורק לקוסיימה. לאור התקדמות הבריטים צפונה נעצרה הסלילה ומעבר לניצנה כבר לא הונחו פסים על הסוללה.",
+"by": "דני גר, Ilafer,אמיר אור-לי",
+"url": "https://amudanan.co.il/#!wiki=P256298",
+"img": "https://amudanan.co.il/services/thumb.php?file=../w/images/Turkish_train_from_Sorek_to_Kusseima_-_section_between_Ezuz_to_Kusseima_-_Embankment_4.jpg&size=640"
+}
+},
+{
+"type": "Feature",
+"geometry": {
+"type": "Point",
+"coordinates": [
+34.460464,
+30.779562
+]
+},
+"properties": {
+"id": "P65712",
+"line": "south",
+"kind": "embankment",
+"name": "סוללת רכבת",
+"desc": "סוללה של מסילת הרכבת הטורקית שנסללה, בתקופת מלחמת העולם הראשונה, מנחל שורק לקוסיימה. לאור התקדמות הבריטים צפונה נעצרה הסלילה ומעבר לניצנה כבר לא הונחו פסים על הסוללה.",
+"by": "דני גר, Ilafer,Ronhl",
+"url": "https://amudanan.co.il/#!wiki=P65712",
+"img": "https://amudanan.co.il/services/thumb.php?file=../w/images/Turkish_train_from_Sorek_to_Kusseima_-_section_between_Ezuz_to_Kusseima_-_Embankment_3.jpg&size=640"
+}
+},
+{
+"type": "Feature",
+"geometry": {
+"type": "Point",
+"coordinates": [
+34.461107,
+30.779451
+]
+},
+"properties": {
+"id": "P307362",
+"line": "south",
+"kind": "culvert",
+"name": "גשרון רכבת טורקי",
+"desc": "גשרון של מסילת הרכבת הטורקית שנסללה, בתקופת מלחמת העולם השנייה, מנחל שורק לקוסיימה. לאור התקדמות הבריטים צפונה נעצרה הסלילה ומעבר לניצנה כבר לא הונחו פסים על הסוללה.",
+"by": "דני גר, Ilafer",
+"url": "https://amudanan.co.il/#!wiki=P307362",
+"img": "https://amudanan.co.il/services/thumb.php?file=../w/images/Turkish_train_from_Sorek_to_Kusseima_-_section_between_Ezuz_to_Kusseima_-_Bridge_3.jpg&size=640"
+}
+},
+{
+"type": "Feature",
+"geometry": {
+"type": "Point",
+"coordinates": [
+34.458017,
+30.779377
+]
+},
+"properties": {
+"id": "P221676",
+"line": "south",
+"kind": "culvert",
+"name": "גשרון רכבת טורקי",
+"desc": "גשרון של מסילת הרכבת הטורקית שנסללה, בתקופת מלחמת העולם השנייה, מנחל שורק לקוסיימה. לאור התקדמות הבריטים צפונה נעצרה הסלילה ומעבר לניצנה כבר לא הונחו פסים על הסוללה.",
+"by": "דני גר, Ilafer",
+"url": "https://amudanan.co.il/#!wiki=P221676",
+"img": "https://amudanan.co.il/services/thumb.php?file=../w/images/Turkish_train_from_Sorek_to_Kusseima_-_section_between_Ezuz_to_Kusseima_-_Bridge_4.jpg&size=640"
+}
+},
+{
+"type": "Feature",
+"geometry": {
+"type": "Point",
+"coordinates": [
+34.45759,
+30.77902
+]
+},
+"properties": {
+"id": "P161566",
+"line": "south",
+"kind": "culvert",
+"name": "מעביר מים קשתי בסוללת הרכבת",
+"desc": "רוחבו 1.90מ' גובה הקשת, מעל הרצפה שנסחפה ברובה 1.70 מ'. מקור: אמנון (בוצי) ליבנה",
+"by": "Amnonl",
+"url": "https://amudanan.co.il/#!wiki=P161566"
+}
+},
+{
+"type": "Feature",
+"geometry": {
+"type": "Point",
+"coordinates": [
+34.456816,
+30.769606
+]
+},
+"properties": {
+"id": "P260279",
+"line": "south",
+"kind": "embankment",
+"name": "סוללת רכבת",
+"desc": "סוללה של מסילת הרכבת הטורקית שנסללה, בתקופת מלחמת העולם הראשונה, מנחל שורק לקוסיימה. לאור התקדמות הבריטים צפונה נעצרה הסלילה ומעבר לניצנה כבר לא הונחו פסים על הסוללה.",
+"by": "דני גר,Roded medved",
+"url": "https://amudanan.co.il/#!wiki=P260279",
+"img": "https://amudanan.co.il/services/thumb.php?file=../w/images/Turkish_train_from_Sorek_to_Kusseima_-_section_between_Ezuz_to_Kusseima_-_Embankment_2.jpg&size=640"
+}
+},
+{
+"type": "Feature",
+"geometry": {
+"type": "Point",
+"coordinates": [
+34.45558,
+30.768736
+]
+},
+"properties": {
+"id": "P228366",
+"line": "south",
+"kind": "culvert",
+"name": "מעביר מים קשתי במסילה התורכית",
+"desc": "גובה הקמרון 2.70 מ' החזית נשמרה רק בצידו האחד. בסמוך אליו מחצבה קטנה של אבן קשה, ושרידי מאהל בדווי שעשה שימוש באבני מעביר המים. המסילה הצבאית התורכית נסללה בשנים 1915-1916 מקור: אמנון (בוצי) ליבנה",
+"by": "Amnonl",
+"url": "https://amudanan.co.il/#!wiki=P228366"
+}
+},
+{
+"type": "Feature",
+"geometry": {
+"type": "Point",
+"coordinates": [
+34.456,
+30.76802
+]
+},
+"properties": {
+"id": "P24604",
+"line": "south",
+"kind": "culvert",
+"name": "גשרון רכבת טורקי",
+"desc": "גשרון של מסילת הרכבת הטורקית שנסללה בתקופת מלחמת העולם הראשונה, מתחנת טולכרם לקסיימה, כחלק מרשת הרכבות הצבאיות שבונה הצבא העות'מאני במטרה להתכונן לפלישה הבריטית מכיוון מצרים. לאור התקדמות הבריטים צפונה נעצרה הסלילה, שתוכננה להגיע עד אל עריש.",
+"by": "דני גר,Cbiron0",
+"url": "https://amudanan.co.il/#!wiki=P24604",
+"img": "https://amudanan.co.il/services/thumb.php?file=../w/images/Turkish_train_from_Sorek_to_Kusseima_-_section_between_Ezuz_to_Kusseima_-_Bridge_2.jpg&size=640"
+}
+},
+{
+"type": "Feature",
+"geometry": {
+"type": "Point",
+"coordinates": [
+34.45403,
+30.762213
+]
+},
+"properties": {
+"id": "P656665",
+"line": "south",
+"kind": "embankment",
+"name": "תוואי רכבת תורכית",
+"desc": "מקום מפגש שרידי מסילת הרכבת עם גבול מצרים. המסילה המשיכה עד קסיימה. ניתן לראות את שרידי המסילה באופן ברור בצד המצרי בסיני.",
+"by": "Ilafer",
+"url": "https://amudanan.co.il/#!wiki=P656665"
+}
+},
+{
+"type": "Feature",
+"geometry": {
+"type": "Point",
+"coordinates": [
+35.024883,
+32.793043
+]
+},
+"properties": {
+"id": "P888012",
+"line": "valley",
+"kind": "culvert",
+"name": "גשרון עותמאני   B-3",
+"desc": "מסילת הרכבת עוברת כאן ע\"ג גשרון מהתקופה העותמאנית, מראשית המאה ה20, שנבנה כחלק ממסילת רכבת העמק.",
+"by": "עמית הורן,Abatan",
+"url": "https://amudanan.co.il/#!wiki=P888012",
+"img": "https://amudanan.co.il/services/thumb.php?file=../w/images/2017.05.15-100258.429.android.jpg&size=640"
+}
+},
+{
+"type": "Feature",
+"geometry": {
+"type": "Point",
+"coordinates": [
+35.035534,
+32.783398
+]
+},
+"properties": {
+"id": "P873970",
+"line": "valley",
+"kind": "station",
+"name": "תחנת חווסה",
+"desc": "מבנה מגורי הפועלים של תחנת הרכבת חווסה של רכבת העמק ולידה קטע מקורי של הפסים.",
+"by": "עמית הורן",
+"url": "https://amudanan.co.il/#!wiki=P873970"
+}
+},
+{
+"type": "Feature",
+"geometry": {
+"type": "Point",
+"coordinates": [
+35.037784,
+32.781927
+]
+},
+"properties": {
+"id": "P941900",
+"line": "valley",
+"kind": "station",
+"name": "רכבת העמק - תחנת חווסה",
+"desc": "מבנה מקורי של תחנת חווסה של רכבת העמק, נמצא בין המפעלים לכביש, גג חדש. סביבו אקליפטוסים.",
+"by": "עמית הורן, Marikriber,shay-lee,yoav123",
+"url": "https://amudanan.co.il/#!wiki=P941900",
+"img": "https://amudanan.co.il/services/thumb.php?file=../w/images/%D7%AA%D7%97%D7%A0%D7%AA%D7%97%D7%95%D7%95%D7%A1%D7%94.JPG&size=640"
+}
+},
+{
+"type": "Feature",
+"geometry": {
+"type": "Point",
+"coordinates": [
+35.072222,
+32.749204
+]
+},
+"properties": {
+"id": "P289710",
+"line": "valley",
+"kind": "culvert",
+"name": "גשרון רכבת העמק",
+"desc": "גשרון שנשכח..",
+"by": "זיגי79, רון רהב, הסחבקוזאורוס,lior247",
+"url": "https://amudanan.co.il/#!wiki=P289710",
+"img": "https://amudanan.co.il/services/thumb.php?file=../w/images/%D7%92%D7%A9%D7%A8_%D7%9C%D7%99%D7%93_%D7%9E%D7%A8%D7%9B%D7%96_%D7%A7%D7%A0%D7%99%D7%95%D7%AA.JPG&size=640"
+}
+},
+{
+"type": "Feature",
+"geometry": {
+"type": "Point",
+"coordinates": [
+35.076492,
+32.744854
+]
+},
+"properties": {
+"id": "P181746",
+"line": "valley",
+"kind": "bridge",
+"name": "גשר רכבת העמק-נחל יגור",
+"desc": "גשר נחמד מזרחית למפעל לגין בקיבוץ יגור.",
+"by": "זיגי79,גבישנער,בירני",
+"url": "https://amudanan.co.il/#!wiki=P181746",
+"img": "https://amudanan.co.il/services/thumb.php?file=../w/images/%D7%92%D7%A9%D7%A8_%D7%A0._%D7%99%D7%92%D7%95%D7%A8.JPG&size=640"
+}
+},
+{
+"type": "Feature",
+"geometry": {
+"type": "Point",
+"coordinates": [
+35.078348,
+32.742862
+]
+},
+"properties": {
+"id": "P101887",
+"line": "valley",
+"kind": "station",
+"name": "תחנת יגור - מסילאים",
+"desc": "תחנת רכבת העמק - יגור מסילאים",
+"by": "13021974",
+"url": "https://amudanan.co.il/#!wiki=P101887",
+"img": "https://amudanan.co.il/services/thumb.php?file=../w/images/2019.02.09-130920.278.android.jpg&size=640"
+}
+},
+{
+"type": "Feature",
+"geometry": {
+"type": "Point",
+"coordinates": [
+35.081757,
+32.739577
+]
+},
+"properties": {
+"id": "P772430",
+"line": "valley",
+"kind": "culvert",
+"name": "גשרון רכבת העמק",
+"desc": "מסילת רכבת חיג'אזית",
+"by": "13021974, ליאו",
+"url": "https://amudanan.co.il/#!wiki=P772430",
+"img": "https://amudanan.co.il/services/thumb.php?file=../w/images/2019.02.09-135433.470.android.jpg&size=640"
+}
+},
+{
+"type": "Feature",
+"geometry": {
+"type": "Point",
+"coordinates": [
+35.622268,
+32.690676
+]
+},
+"properties": {
+"id": "P90787",
+"line": "valley",
+"kind": "culvert",
+"name": "גשרון של רכבת העמק",
+"desc": "גשרון של רכבת העמק בתחילת ערוץ הירמוך",
+"by": "דני גר",
+"url": "https://amudanan.co.il/#!wiki=P90787",
+"img": "https://amudanan.co.il/services/thumb.php?file=../w/images/Valley_railway_-_bridge_in_Yarmuk_river_end_2.jpg&size=640"
+}
+},
+{
+"type": "Feature",
+"geometry": {
+"type": "Point",
+"coordinates": [
+35.635657,
+32.687426
+]
+},
+"properties": {
+"id": "P579153",
+"line": "valley",
+"kind": "culvert",
+"name": "גשרון של רכבת העמק",
+"desc": "גשרון של רכבת העמק בתחילת ערוץ הירמוך",
+"by": "דני גר",
+"url": "https://amudanan.co.il/#!wiki=P579153",
+"img": "https://amudanan.co.il/services/thumb.php?file=../w/images/Valley_railway_-_bridge_in_Yarmuk_river_end.jpg&size=640"
+}
+},
+{
+"type": "Feature",
+"geometry": {
+"type": "Point",
+"coordinates": [
+35.128639,
+32.680895
+]
+},
+"properties": {
+"id": "P392821",
+"line": "valley",
+"kind": "culvert",
+"name": "גשרון רכבת חיג'אזית",
+"desc": "גשרון רכבת חיג'אזית קרוב לכפר יהושוע",
+"by": "13021974",
+"url": "https://amudanan.co.il/#!wiki=P392821",
+"img": "https://amudanan.co.il/services/thumb.php?file=../w/images/20181117_125229.jpg&size=640"
+}
+},
+{
+"type": "Feature",
+"geometry": {
+"type": "Point",
+"coordinates": [
+35.131332,
+32.679989
+]
+},
+"properties": {
+"id": "P716090",
+"line": "valley",
+"kind": "culvert",
+"name": "גשרון רכבת חיג'אזית",
+"desc": "גשרון רכבת חיג'אזית קרוב לכפר יהושוע. גם יש מסילה עליו",
+"by": "13021974",
+"url": "https://amudanan.co.il/#!wiki=P716090",
+"img": "https://amudanan.co.il/services/thumb.php?file=../w/images/2019.02.09-115428.607.android.jpg&size=640"
+}
+},
+{
+"type": "Feature",
+"geometry": {
+"type": "Point",
+"coordinates": [
+35.132233,
+32.679652
+]
+},
+"properties": {
+"id": "P705907",
+"line": "valley",
+"kind": "embankment",
+"name": "מסילת רכבת חיג'אזית",
+"desc": "מסילת חיג'אזית מובילה לתל אל שמאם(כפר יהושוע)",
+"by": "13021974",
+"url": "https://amudanan.co.il/#!wiki=P705907",
+"img": "https://amudanan.co.il/services/thumb.php?file=../w/images/2019.02.09-115921.950.android.jpg&size=640"
+}
+},
+{
+"type": "Feature",
+"geometry": {
+"type": "Point",
+"coordinates": [
+35.571671,
+32.64989
+]
+},
+"properties": {
+"id": "P838250",
+"line": "valley",
+"kind": "culvert",
+"name": "גשרון של רכבת העמק",
+"desc": "גשרון של רכבת העמק מצפון לנהריים",
+"by": "דני גר",
+"url": "https://amudanan.co.il/#!wiki=P838250",
+"img": "https://amudanan.co.il/services/thumb.php?file=../w/images/Valley_railway_-_bridge_north_to_Naharaim.jpg&size=640"
+}
+},
+{
+"type": "Feature",
+"geometry": {
+"type": "Point",
+"coordinates": [
+35.571671,
+32.648048
+]
+},
+"properties": {
+"id": "P449888",
+"line": "valley",
+"kind": "embankment",
+"name": "קטע מסילת רכבת",
+"desc": "שרידי מסילת רכבת העמק בקו נהריים-צמח. מסילת ברזל צרה 105 ס״מ. על המסילה הוצבו מספר קרונות עץ ישנים",
+"by": "Israelnac, Lior115, ליאו, דני גר",
+"url": "https://amudanan.co.il/#!wiki=P449888",
+"img": "https://amudanan.co.il/services/thumb.php?file=../w/images/Valley_railway_-_bridge_in_Naharaim_power_station_1.jpg&size=640"
+}
+},
+{
+"type": "Feature",
+"geometry": {
+"type": "Point",
+"coordinates": [
+35.217129,
+32.64346
+]
+},
+"properties": {
+"id": "P20994",
+"line": "valley",
+"kind": "bridge",
+"name": "הגשר התורקי במסילת רכבת העמק",
+"desc": "הגשר התורקי במסילת רכבת העמק. ממוקם בדיוק מתחת לגשר החדש",
+"by": "Ovedsh",
+"url": "https://amudanan.co.il/#!wiki=P20994",
+"img": "https://amudanan.co.il/services/thumb.php?file=../w/images/2020-07-03T14_35_28.482763681882.jpg&size=640"
+}
+},
+{
+"type": "Feature",
+"geometry": {
+"type": "Point",
+"coordinates": [
+35.561457,
+32.621376
+]
+},
+"properties": {
+"id": "P250303",
+"line": "valley",
+"kind": "bridge",
+"name": "תחנת גשר",
+"desc": "תחנת גשר שנקראה בערבית \"באלט אל-מאחטה\" היא השישית מבין שמונה התחנות המקוריות לאורך מסילת רכבת העמק, וכשנבנתה הייתה תחנת הרכבת הנמוכה בעולם. המבנה הבריטי הבנוי בסגנון הבינלאומי עודנו ניצב כאן וכן תחנת אוטובוס משוחזרת שבה אוטובוס מקורי.",
+"by": "עמית הורן,צורה,רות אדר",
+"url": "https://amudanan.co.il/#!wiki=P250303",
+"img": "https://amudanan.co.il/services/thumb.php?file=../w/images/2016.12.17-114247.464.android.jpg&size=640"
+}
+},
+{
+"type": "Feature",
+"geometry": {
+"type": "Point",
+"coordinates": [
+35.561628,
+32.620364
+]
+},
+"properties": {
+"id": "P879143",
+"line": "valley",
+"kind": "bridge",
+"name": "תחנת גשר הנחלים התחנה הנמונה בעולם",
+"desc": "ליד תחנת גשר הנחלים יש פסים מקומטים ושבורים. לידם יש כוורות דבורים, כאשר כוורת אחת נמצאת ממש על הפסים שעל תוואי הרכבת החיג'אזית",
+"by": "דני גר, מאורמרץ', 13021974",
+"url": "https://amudanan.co.il/#!wiki=P879143",
+"img": "https://amudanan.co.il/services/thumb.php?file=../w/images/Valley_railway_-_historical_building_near_Gesher_police_station.jpg&size=640"
+}
+},
+{
+"type": "Feature",
+"geometry": {
+"type": "Point",
+"coordinates": [
+35.559182,
+32.615954
+]
+},
+"properties": {
+"id": "P904689",
+"line": "valley",
+"kind": "culvert",
+"name": "גשרון של רכבת העמק 3",
+"desc": "גשרון של רכבת העמק בין נחל תבור 3 וגשר הישנה",
+"by": "דני גר,13021974,שמשון ב",
+"url": "https://amudanan.co.il/#!wiki=P904689",
+"img": "https://amudanan.co.il/services/thumb.php?file=../w/images/Valley_railway_-_bridge_north_to_Tavor_stream_3.jpg&size=640"
+}
+},
+{
+"type": "Feature",
+"geometry": {
+"type": "Point",
+"coordinates": [
+35.285598,
+32.612641
+]
+},
+"properties": {
+"id": "P511546",
+"line": "valley",
+"kind": "embankment",
+"name": "קטע משומר ממסילת הרכבת",
+"desc": "גן יפה ובו קטע ממסילת רכבת העמק, וכן פסלים בנושא.",
+"by": "Ayalzo",
+"url": "https://amudanan.co.il/#!wiki=P511546",
+"img": "https://amudanan.co.il/services/thumb.php?file=../w/images/%D7%9E%D7%A1%D7%99%D7%9C%D7%AA_%D7%A8%D7%9B%D7%91%D7%AA_%D7%91%D7%A2%D7%A4%D7%95%D7%9C%D7%94.JPG&size=640"
+}
+},
+{
+"type": "Feature",
+"geometry": {
+"type": "Point",
+"coordinates": [
+35.557165,
+32.609339
+]
+},
+"properties": {
+"id": "P330547",
+"line": "valley",
+"kind": "culvert",
+"name": "גשרון של רכבת העמק 2",
+"desc": "גשרון של רכבת העמק בין נחל תבור 2 וגשר הישנה",
+"by": "דני גר,13021974",
+"url": "https://amudanan.co.il/#!wiki=P330547",
+"img": "https://amudanan.co.il/services/thumb.php?file=../w/images/Valley_railway_-_bridge_north_to_Tavor_stream_2.jpg&size=640"
+}
+},
+{
+"type": "Feature",
+"geometry": {
+"type": "Point",
+"coordinates": [
+35.556264,
+32.60811
+]
+},
+"properties": {
+"id": "P650532",
+"line": "valley",
+"kind": "embankment",
+"name": "פסים של רכבת העמק",
+"desc": "פסים שנעקרו בברוטליות וללא צורך וגם רשומים ויש גם אנדנים ואגדים טורים באדמה",
+"by": "דני גר,מאורמרץ',שמשון ב",
+"url": "https://amudanan.co.il/#!wiki=P650532",
+"img": "https://amudanan.co.il/services/thumb.php?file=../w/images/Valley_railway_-_raills_north_to_Tavor_stream_1.jpg&size=640"
+}
+},
+{
+"type": "Feature",
+"geometry": {
+"type": "Point",
+"coordinates": [
+35.555105,
+32.607134
+]
+},
+"properties": {
+"id": "P765380",
+"line": "valley",
+"kind": "culvert",
+"name": "גשרון של רכבת העמק 1",
+"desc": "גשרון של רכבת העמק בין נחל תבור 1 וגשר הישנה",
+"by": "דני גר,13021974",
+"url": "https://amudanan.co.il/#!wiki=P765380",
+"img": "https://amudanan.co.il/services/thumb.php?file=../w/images/Valley_railway_-_bridge_north_to_Tavor_stream_1.jpg&size=640"
+}
+},
+{
+"type": "Feature",
+"geometry": {
+"type": "Point",
+"coordinates": [
+35.54841,
+32.601132
+]
+},
+"properties": {
+"id": "P832536",
+"line": "valley",
+"kind": "embankment",
+"name": "פסים של רכבת העמק",
+"desc": "פסים של רכבת העמק",
+"by": "דני גר",
+"url": "https://amudanan.co.il/#!wiki=P832536",
+"img": "https://amudanan.co.il/services/thumb.php?file=../w/images/Valley_railway_-_rails_near_Neve_Ur_1.jpg&size=640"
+}
+},
+{
+"type": "Feature",
+"geometry": {
+"type": "Point",
+"coordinates": [
+35.548386,
+32.600045
+]
+},
+"properties": {
+"id": "P808742",
+"line": "valley",
+"kind": "culvert",
+"name": "גשרון רכבת חיג'אזית אחרון לפני גשר נחל תבור",
+"desc": "גשרון רכבת חיג'אזית אחרון לפני גשר נחל תבור",
+"by": "13021974",
+"url": "https://amudanan.co.il/#!wiki=P808742",
+"img": "https://amudanan.co.il/services/thumb.php?file=../w/images/%D7%92%D7%A9%D7%A8%D7%95%D7%9F_%D7%90%D7%97%D7%A8%D7%99_%D7%91%D7%95%D7%A1%D7%AA%D7%9F_%D7%A0%D7%95%D7%94_%D7%90%D7%95%D7%A8.png&size=640"
+}
+},
+{
+"type": "Feature",
+"geometry": {
+"type": "Point",
+"coordinates": [
+35.547853,
+32.599867
+]
+},
+"properties": {
+"id": "P635281",
+"line": "valley",
+"kind": "culvert",
+"name": "גשרון של רכבת העמק 13",
+"desc": "גשרון של רכבת העמק מצפון לנווה אור גישרון של רכבת העמק מס' 13 אחרי גשר יששכר",
+"by": "דני גר,מאורמרץ'",
+"url": "https://amudanan.co.il/#!wiki=P635281",
+"img": "https://amudanan.co.il/services/thumb.php?file=../w/images/Valley_railway_-_small_bridge_near_Neve_Ur_1.jpg&size=640"
+}
+},
+{
+"type": "Feature",
+"geometry": {
+"type": "Point",
+"coordinates": [
+35.54847,
+32.599132
+]
+},
+"properties": {
+"id": "P180976",
+"line": "valley",
+"kind": "embankment",
+"name": "תוואי הרכבת החיג'אזית",
+"desc": "מסילה חיג'אזית שרידים",
+"by": "13021974,Erez.sb",
+"url": "https://amudanan.co.il/#!wiki=P180976",
+"img": "https://amudanan.co.il/services/thumb.php?file=../w/images/2019.03.23-121648.489.android.jpg&size=640"
+}
+},
+{
+"type": "Feature",
+"geometry": {
+"type": "Point",
+"coordinates": [
+35.54811,
+32.598204
+]
+},
+"properties": {
+"id": "P7224",
+"line": "valley",
+"kind": "embankment",
+"name": "שרידי פסים של רכבת העמק",
+"desc": "שרידי פסים של רכבת העמק",
+"by": "דני גר",
+"url": "https://amudanan.co.il/#!wiki=P7224",
+"img": "https://amudanan.co.il/services/thumb.php?file=../w/images/Valley_railway_-_rails_near_Neve_Ur_2.jpg&size=640"
+}
+},
+{
+"type": "Feature",
+"geometry": {
+"type": "Point",
+"coordinates": [
+35.548614,
+32.59767
+]
+},
+"properties": {
+"id": "P179336",
+"line": "valley",
+"kind": "embankment",
+"name": "תוואי רכבת העמק",
+"desc": "מסילה שבורה",
+"by": "13021974",
+"url": "https://amudanan.co.il/#!wiki=P179336",
+"img": "https://amudanan.co.il/services/thumb.php?file=../w/images/2019.03.23-115959.972.android.jpg&size=640"
+}
+},
+{
+"type": "Feature",
+"geometry": {
+"type": "Point",
+"coordinates": [
+35.549286,
+32.590465
+]
+},
+"properties": {
+"id": "P968171",
+"line": "valley",
+"kind": "embankment",
+"name": "פסי רכבת הפוכים בתוואי הרכבת החיג'אזית",
+"desc": "פסי רכבת הפוכים",
+"by": "13021974",
+"url": "https://amudanan.co.il/#!wiki=P968171",
+"img": "https://amudanan.co.il/services/thumb.php?file=../w/images/2019.02.02-115722.830.android.jpg&size=640"
+}
+},
+{
+"type": "Feature",
+"geometry": {
+"type": "Point",
+"coordinates": [
+35.549867,
+32.585064
+]
+},
+"properties": {
+"id": "P63169",
+"line": "valley",
+"kind": "embankment",
+"name": "פסים ליד תוואי הרכבת החיג'אזית",
+"desc": "פסי רכבת חיג'אזית ליד הרפת ,מדרום לנוה אור",
+"by": "13021974",
+"url": "https://amudanan.co.il/#!wiki=P63169",
+"img": "https://amudanan.co.il/services/thumb.php?file=../w/images/2019.01.18-151810.362.android.jpg&size=640"
+}
+},
+{
+"type": "Feature",
+"geometry": {
+"type": "Point",
+"coordinates": [
+35.322115,
+32.582048
+]
+},
+"properties": {
+"id": "P664165",
+"line": "valley",
+"kind": "bridge",
+"name": "גשר רכבת העמק",
+"desc": "במקום אחד מגשרי מסילת העמק שעברה במקום. במהלך עבודות לשיפור מעבירי המים בכביש 71 בשנת 2009 הושחת הגשר הזה בברוטליות! בתקווה לשיקומו עם סלילת קו חיפה-בית שאן החדש",
+"by": "אורי וול,danny1326",
+"url": "https://amudanan.co.il/#!wiki=P664165"
+}
+},
+{
+"type": "Feature",
+"geometry": {
+"type": "Point",
+"coordinates": [
+35.550642,
+32.575568
+]
+},
+"properties": {
+"id": "P67238",
+"line": "valley",
+"kind": "bridge",
+"name": "גשר מרובע של רכבת העמק",
+"desc": "גשר מרובע של רכבת העמק לייד חוות שמואל",
+"by": "דני גר",
+"url": "https://amudanan.co.il/#!wiki=P67238",
+"img": "https://amudanan.co.il/services/thumb.php?file=../w/images/Valley_Train_-_bridge_near_Shmuel_farm_2.jpg&size=640"
+}
+},
+{
+"type": "Feature",
+"geometry": {
+"type": "Point",
+"coordinates": [
+35.551041,
+32.574409
+]
+},
+"properties": {
+"id": "P80515",
+"line": "valley",
+"kind": "culvert",
+"name": "גשרון מסילת רכבת החיג'אזית 11",
+"desc": "גשרון מס' 11 אחרי גשר יששכר",
+"by": "13021974",
+"url": "https://amudanan.co.il/#!wiki=P80515",
+"img": "https://amudanan.co.il/services/thumb.php?file=../w/images/2018.11.08-174008.240.android.jpg&size=640"
+}
+},
+{
+"type": "Feature",
+"geometry": {
+"type": "Point",
+"coordinates": [
+35.550484,
+32.570961
+]
+},
+"properties": {
+"id": "P629718",
+"line": "valley",
+"kind": "bridge",
+"name": "גשרוו רכבת חיג'אזית 10",
+"desc": "גשרוו רכבת",
+"by": "13021974",
+"url": "https://amudanan.co.il/#!wiki=P629718",
+"img": "https://amudanan.co.il/services/thumb.php?file=../w/images/2019.02.02-114028.662.android.jpg&size=640"
+}
+},
+{
+"type": "Feature",
+"geometry": {
+"type": "Point",
+"coordinates": [
+35.548711,
+32.566925
+]
+},
+"properties": {
+"id": "P960791",
+"line": "valley",
+"kind": "culvert",
+"name": "גשרון של רכבת העמק",
+"desc": "גשרון של רכבת העמק ממערב למושב ירדנה גשרון מס' 9 אחרי גשר יששכר",
+"by": "דני גר,13021974",
+"url": "https://amudanan.co.il/#!wiki=P960791",
+"img": "https://amudanan.co.il/services/thumb.php?file=../w/images/Valley_railway_-_bridge_near_Yardena.jpg&size=640"
+}
+},
+{
+"type": "Feature",
+"geometry": {
+"type": "Point",
+"coordinates": [
+35.545192,
+32.562114
+]
+},
+"properties": {
+"id": "P56278",
+"line": "valley",
+"kind": "culvert",
+"name": "גשרון של רכבת העמק",
+"desc": "גשרון של רכבת העמק ממערב לבית יוסף הגשרון מס 7 אחרי גשר נחל יששכר",
+"by": "דני גר,13021974",
+"url": "https://amudanan.co.il/#!wiki=P56278",
+"img": "https://amudanan.co.il/services/thumb.php?file=../w/images/Valley_railway_-_bridge_near_Beit_Yosef_2.jpg&size=640"
+}
+},
+{
+"type": "Feature",
+"geometry": {
+"type": "Point",
+"coordinates": [
+35.544209,
+32.561269
+]
+},
+"properties": {
+"id": "P217154",
+"line": "valley",
+"kind": "culvert",
+"name": "גשרון 6 אחרי גשר יששכר רכבת חיג'אזית",
+"desc": "גשרון 6 אחרי גשר יששכר רכבת חיג'אזית",
+"by": "13021974",
+"url": "https://amudanan.co.il/#!wiki=P217154",
+"img": "https://amudanan.co.il/services/thumb.php?file=../w/images/2019.01.18-162336.274.android.jpg&size=640"
+}
+},
+{
+"type": "Feature",
+"geometry": {
+"type": "Point",
+"coordinates": [
+35.542749,
+32.559547
+]
+},
+"properties": {
+"id": "P470122",
+"line": "valley",
+"kind": "culvert",
+"name": "גשרון הרכבת החיג'אזית",
+"desc": "גשרון הרכבת החיג'אזית מס' 5 אחרי גשר נחל יששכר",
+"by": "13021974",
+"url": "https://amudanan.co.il/#!wiki=P470122",
+"img": "https://amudanan.co.il/services/thumb.php?file=../w/images/2019.01.18-174331.622.android.jpg&size=640"
+}
+},
+{
+"type": "Feature",
+"geometry": {
+"type": "Point",
+"coordinates": [
+35.542057,
+32.558792
+]
+},
+"properties": {
+"id": "P139155",
+"line": "valley",
+"kind": "culvert",
+"name": "גשרון 4 רכבת חיג'אזית אחרי גשר יששכר",
+"desc": "הגשרון ה4 אחרי גשר יששכר של הרכבת החיג'אזית הגשרון נשבר בחלקו העליון",
+"by": "13021974",
+"url": "https://amudanan.co.il/#!wiki=P139155",
+"img": "https://amudanan.co.il/services/thumb.php?file=../w/images/2019.01.18-161410.339.android.jpg&size=640"
+}
+},
+{
+"type": "Feature",
+"geometry": {
+"type": "Point",
+"coordinates": [
+35.361471,
+32.557448
+]
+},
+"properties": {
+"id": "P578783",
+"line": "valley",
+"kind": "station",
+"name": "תחנת הרכבת הישנה \"עין חרוד / נוריס\" (כפר יחזקאל)",
+"desc": "מבנה הפועלים של תחנת הרכבת הישנה עין חרוד/נוריס. לימים שם התחנה שונה לתחנת כפר יחזקאל. מבנה האבן ניבנה בשנת 1925 ושימש למגורי עובדי התחנה, וכמחסן לכלי העבודה והתחזוקה של קו רכבת העמק.",
+"by": "Israelnac,מוטי רוביקון",
+"url": "https://amudanan.co.il/#!wiki=P578783",
+"img": "https://amudanan.co.il/services/thumb.php?file=../w/images/%D7%9E%D7%92%D7%95%D7%A8%D7%99%D7%94%D7%A4%D7%95%D7%A2%D7%9C%D7%99%D7%9D_%D7%AA%D7%97%D7%A0%D7%AA%D7%9B%D7%A4%D7%A8%D7%99%D7%97%D7%96%D7%A7%D7%90%D7%9C.JPG&size=640"
+}
+},
+{
+"type": "Feature",
+"geometry": {
+"type": "Point",
+"coordinates": [
+35.54014,
+32.556263
+]
+},
+"properties": {
+"id": "P911990",
+"line": "valley",
+"kind": "culvert",
+"name": "גשרון רכבת חיג'אזית 3 אחרי גשר יששכר",
+"desc": "גשרון 3 אחרי גשר יששכר של הרכבת החיג'אזית",
+"by": "13021974",
+"url": "https://amudanan.co.il/#!wiki=P911990",
+"img": "https://amudanan.co.il/services/thumb.php?file=../w/images/2019.01.18-160118.969.android.jpg&size=640"
+}
+},
+{
+"type": "Feature",
+"geometry": {
+"type": "Point",
+"coordinates": [
+35.36675,
+32.556218
+]
+},
+"properties": {
+"id": "P114894",
+"line": "valley",
+"kind": "bridge",
+"name": "גשר עות'מני של רכבת העמק",
+"desc": "גשר מקו רכבת העמק על נחל שזיפים",
+"by": "זיגי79",
+"url": "https://amudanan.co.il/#!wiki=P114894",
+"img": "https://amudanan.co.il/services/thumb.php?file=../w/images/20161016_135815_1476638664453_1.jpg&size=640"
+}
+},
+{
+"type": "Feature",
+"geometry": {
+"type": "Point",
+"coordinates": [
+35.53855,
+32.553572
+]
+},
+"properties": {
+"id": "P679884",
+"line": "valley",
+"kind": "culvert",
+"name": "גשרון רכבת חיגאזית מס 2 אחרי גשר נחל ישככר",
+"desc": "גשרון רכבת מס' 2 אחרי גשר יששכר לכיוון גשר נחל תבור",
+"by": "13021974",
+"url": "https://amudanan.co.il/#!wiki=P679884",
+"img": "https://amudanan.co.il/services/thumb.php?file=../w/images/2019.01.18-154837.056.android.jpg&size=640"
+}
+},
+{
+"type": "Feature",
+"geometry": {
+"type": "Point",
+"coordinates": [
+35.537383,
+32.552276
+]
+},
+"properties": {
+"id": "P257437",
+"line": "valley",
+"kind": "embankment",
+"name": "תוואי מסילת הרכבת החיג'אזית",
+"desc": "תוואי המסילה אחרי חוות דושן לכיוון ירדנה",
+"by": "13021974",
+"url": "https://amudanan.co.il/#!wiki=P257437",
+"img": "https://amudanan.co.il/services/thumb.php?file=../w/images/2019.01.18-154143.665.android.jpg&size=640"
+}
+},
+{
+"type": "Feature",
+"geometry": {
+"type": "Point",
+"coordinates": [
+35.536837,
+32.551748
+]
+},
+"properties": {
+"id": "P614948",
+"line": "valley",
+"kind": "culvert",
+"name": "גשרון הרכבת החיג'אזית מס 1 אחרי גשר יששכר",
+"desc": "גשרון הרכבת החיג'אזית הראשון אחרי גשר יששכר",
+"by": "13021974",
+"url": "https://amudanan.co.il/#!wiki=P614948",
+"img": "https://amudanan.co.il/services/thumb.php?file=../w/images/2019.01.18-180410.107.android.jpg&size=640"
+}
+},
+{
+"type": "Feature",
+"geometry": {
+"type": "Point",
+"coordinates": [
+35.533952,
+32.539643
+]
+},
+"properties": {
+"id": "P885039",
+"line": "valley",
+"kind": "embankment",
+"name": "תוואי הרכבת החיג'אזית",
+"desc": "פסי רכבת חיג'אזית",
+"by": "13021974",
+"url": "https://amudanan.co.il/#!wiki=P885039",
+"img": "https://amudanan.co.il/services/thumb.php?file=../w/images/2019.01.31-182236.984.android.jpg&size=640"
+}
+},
+{
+"type": "Feature",
+"geometry": {
+"type": "Point",
+"coordinates": [
+35.532827,
+32.538461
+]
+},
+"properties": {
+"id": "P435557",
+"line": "valley",
+"kind": "culvert",
+"name": "גשרון רכבת חיג'אזית 16",
+"desc": "גשרון רכבת חיג'אזית 16 אחרי גשרון בית שאן",
+"by": "13021974",
+"url": "https://amudanan.co.il/#!wiki=P435557",
+"img": "https://amudanan.co.il/services/thumb.php?file=../w/images/2019.01.31-183147.135.android.jpg&size=640"
+}
+},
+{
+"type": "Feature",
+"geometry": {
+"type": "Point",
+"coordinates": [
+35.532576,
+32.537026
+]
+},
+"properties": {
+"id": "P283573",
+"line": "valley",
+"kind": "culvert",
+"name": "גשרון רכבת חיג'אזית 15",
+"desc": "גשרון רכבת חיג'אזית 15 אחרי גשרון בית שאן",
+"by": "13021974,שמשון ב",
+"url": "https://amudanan.co.il/#!wiki=P283573",
+"img": "https://amudanan.co.il/services/thumb.php?file=../w/images/2019.01.31-183810.506.android.jpg&size=640"
+}
+},
+{
+"type": "Feature",
+"geometry": {
+"type": "Point",
+"coordinates": [
+35.533633,
+32.534575
+]
+},
+"properties": {
+"id": "P694884",
+"line": "valley",
+"kind": "culvert",
+"name": "מעביר מים רכבת העמק 14",
+"desc": "מעביר מים עשוי בזלת. גשרון רכבת חיג'אזית 14 אחרי גשר בית שאן",
+"by": "נעה שק,13021974",
+"url": "https://amudanan.co.il/#!wiki=P694884",
+"img": "https://amudanan.co.il/services/thumb.php?file=../w/images/2019.02.01-131011.964.android.jpg&size=640"
+}
+},
+{
+"type": "Feature",
+"geometry": {
+"type": "Point",
+"coordinates": [
+35.518427,
+32.53061
+]
+},
+"properties": {
+"id": "P637123",
+"line": "valley",
+"kind": "culvert",
+"name": "גשרון 8 רכבת חיג'אזית",
+"desc": "גשרון מספר 8 אחרי גשרון בית שאן",
+"by": "13021974,שמשון ב",
+"url": "https://amudanan.co.il/#!wiki=P637123",
+"img": "https://amudanan.co.il/services/thumb.php?file=../w/images/2019.01.12-123851.637.android.jpg&size=640"
+}
+},
+{
+"type": "Feature",
+"geometry": {
+"type": "Point",
+"coordinates": [
+35.516329,
+32.530526
+]
+},
+"properties": {
+"id": "P91046",
+"line": "valley",
+"kind": "embankment",
+"name": "מסילת רכבת העמק",
+"desc": "השחור חוצה על גבי שרידים של מסילת רכבת העמק",
+"by": "שמשון ב",
+"url": "https://amudanan.co.il/#!wiki=P91046",
+"img": "https://amudanan.co.il/services/thumb.php?file=../w/images/2022-11-12T07_12_57.45263478370.jpg&size=640"
+}
+},
+{
+"type": "Feature",
+"geometry": {
+"type": "Point",
+"coordinates": [
+35.535301,
+32.52932
+]
+},
+"properties": {
+"id": "P65507",
+"line": "valley",
+"kind": "cutting",
+"name": "מבתר רכבת חיג'אזית",
+"desc": "תוואי רכבת חיג'אזית",
+"by": "13021974",
+"url": "https://amudanan.co.il/#!wiki=P65507",
+"img": "https://amudanan.co.il/services/thumb.php?file=../w/images/2019.02.01-105031.355.android.jpg&size=640"
+}
+},
+{
+"type": "Feature",
+"geometry": {
+"type": "Point",
+"coordinates": [
+35.515494,
+32.529194
+]
+},
+"properties": {
+"id": "P699565",
+"line": "valley",
+"kind": "culvert",
+"name": "גישרון רכבת \"ואדי הכיתה\"",
+"desc": "מעביר מים מתחת לתוואי רכבת העמק העותומנית, צמוד למצוק מוצל. קיבל את שמו מדורות של בני חמדיה, לא ברור מאיזה מחזור.",
+"by": "דייגי,13021974,שמשון ב",
+"url": "https://amudanan.co.il/#!wiki=P699565",
+"img": "https://amudanan.co.il/services/thumb.php?file=../w/images/2019.01.12-122747.453.android.jpg&size=640"
+}
+},
+{
+"type": "Feature",
+"geometry": {
+"type": "Point",
+"coordinates": [
+35.529686,
+32.528651
+]
+},
+"properties": {
+"id": "P155154",
+"line": "valley",
+"kind": "culvert",
+"name": "גשרון רכבת חיג'אזית 12",
+"desc": "גשרון רכבת חיג'אזית 12 אחרי גשרון בית שאן",
+"by": "13021974,שמשון ב",
+"url": "https://amudanan.co.il/#!wiki=P155154",
+"img": "https://amudanan.co.il/services/thumb.php?file=../w/images/2019.02.01-112530.738.android.jpg&size=640"
+}
+},
+{
+"type": "Feature",
+"geometry": {
+"type": "Point",
+"coordinates": [
+35.534005,
+32.52808
+]
+},
+"properties": {
+"id": "P827624",
+"line": "valley",
+"kind": "culvert",
+"name": "גשרון רכבת חיג'אזית 13",
+"desc": "גשרון רכבת חיג'אזית 13 אחרי גשרון בית שאן",
+"by": "13021974",
+"url": "https://amudanan.co.il/#!wiki=P827624",
+"img": "https://amudanan.co.il/services/thumb.php?file=../w/images/2019.02.01-105655.716.android.jpg&size=640"
+}
+},
+{
+"type": "Feature",
+"geometry": {
+"type": "Point",
+"coordinates": [
+35.515229,
+32.527727
+]
+},
+"properties": {
+"id": "P705421",
+"line": "valley",
+"kind": "culvert",
+"name": "גשרון 6 רכבת חיג'אזית",
+"desc": "גשרון מספר 6 אחרי גשרון בית שאן",
+"by": "13021974,שמשון ב",
+"url": "https://amudanan.co.il/#!wiki=P705421",
+"img": "https://amudanan.co.il/services/thumb.php?file=../w/images/2019.01.12-122142.554.android.jpg&size=640"
+}
+},
+{
+"type": "Feature",
+"geometry": {
+"type": "Point",
+"coordinates": [
+35.520421,
+32.526062
+]
+},
+"properties": {
+"id": "P105915",
+"line": "valley",
+"kind": "culvert",
+"name": "גשרון מספר 9 רכבת חיג'אזית",
+"desc": "גשרון מספר 9 אחרי בית שאן",
+"by": "13021974",
+"url": "https://amudanan.co.il/#!wiki=P105915",
+"img": "https://amudanan.co.il/services/thumb.php?file=../w/images/2019.01.12-125252.903.android.jpg&size=640"
+}
+},
+{
+"type": "Feature",
+"geometry": {
+"type": "Point",
+"coordinates": [
+35.514909,
+32.525828
+]
+},
+"properties": {
+"id": "P80301",
+"line": "valley",
+"kind": "culvert",
+"name": "גשרון 5 רכבת חיג'אזית",
+"desc": "גשרון מספר 5 אחרי גשרון בית שאן",
+"by": "13021974,שמשון ב",
+"url": "https://amudanan.co.il/#!wiki=P80301",
+"img": "https://amudanan.co.il/services/thumb.php?file=../w/images/2019.01.12-121516.506.android.jpg&size=640"
+}
+},
+{
+"type": "Feature",
+"geometry": {
+"type": "Point",
+"coordinates": [
+35.527263,
+32.525428
+]
+},
+"properties": {
+"id": "P88763",
+"line": "valley",
+"kind": "culvert",
+"name": "גשרון רכבת חיג'אזית 11",
+"desc": "גשרון רכבת חיג'אזית 11 אחרי גשרון בית שאן",
+"by": "13021974",
+"url": "https://amudanan.co.il/#!wiki=P88763",
+"img": "https://amudanan.co.il/services/thumb.php?file=../w/images/2019.02.01-114703.604.android.jpg&size=640"
+}
+},
+{
+"type": "Feature",
+"geometry": {
+"type": "Point",
+"coordinates": [
+35.514212,
+32.525012
+]
+},
+"properties": {
+"id": "P72930",
+"line": "valley",
+"kind": "culvert",
+"name": "גשרון4 רכבת חיג'אזית",
+"desc": "גשרון מספר 4 אחרי גשרון בית שאן",
+"by": "13021974",
+"url": "https://amudanan.co.il/#!wiki=P72930",
+"img": "https://amudanan.co.il/services/thumb.php?file=../w/images/2019.01.12-120811.847.android.jpg&size=640"
+}
+},
+{
+"type": "Feature",
+"geometry": {
+"type": "Point",
+"coordinates": [
+35.527224,
+32.524816
+]
+},
+"properties": {
+"id": "P673140",
+"line": "valley",
+"kind": "embankment",
+"name": "קטע מהמסילה",
+"desc": "קטע ארוך של כארבעים מטר של המסילה",
+"by": "שמשון ב",
+"url": "https://amudanan.co.il/#!wiki=P673140",
+"img": "https://amudanan.co.il/services/thumb.php?file=../w/images/2023-12-21T08_57_18.899365639621.jpg&size=640"
+}
+},
+{
+"type": "Feature",
+"geometry": {
+"type": "Point",
+"coordinates": [
+35.524509,
+32.523472
+]
+},
+"properties": {
+"id": "P184976",
+"line": "valley",
+"kind": "culvert",
+"name": "גשרון 10 רכבת חיג'אזית",
+"desc": "גשרון מספר 10 אחרי גשרון בית שאן",
+"by": "13021974",
+"url": "https://amudanan.co.il/#!wiki=P184976",
+"img": "https://amudanan.co.il/services/thumb.php?file=../w/images/2019.01.12-130238.684.android.jpg&size=640"
+}
+},
+{
+"type": "Feature",
+"geometry": {
+"type": "Point",
+"coordinates": [
+35.512312,
+32.521814
+]
+},
+"properties": {
+"id": "P675283",
+"line": "valley",
+"kind": "culvert",
+"name": "גשרון3 רכבת חיג'אזית",
+"desc": "גשרון 3 אחרי גשרון בית שאן",
+"by": "13021974",
+"url": "https://amudanan.co.il/#!wiki=P675283",
+"img": "https://amudanan.co.il/services/thumb.php?file=../w/images/2019.01.12-115706.303.android.jpg&size=640"
+}
+},
+{
+"type": "Feature",
+"geometry": {
+"type": "Point",
+"coordinates": [
+35.510689,
+32.519481
+]
+},
+"properties": {
+"id": "P871717",
+"line": "valley",
+"kind": "embankment",
+"name": "מסילת רכבת חיג'אזית",
+"desc": "פסים של הרכבת החיג'אזית מעל חמדיה.",
+"by": "13021974,Marikriber",
+"url": "https://amudanan.co.il/#!wiki=P871717",
+"img": "https://amudanan.co.il/services/thumb.php?file=../w/images/2019.01.12-134306.159.android.jpg&size=640"
+}
+},
+{
+"type": "Feature",
+"geometry": {
+"type": "Point",
+"coordinates": [
+35.509952,
+32.518402
+]
+},
+"properties": {
+"id": "P715375",
+"line": "valley",
+"kind": "embankment",
+"name": "פסים של הרכבת החיג'אזית",
+"desc": "פסים של הרכבת החיג'אזית מעל חמדיה",
+"by": "13021974",
+"url": "https://amudanan.co.il/#!wiki=P715375",
+"img": "https://amudanan.co.il/services/thumb.php?file=../w/images/2019.01.12-134634.498.android.jpg&size=640"
+}
+},
+{
+"type": "Feature",
+"geometry": {
+"type": "Point",
+"coordinates": [
+35.507898,
+32.516059
+]
+},
+"properties": {
+"id": "P294366",
+"line": "valley",
+"kind": "culvert",
+"name": "גשרון מרהיב על תוואי מסילת רכבת העמק",
+"desc": "על תוואי מסילת הברזל של רכבת העמק בקטע שבין בית שאן ועד גשר הרכבת מעל נחל יששכר, ניתן להבחין במס' גשרונים מרהיבים העשויים אבני בזלת ואבני גיר.",
+"by": "Israelnac,alik36",
+"url": "https://amudanan.co.il/#!wiki=P294366",
+"img": "https://amudanan.co.il/services/thumb.php?file=../w/images/IMG_3441.JPG&size=640"
+}
+},
+{
+"type": "Feature",
+"geometry": {
+"type": "Point",
+"coordinates": [
+35.506353,
+32.51443
+]
+},
+"properties": {
+"id": "P346260",
+"line": "valley",
+"kind": "embankment",
+"name": "שרידי מסילת ברזל",
+"desc": "שרידי מסילת ברזל של רכבת העמק. באזור הזה ניתן להבחין בתוואי המסילה,סוללה חפיר, וגשרונים מרהיבים, לכל אורך המדרון שפונה צפונה.",
+"by": "Israelnac",
+"url": "https://amudanan.co.il/#!wiki=P346260",
+"img": "https://amudanan.co.il/services/thumb.php?file=../w/images/IMG_3449.JPG&size=640"
+}
+},
+{
+"type": "Feature",
+"geometry": {
+"type": "Point",
+"coordinates": [
+35.503821,
+32.513127
+]
+},
+"properties": {
+"id": "P575221",
+"line": "valley",
+"kind": "culvert",
+"name": "גשרון של רכבת העמק",
+"desc": "גשרון של רכבת העמק לייד אזור התעשייה של בית שאן",
+"by": "דני גר",
+"url": "https://amudanan.co.il/#!wiki=P575221",
+"img": "https://amudanan.co.il/services/thumb.php?file=../w/images/Valley_railway_-_bridge_near_Beit_Shean_1.jpg&size=640"
+}
+}
+]
+}

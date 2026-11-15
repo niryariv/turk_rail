@@ -1,0 +1,23 @@
+[out:json][timeout:180][bbox:29.4,34.2,33.4,35.95];
+(
+  way[railway~"^(abandoned|disused|razed|dismantled|preserved|historic)$"];
+  way["abandoned:railway"];
+  way["disused:railway"];
+  way["razed:railway"];
+  way["historic:railway"];
+  way[historic=railway];
+  nwr["railway:historic"];
+  nwr[historic~"railway"];
+  node[railway~"^(abandoned|disused|razed)$"];
+  nwr["abandoned:railway"~"station|halt|water_tower"];
+  nwr["disused:railway"~"station|halt|water_tower"];
+  nwr[historic=railway_station];
+  nwr[railway=station][disused=yes];
+  nwr[railway=station][abandoned=yes];
+  nwr[man_made=water_tower][railway];
+  nwr[railway=water_tower];
+  nwr[railway=water_crane];
+  nwr[railway=turntable];
+  nwr[railway=roundhouse];
+);
+out body geom;

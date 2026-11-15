@@ -1,0 +1,1683 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "jaffa",
+    "line": "jj",
+    "kind": "station",
+    "remains": true,
+    "name": "תחנת הרכבת יפו",
+    "year": "1892",
+    "desc": "תחנת הקצה של מסילת הרכבת הראשונה במזרח התיכון מחוץ למצרים ולטורקיה. בניין התחנה, מחסן המטענים והחצר שוחזרו ופתוחים לקהל כ\"מתחם התחנה\".",
+    "wiki": "https://he.wikipedia.org/wiki/%D7%AA%D7%97%D7%A0%D7%AA_%D7%94%D7%A8%D7%9B%D7%91%D7%AA_%D7%99%D7%A4%D7%95",
+    "osm": "https://www.openstreetmap.org/way/104320166",
+    "aa": "https://amudanan.co.il/#!wiki=P635177",
+    "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/98/Jafa_Station1891.jpg/960px-Jafa_Station1891.jpg?utm_source=he.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "img_src": "https://commons.wikimedia.org/wiki/File:Jafa_Station1891.jpg",
+    "img_by": "ויקישיתוף"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     34.7614,
+     32.059
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "ta-park",
+    "line": "jj",
+    "kind": "trackbed",
+    "remains": true,
+    "name": "פארק המסילה, תל אביב",
+    "year": "1892",
+    "desc": "התוואי המקורי של המסילה בנווה צדק, שנפתח ב-2020 כפארק קווי. פסי הרכבת משולבים בשביל ההליכה.",
+    "wiki": "https://he.wikipedia.org/wiki/%D7%A4%D7%90%D7%A8%D7%A7_%D7%94%D7%9E%D7%A1%D7%99%D7%9C%D7%94_%28%D7%AA%D7%9C_%D7%90%D7%91%D7%99%D7%91%29",
+    "osm": "https://www.openstreetmap.org/way/855004769",
+    "aa": "https://amudanan.co.il/#!wiki=P961051",
+    "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f7/%D7%AA%D7%A6%D7%A4%D7%99%D7%AA_%D7%A2%D7%9C_%D7%A4%D7%90%D7%A8%D7%A7_%D7%94%D7%9E%D7%A1%D7%99%D7%9C%D7%94_%D7%91%D7%AA%D7%9C_%D7%90%D7%91%D7%99%D7%91_%D7%9E%D7%92%D7%A9%D7%A8_%D7%A9%D7%9C%D7%95%D7%A9_%D7%91%D7%A9%D7%9B%D7%95%D7%A0%D7%AA_%D7%A0%D7%95%D7%95%D7%94_%D7%A6%D7%93%D7%A7_02.jpg/960px-%D7%AA%D7%A6%D7%A4%D7%99%D7%AA_%D7%A2%D7%9C_%D7%A4%D7%90%D7%A8%D7%A7_%D7%94%D7%9E%D7%A1%D7%99%D7%9C%D7%94_%D7%91%D7%AA%D7%9C_%D7%90%D7%91%D7%99%D7%91_%D7%9E%D7%92%D7%A9%D7%A8_%D7%A9%D7%9C%D7%95%D7%A9_%D7%91%D7%A9%D7%9B%D7%95%D7%A0%D7%AA_%D7%A0%D7%95%D7%95%D7%94_%D7%A6%D7%93%D7%A7_02.jpg?utm_source=he.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "img_src": "https://commons.wikimedia.org/wiki/File:%D7%AA%D7%A6%D7%A4%D7%99%D7%AA_%D7%A2%D7%9C_%D7%A4%D7%90%D7%A8%D7%A7_%D7%94%D7%9E%D7%A1%D7%99%D7%9C%D7%94_%D7%91%D7%AA%D7%9C_%D7%90%D7%91%D7%99%D7%91_%D7%9E%D7%92%D7%A9%D7%A8_%D7%A9%D7%9C%D7%95%D7%A9_%D7%91%D7%A9%D7%9B%D7%95%D7%A0%D7%AA_%D7%A0%D7%95%D7%95%D7%94_%D7%A6%D7%93%D7%A7_02.jpg",
+    "img_by": "ויקישיתוף"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     34.7685,
+     32.0603
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "lod",
+    "line": "jj",
+    "kind": "station",
+    "remains": false,
+    "name": "תחנת לוד",
+    "year": "1892",
+    "desc": "תחנה על מסילת 1892, ומ-1915 צומת עם המסילה המזרחית הצבאית. במקום פועלת תחנת לוד המודרנית ולא נותר דבר מהתחנה העות'מאנית.",
+    "wiki": "https://he.wikipedia.org/wiki/%D7%AA%D7%97%D7%A0%D7%AA_%D7%94%D7%A8%D7%9B%D7%91%D7%AA_%D7%9C%D7%95%D7%93",
+    "aa": "https://amudanan.co.il/#!wiki=P588034",
+    "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f5/Lod_new_railway_station_1.jpg/960px-Lod_new_railway_station_1.jpg?utm_source=he.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "img_src": "https://commons.wikimedia.org/wiki/File:Lod_new_railway_station_1.jpg",
+    "img_by": "ויקישיתוף"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     34.8756,
+     31.9459
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "ramla",
+    "line": "jj",
+    "kind": "station",
+    "remains": false,
+    "name": "תחנת רמלה",
+    "year": "1892",
+    "desc": "תחנת ביניים מקורית של מסילת יפו–ירושלים. כיום תחנת נוסעים מודרנית.",
+    "wiki": "https://he.wikipedia.org/wiki/%D7%AA%D7%97%D7%A0%D7%AA_%D7%94%D7%A8%D7%9B%D7%91%D7%AA_%D7%A8%D7%9E%D7%9C%D7%94",
+    "aa": "https://amudanan.co.il/#!wiki=P635002",
+    "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d9/21-6-12_Ramla_Train_Station.jpg/960px-21-6-12_Ramla_Train_Station.jpg?utm_source=he.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "img_src": "https://commons.wikimedia.org/wiki/File:21-6-12_Ramla_Train_Station.jpg",
+    "img_by": "ויקישיתוף"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     34.8768,
+     31.9294
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "sejed",
+    "line": "jj",
+    "kind": "station",
+    "remains": false,
+    "name": "תחנת סג'ד",
+    "year": "1892",
+    "desc": "תחנה תפעולית ליד הכפר סג'ד, במקום שבו המסילה נכנסת לעמק שורק.",
+    "wiki": "https://he.wikipedia.org/wiki/%D7%AA%D7%97%D7%A0%D7%AA_%D7%94%D7%A8%D7%9B%D7%91%D7%AA_%D7%A1%D7%92%27%D7%93",
+    "aa": "https://amudanan.co.il/#!wiki=P254416",
+    "img": "https://amudanan.co.il/services/thumb.php?file=../w/images/2017.12.22-124815.011.android.jpg&size=640",
+    "img_src": "https://amudanan.co.il/#!wiki=P254416",
+    "img_by": "עמוד ענן"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     34.8954,
+     31.7927
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "artuf",
+    "line": "jj",
+    "kind": "station",
+    "remains": false,
+    "name": "תחנת דיר אבאן (בית שמש)",
+    "year": "1892",
+    "desc": "תחנת דיר אבאן למרגלות ההר, שבה מילאו הקטרים מים לפני העלייה לירושלים. כיום תחנת בית שמש המודרנית.",
+    "wiki": "https://he.wikipedia.org/wiki/%D7%AA%D7%97%D7%A0%D7%AA_%D7%94%D7%A8%D7%9B%D7%91%D7%AA_%D7%91%D7%99%D7%AA_%D7%A9%D7%9E%D7%A9",
+    "img": "https://commons.wikimedia.org/wiki/Special:FilePath/Artuf%20train%20station.jpg?width=640",
+    "img_src": "https://commons.wikimedia.org/wiki/File:Artuf%20train%20station.jpg",
+    "img_by": "ויקישיתוף"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     34.9909,
+     31.7574
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "bargiora",
+    "line": "jj",
+    "kind": "station",
+    "remains": true,
+    "name": "תחנת דיר א-שייח' (בר גיורא)",
+    "year": "1892",
+    "desc": "תחנת הצטלבות בלב קניון נחל שורק. בניין האבן של התחנה עומד לצד המסילה ההררית, שאינה בשימוש.",
+    "wiki": "https://he.wikipedia.org/wiki/%D7%AA%D7%97%D7%A0%D7%AA_%D7%94%D7%A8%D7%9B%D7%91%D7%AA_%D7%91%D7%A8_%D7%92%D7%99%D7%95%D7%A8%D7%90",
+    "osm": "https://www.openstreetmap.org/way/472328217",
+    "aa": "https://amudanan.co.il/#!wiki=P396025",
+    "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7a/BarGioraRailwayStation1.jpg/960px-BarGioraRailwayStation1.jpg?utm_source=he.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "img_src": "https://commons.wikimedia.org/wiki/File:BarGioraRailwayStation1.jpg",
+    "img_by": "ויקישיתוף"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     35.074,
+     31.7477
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "battir",
+    "line": "jj",
+    "kind": "station",
+    "remains": false,
+    "name": "תחנת בתיר",
+    "year": "1892",
+    "desc": "תחנה קטנה למילוי מים ולמפגש רכבות בנחל רפאים, מתחת לטרסות של בתיר.",
+    "wiki": "https://he.wikipedia.org/wiki/%D7%AA%D7%97%D7%A0%D7%AA_%D7%94%D7%A8%D7%9B%D7%91%D7%AA_%D7%91%D7%AA%D7%99%D7%A8",
+    "aa": "https://amudanan.co.il/#!wiki=P874576",
+    "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f7/Jaffa_to_Jerusalem._Bittir_%28Baither%29_LOC_matpc.04996.jpg/960px-Jaffa_to_Jerusalem._Bittir_%28Baither%29_LOC_matpc.04996.jpg?utm_source=he.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "img_src": "https://commons.wikimedia.org/wiki/File:Jaffa_to_Jerusalem._Bittir_%28Baither%29_LOC_matpc.04996.jpg",
+    "img_by": "ויקישיתוף"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     35.1423,
+     31.7328
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "jerusalem",
+    "line": "jj",
+    "kind": "station",
+    "remains": true,
+    "name": "תחנת הרכבת ירושלים",
+    "year": "1892",
+    "desc": "תחנת הקצה העליונה, שנחנכה ב-26 בספטמבר 1892. בניין התחנה הדו-קומתי השתמר ופתוח לקהל כ\"מתחם התחנה הראשונה\".",
+    "wiki": "https://he.wikipedia.org/wiki/%D7%AA%D7%97%D7%A0%D7%AA_%D7%94%D7%A8%D7%9B%D7%91%D7%AA_%D7%94%D7%94%D7%99%D7%A1%D7%98%D7%95%D7%A8%D7%99%D7%AA_%D7%A9%D7%9C_%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%99%D7%9D",
+    "osm": "https://www.openstreetmap.org/way/44718669",
+    "aa": "https://amudanan.co.il/#!wiki=P607659",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/4/4f/JerusalemStation1978retouched.jpg?utm_source=he.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "img_src": "https://commons.wikimedia.org/wiki/File:JerusalemStation1978retouched.jpg",
+    "img_by": "ויקישיתוף"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     35.2247,
+     31.7674
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "jlm-park",
+    "line": "jj",
+    "kind": "trackbed",
+    "remains": true,
+    "name": "פארק המסילה, ירושלים",
+    "year": "1892",
+    "desc": "הקילומטרים האחרונים של המסילה בכניסה לירושלים, כיום פארק להליכה ולרכיבה. הפסים המקוריים נשארו באדמה לאורך השביל.",
+    "osm": "https://www.openstreetmap.org/way/261120043"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     35.213,
+     31.757
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "haifa-east",
+    "line": "valley",
+    "kind": "station",
+    "remains": true,
+    "name": "תחנת חיפה מזרח",
+    "year": "1904",
+    "desc": "תחנת הקצה המערבית של שלוחת חיפה–דרעא של המסילה החיג'אזית. בניין התחנה, סככות הקטרים ואנדרטת המסילה החיג'אזית שרדו, ובמתחם פועל מוזיאון רכבת ישראל.",
+    "wiki": "https://he.wikipedia.org/wiki/%D7%AA%D7%97%D7%A0%D7%AA_%D7%94%D7%A8%D7%9B%D7%91%D7%AA_%D7%97%D7%99%D7%A4%D7%94_%D7%9E%D7%96%D7%A8%D7%97",
+    "aa": "https://amudanan.co.il/#!wiki=P695246",
+    "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a9/Haifa_Ost_4.jpg/960px-Haifa_Ost_4.jpg?utm_source=he.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "img_src": "https://commons.wikimedia.org/wiki/File:Haifa_Ost_4.jpg",
+    "img_by": "ויקישיתוף"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     35.0048,
+     32.8118
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "kishon-bridge",
+    "line": "valley",
+    "kind": "bridge",
+    "remains": true,
+    "name": "גשר הקישון (ג'סר אל-חארת'ייה)",
+    "year": "שנות ה-90 של המאה ה-19 – 1905",
+    "desc": "גשר אבן מסותתת בן שש קשתות מעל הקישון. בנייתו החלה בידי החברה הבריטית S.O.R לפני שפשטה רגל, ולאחר מכן שימש את רכבת העמק.",
+    "wiki": "https://he.wikipedia.org/wiki/%D7%92%D7%A9%D7%A8_%D7%94%D7%A8%D7%9B%D7%91%D7%AA_%D7%94%D7%98%D7%95%D7%A8%D7%A7%D7%99_%D7%A2%D7%9C_%D7%A0%D7%97%D7%9C_%D7%94%D7%A7%D7%99%D7%A9%D7%95%D7%9F",
+    "osm": "https://www.openstreetmap.org/way/251770874",
+    "aa": "https://amudanan.co.il/#!wiki=P132865",
+    "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5e/PikiWiki_Israel_53891_the_railway_bridge_over_the_kishon.jpg/960px-PikiWiki_Israel_53891_the_railway_bridge_over_the_kishon.jpg?utm_source=he.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "img_src": "https://commons.wikimedia.org/wiki/File:PikiWiki_Israel_53891_the_railway_bridge_over_the_kishon.jpg",
+    "img_by": "ויקישיתוף"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     35.0978,
+     32.7249
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "elroi",
+    "line": "valley",
+    "kind": "station",
+    "remains": true,
+    "name": "תחנת אלרואי",
+    "year": "1936",
+    "desc": "תחנה מאוחרת על המסילה העות'מאנית, ששוחזרה ביוזמה מקומית: מבנה התחנה, קטע מסילה צרה וקרונות היסטוריים.",
+    "wiki": "https://he.wikipedia.org/wiki/%D7%AA%D7%97%D7%A0%D7%AA_%D7%94%D7%A8%D7%9B%D7%91%D7%AA_%D7%90%D7%9C%D7%A8%D7%95%D7%90%D7%99",
+    "osm": "https://www.openstreetmap.org/node/429882192",
+    "img": "https://commons.wikimedia.org/wiki/Special:FilePath/IHM_%D7%AA%D7%97%D7%A0%D7%AA_%D7%A8%D7%9B%D7%91%D7%AA_%D7%9E%D7%A9%D7%95%D7%97%D7%96%D7%A8%D7%AA_%D7%90%D7%9C%D7%A8%D7%95%D7%90%D7%99.jpeg?width=640",
+    "img_src": "https://commons.wikimedia.org/wiki/File:IHM_%D7%AA%D7%97%D7%A0%D7%AA_%D7%A8%D7%9B%D7%91%D7%AA_%D7%9E%D7%A9%D7%95%D7%97%D7%96%D7%A8%D7%AA_%D7%90%D7%9C%D7%A8%D7%95%D7%90%D7%99.jpeg",
+    "img_by": "ויקישיתוף"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     35.1022,
+     32.7136
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "kfar-yehoshua",
+    "line": "valley",
+    "kind": "station",
+    "remains": true,
+    "name": "תחנת תל א-שמאם (כפר יהושע)",
+    "year": "1905",
+    "desc": "התחנה השמורה ביותר של רכבת העמק והשנייה בגודלה מבין שמונה התחנות המקוריות: בניין התחנה, מבני הצוות ומגדל המים. כיום מוזיאון רכבת העמק.",
+    "wiki": "https://he.wikipedia.org/wiki/%D7%AA%D7%97%D7%A0%D7%AA_%D7%94%D7%A8%D7%9B%D7%91%D7%AA_%D7%9B%D7%A4%D7%A8_%D7%99%D7%94%D7%95%D7%A9%D7%A2",
+    "osm": "https://www.openstreetmap.org/way/981611337",
+    "aa": "https://amudanan.co.il/#!wiki=P397094",
+    "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/be/Tel_Shamam3.jpg/960px-Tel_Shamam3.jpg?utm_source=he.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "img_src": "https://commons.wikimedia.org/wiki/File:Tel_Shamam3.jpg",
+    "img_by": "ויקישיתוף"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     35.1528,
+     32.6719
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "afula",
+    "line": "valley",
+    "kind": "station",
+    "remains": true,
+    "name": "תחנת עפולה (אל-פולה)",
+    "year": "1905",
+    "desc": "הרביעית מבין התחנות המקוריות, וצומת למסילת השומרון לג'נין ולשכם. במרכז העיר עומדים מבנה התחנה, מגדל מים למילוי הקטרים ומבני עזר.",
+    "wiki": "https://he.wikipedia.org/wiki/%D7%AA%D7%97%D7%A0%D7%AA_%D7%94%D7%A8%D7%9B%D7%91%D7%AA_%D7%94%D7%94%D7%99%D7%A1%D7%98%D7%95%D7%A8%D7%99%D7%AA_%D7%A9%D7%9C_%D7%A2%D7%A4%D7%95%D7%9C%D7%94",
+    "aa": "https://amudanan.co.il/#!wiki=P611302",
+    "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/79/Afula_Old_Rail_Station_1.JPG/960px-Afula_Old_Rail_Station_1.JPG?utm_source=he.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "img_src": "https://commons.wikimedia.org/wiki/File:Afula_Old_Rail_Station_1.JPG",
+    "img_by": "ויקישיתוף"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     35.2903,
+     32.6106
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "beit-shean",
+    "line": "valley",
+    "kind": "station",
+    "remains": true,
+    "name": "תחנת ביסאן (בית שאן)",
+    "year": "1905",
+    "desc": "מתחם תחנה מקורי בנוי בזלת בכניסה הצפונית לעיר, אתר מורשת מוכרז.",
+    "wiki": "https://he.wikipedia.org/wiki/%D7%AA%D7%97%D7%A0%D7%AA_%D7%94%D7%A8%D7%9B%D7%91%D7%AA_%D7%91%D7%99%D7%AA_%D7%A9%D7%90%D7%9F_%28%D7%94%D7%99%D7%A9%D7%A0%D7%94%29",
+    "osm": "https://www.openstreetmap.org/node/3644691995",
+    "aa": "https://amudanan.co.il/#!wiki=P980687",
+    "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3b/PikiWiki_Israel_14982_%D7%A8%D7%9B%D7%91%D7%AA_%D7%94%D7%A2%D7%9E%D7%A7_%D7%94%D7%AA%D7%97%D7%A0%D7%94_%D7%91%D7%91%D7%99%D7%AA_%D7%A9%D7%90%D7%9F.jpg/960px-PikiWiki_Israel_14982_%D7%A8%D7%9B%D7%91%D7%AA_%D7%94%D7%A2%D7%9E%D7%A7_%D7%94%D7%AA%D7%97%D7%A0%D7%94_%D7%91%D7%91%D7%99%D7%AA_%D7%A9%D7%90%D7%9F.jpg?utm_source=he.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "img_src": "https://commons.wikimedia.org/wiki/File:PikiWiki_Israel_14982_%D7%A8%D7%9B%D7%91%D7%AA_%D7%94%D7%A2%D7%9E%D7%A7_%D7%94%D7%AA%D7%97%D7%A0%D7%94_%D7%91%D7%91%D7%99%D7%AA_%D7%A9%D7%90%D7%9F.jpg",
+    "img_by": "ויקישיתוף"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     35.4936,
+     32.5128
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "yissachar-bridge",
+    "line": "valley",
+    "kind": "bridge",
+    "remains": true,
+    "name": "גשר נחל יששכר",
+    "year": "1904–1905",
+    "desc": "שלוש קשתות של בזלת שחורה משולבת באבן גיר לבנה, מצפון לחמדיה.",
+    "wiki": "https://he.wikipedia.org/wiki/%D7%92%D7%A9%D7%A8_%D7%94%D7%A8%D7%9B%D7%91%D7%AA_%D7%94%D7%98%D7%95%D7%A8%D7%A7%D7%99_%D7%A2%D7%9C_%D7%A0%D7%97%D7%9C_%D7%99%D7%A9%D7%A9%D7%9B%D7%A8",
+    "osm": "https://www.openstreetmap.org/way/880394101",
+    "aa": "https://amudanan.co.il/#!wiki=P100982",
+    "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/91/0022%D7%92%D7%A9%D7%A8_%D7%A8%D7%9B%D7%91%D7%AA_%D7%94%D7%A2%D7%9E%D7%A7_%D7%9E%D7%A2%D7%9C_%D7%A0%D7%97%D7%9C_%D7%99%D7%A9%D7%A9%D7%9B%D7%A8_%D7%A9%D7%91%D7%A2%D7%9E%D7%A7_%D7%91%D7%99%D7%AA_%D7%A9%D7%90%D7%9F_%D7%9C%D7%99%D7%93_%D7%97%D7%95%D7%95%D7%AA_%D7%93%D7%95%D7%A9%D7%9F.jpg/960px-0022%D7%92%D7%A9%D7%A8_%D7%A8%D7%9B%D7%91%D7%AA_%D7%94%D7%A2%D7%9E%D7%A7_%D7%9E%D7%A2%D7%9C_%D7%A0%D7%97%D7%9C_%D7%99%D7%A9%D7%A9%D7%9B%D7%A8_%D7%A9%D7%91%D7%A2%D7%9E%D7%A7_%D7%91%D7%99%D7%AA_%D7%A9%D7%90%D7%9F_%D7%9C%D7%99%D7%93_%D7%97%D7%95%D7%95%D7%AA_%D7%93%D7%95%D7%A9%D7%9F.jpg?utm_source=he.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "img_src": "https://commons.wikimedia.org/wiki/File:0022%D7%92%D7%A9%D7%A8_%D7%A8%D7%9B%D7%91%D7%AA_%D7%94%D7%A2%D7%9E%D7%A7_%D7%9E%D7%A2%D7%9C_%D7%A0%D7%97%D7%9C_%D7%99%D7%A9%D7%A9%D7%9B%D7%A8_%D7%A9%D7%91%D7%A2%D7%9E%D7%A7_%D7%91%D7%99%D7%AA_%D7%A9%D7%90%D7%9F_%D7%9C%D7%99%D7%93_%D7%97%D7%95%D7%95%D7%AA_%D7%93%D7%95%D7%A9%D7%9F.jpg",
+    "img_by": "ויקישיתוף"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     35.5348,
+     32.5489
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "tavor-bridge",
+    "line": "valley",
+    "kind": "bridge",
+    "remains": true,
+    "name": "גשר נחל תבור",
+    "year": "1904–1905",
+    "desc": "גשר בן חמש קשתות מאבן לבנה מסותתת, בין נווה אור לגשר הישנה.",
+    "wiki": "https://he.wikipedia.org/wiki/%D7%92%D7%A9%D7%A8_%D7%94%D7%A8%D7%9B%D7%91%D7%AA_%D7%94%D7%98%D7%95%D7%A8%D7%A7%D7%99_%D7%A2%D7%9C_%D7%A0%D7%97%D7%9C_%D7%AA%D7%91%D7%95%D7%A8",
+    "osm": "https://www.openstreetmap.org/node/6466538661",
+    "aa": "https://amudanan.co.il/#!wiki=P901790",
+    "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9f/0017%D7%92%D7%A9%D7%A8_%D7%A8%D7%9B%D7%91%D7%AA_%D7%94%D7%A2%D7%9E%D7%A7_%D7%9E%D7%A2%D7%9C_%D7%A0%D7%97%D7%9C_%D7%91%D7%99%D7%A8%D7%94_%D7%94%D7%95%D7%90_%D7%A0%D7%97%D7%9C_%D7%AA%D7%91%D7%95%D7%A8.jpg/960px-0017%D7%92%D7%A9%D7%A8_%D7%A8%D7%9B%D7%91%D7%AA_%D7%94%D7%A2%D7%9E%D7%A7_%D7%9E%D7%A2%D7%9C_%D7%A0%D7%97%D7%9C_%D7%91%D7%99%D7%A8%D7%94_%D7%94%D7%95%D7%90_%D7%A0%D7%97%D7%9C_%D7%AA%D7%91%D7%95%D7%A8.jpg?utm_source=he.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "img_src": "https://commons.wikimedia.org/wiki/File:0017%D7%92%D7%A9%D7%A8_%D7%A8%D7%9B%D7%91%D7%AA_%D7%94%D7%A2%D7%9E%D7%A7_%D7%9E%D7%A2%D7%9C_%D7%A0%D7%97%D7%9C_%D7%91%D7%99%D7%A8%D7%94_%D7%94%D7%95%D7%90_%D7%A0%D7%97%D7%9C_%D7%AA%D7%91%D7%95%D7%A8.jpg",
+    "img_by": "ויקישיתוף"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     35.5529,
+     32.6044
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "majami",
+    "line": "valley",
+    "kind": "bridge",
+    "remains": true,
+    "name": "גשר הרכבת על הירדן בג'סר אל-מג'אמע",
+    "year": "1904",
+    "desc": "מעבר הרכבת מעל הירדן, סמוך לנקודה הנמוכה ביותר שאליה הגיעה מסילת רכבת בעולם. הגשר עומד לצד הגשר הרומי וגשר הכביש המנדטורי באתר גשר הישנה.",
+    "wiki": "https://he.wikipedia.org/wiki/%D7%A9%D7%9C%D7%95%D7%A9%D7%AA_%D7%92%D7%A9%D7%A8%D7%99_%D7%94%D7%99%D7%A8%D7%93%D7%9F_%D7%91%D7%92%27%D7%99%D7%A1%D7%A8_%D7%90%D7%9C-%D7%9E%D7%92%27%D7%9E%D7%A2%D7%99%D7%99%D7%94",
+    "osm": "https://www.openstreetmap.org/way/417219165",
+    "aa": "https://amudanan.co.il/#!wiki=P227156",
+    "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/Jiser_el_Majmaiya_from_air_%28cropped%29.jpg/960px-Jiser_el_Majmaiya_from_air_%28cropped%29.jpg?utm_source=he.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "img_src": "https://commons.wikimedia.org/wiki/File:Jiser_el_Majmaiya_from_air_%28cropped%29.jpg",
+    "img_by": "ויקישיתוף"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     35.5643,
+     32.6245
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "tzemah",
+    "line": "valley",
+    "kind": "station",
+    "remains": true,
+    "name": "תחנת סמח' (צמח)",
+    "year": "1905",
+    "desc": "תחנה לחוף הכנרת. מבני התחנה המשוחזרים, מבנה המים לקטרים ובור חוגן הקטרים (הסובבן) נמצאים בקמפוס המכללה האקדמית כנרת.",
+    "wiki": "https://he.wikipedia.org/wiki/%D7%AA%D7%97%D7%A0%D7%AA_%D7%94%D7%A8%D7%9B%D7%91%D7%AA_%D7%A1%D7%9E%D7%97_%28%D7%A6%D7%9E%D7%97%29",
+    "osm": "https://www.openstreetmap.org/node/278477173",
+    "aa": "https://amudanan.co.il/#!wiki=P300828",
+    "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/81/0018%D7%91%D7%99%D7%A0%D7%99%D7%9F_%D7%AA%D7%97%D7%A0%D7%AA_%D7%A8%D7%9B%D7%91%D7%AA_%D7%94%D7%A2%D7%9E%D7%A7_%D7%91%D7%AA%D7%97%D7%A0%D7%AA_%D7%A1%D7%9E%D7%97_%D7%95%D7%91%D7%99%D7%AA_%D7%9E%D7%A0%D7%94%D7%9C_%D7%94%D7%AA%D7%97%D7%A0%D7%94.jpg/960px-0018%D7%91%D7%99%D7%A0%D7%99%D7%9F_%D7%AA%D7%97%D7%A0%D7%AA_%D7%A8%D7%9B%D7%91%D7%AA_%D7%94%D7%A2%D7%9E%D7%A7_%D7%91%D7%AA%D7%97%D7%A0%D7%AA_%D7%A1%D7%9E%D7%97_%D7%95%D7%91%D7%99%D7%AA_%D7%9E%D7%A0%D7%94%D7%9C_%D7%94%D7%AA%D7%97%D7%A0%D7%94.jpg?utm_source=he.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "img_src": "https://commons.wikimedia.org/wiki/File:0018%D7%91%D7%99%D7%A0%D7%99%D7%9F_%D7%AA%D7%97%D7%A0%D7%AA_%D7%A8%D7%9B%D7%91%D7%AA_%D7%94%D7%A2%D7%9E%D7%A7_%D7%91%D7%AA%D7%97%D7%A0%D7%AA_%D7%A1%D7%9E%D7%97_%D7%95%D7%91%D7%99%D7%AA_%D7%9E%D7%A0%D7%94%D7%9C_%D7%94%D7%AA%D7%97%D7%A0%D7%94.jpg",
+    "img_by": "ויקישיתוף"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     35.5932,
+     32.7044
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "hamma-bridge",
+    "line": "valley",
+    "kind": "bridge",
+    "remains": true,
+    "name": "גשר אל-חמה",
+    "year": "1905",
+    "desc": "גשר מעל הירמוך מתחת לאל-חמה. פוצץ בליל הגשרים ביוני 1946 ולא תוקן מאז. שרידיו נמצאים בערוץ.",
+    "wiki": "https://he.wikipedia.org/wiki/%D7%92%D7%A9%D7%A8_%D7%94%D7%A8%D7%9B%D7%91%D7%AA_%D7%90%D7%9C_%D7%97%D7%9E%D7%94",
+    "osm": "https://www.openstreetmap.org/way/177941567",
+    "aa": "https://amudanan.co.il/#!wiki=P479794",
+    "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0b/T_E_Lawrence_and_the_Arab_Revolt_1916_-_1918_Q59615.jpg/960px-T_E_Lawrence_and_the_Arab_Revolt_1916_-_1918_Q59615.jpg?utm_source=he.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "img_src": "https://commons.wikimedia.org/wiki/File:T_E_Lawrence_and_the_Arab_Revolt_1916_-_1918_Q59615.jpg",
+    "img_by": "ויקישיתוף"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     35.6488,
+     32.6799
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "bana-bridge",
+    "line": "valley",
+    "kind": "bridge",
+    "remains": true,
+    "name": "ג'סר אל-בנה",
+    "year": "1905",
+    "desc": "גשר נטוש בעלייה בקניון הירמוך לכיוון אל-חמה.",
+    "osm": "https://www.openstreetmap.org/way/112450375",
+    "aa": "https://amudanan.co.il/#!wiki=P110812",
+    "img": "https://amudanan.co.il/services/thumb.php?file=../w/images/IMG_3520.JPG&size=640",
+    "img_src": "https://amudanan.co.il/#!wiki=P110812",
+    "img_by": "עמוד ענן"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     35.6588,
+     32.6844
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "hamma",
+    "line": "valley",
+    "kind": "station",
+    "remains": true,
+    "name": "תחנת אל-חמה",
+    "year": "1905",
+    "desc": "התחנה האחרונה בתחומי ארץ ישראל המנדטורית, לפני שהמסילה טיפסה בגשרים ובמנהרות אל החורן. הבניין עומד בכניסה לאתר חמת גדר.",
+    "wiki": "https://he.wikipedia.org/wiki/%D7%AA%D7%97%D7%A0%D7%AA_%D7%94%D7%A8%D7%9B%D7%91%D7%AA_%D7%90%D7%9C_%D7%97%D7%9E%D7%94",
+    "osm": "https://www.openstreetmap.org/way/145621270",
+    "aa": "https://amudanan.co.il/#!wiki=P718682",
+    "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/95/PikiWiki_Israel_13901_Turkish_railway_station_at_Hamat_Gader.JPG/960px-PikiWiki_Israel_13901_Turkish_railway_station_at_Hamat_Gader.JPG?utm_source=he.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "img_src": "https://commons.wikimedia.org/wiki/File:PikiWiki_Israel_13901_Turkish_railway_station_at_Hamat_Gader.JPG",
+    "img_by": "ויקישיתוף"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     35.6665,
+     32.6868
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "butma-bridge",
+    "line": "valley",
+    "kind": "bridge",
+    "remains": true,
+    "name": "גשר בטנה (אום בוטמה)",
+    "year": "1905",
+    "desc": "גשר נטוש מיד אחרי תחנת אל-חמה, בקצה הקטע הנגיש של הקניון.",
+    "osm": "https://www.openstreetmap.org/way/415073769",
+    "aa": "https://amudanan.co.il/#!wiki=P836261",
+    "img": "https://amudanan.co.il/services/thumb.php?file=../w/images/%D7%92%D7%A9%D7%A8_%D7%91%D7%98%D7%A0%D7%94.JPG&size=640",
+    "img_src": "https://amudanan.co.il/#!wiki=P836261",
+    "img_by": "עמוד ענן"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     35.6716,
+     32.6908
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "jenin",
+    "line": "samaria",
+    "kind": "station",
+    "remains": true,
+    "name": "תחנת ג'נין",
+    "year": "1913",
+    "desc": "השנייה מבין שש התחנות במסילה מעפולה לשכם. מבנה התחנה הדו-קומתי נפגע קשות ב-2002, אך לפי עמוד ענן שרידיו עדיין עומדים. האתר בתוך העיר ג'נין.",
+    "wiki": "https://he.wikipedia.org/wiki/%D7%AA%D7%97%D7%A0%D7%AA_%D7%94%D7%A8%D7%9B%D7%91%D7%AA_%D7%92%27%D7%A0%D7%99%D7%9F",
+    "aa": "https://amudanan.co.il/#!wiki=P446120",
+    "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e1/Carmel.svg/960px-Carmel.svg.png?utm_source=he.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "img_src": "https://commons.wikimedia.org/wiki/File:Carmel.svg",
+    "img_by": "ויקישיתוף"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     35.2881,
+     32.4625
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "silat",
+    "line": "samaria",
+    "kind": "station",
+    "remains": true,
+    "name": "תחנת סילת א-ט'הר",
+    "year": "1914",
+    "desc": "תחנה שנחנכה ב-1914. במקום מבנה ארוך ומגדל בן שתי קומות, מוסתרים בין מטעי הזיתים מדרום לדרך העפר.",
+    "aa": "https://amudanan.co.il/#!wiki=P813376"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     35.1959,
+     32.3323
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "sebastia",
+    "line": "samaria",
+    "kind": "water",
+    "remains": true,
+    "name": "תחנת סבסטיה",
+    "year": "1914",
+    "desc": "החמישית מבין שש תחנות מסילת השומרון. מבנה מאגר המים הוא היחיד ששרד מהתקופה העות'מאנית, ולידו מכל מים תת-קרקעי וצנרת למילוי קטרים. אין לבלבל עם תחנת מסעודיה הסמוכה, המכונה לעיתים בטעות \"תחנת סבסטיה\".",
+    "aa": "https://amudanan.co.il/#!wiki=P642244"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     35.1901,
+     32.2649
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "atara-tunnel",
+    "line": "samaria",
+    "kind": "tunnel",
+    "remains": true,
+    "name": "מנהרת אל-ח'רק",
+    "year": "1914",
+    "desc": "מנהרה חצובה בסלע ליד בלעא ואל-עטארה, בקטע שנסלל בזמן המלחמה ממסעודיה לטולכרם.",
+    "osm": "https://www.openstreetmap.org/node/5752407724",
+    "aa": "https://amudanan.co.il/#!wiki=P113297",
+    "img": "https://amudanan.co.il/services/thumb.php?file=../w/images/Ramin1.JPG&size=640",
+    "img_src": "https://amudanan.co.il/#!wiki=P113297",
+    "img_by": "עמוד ענן"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     35.1483,
+     32.325
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "masudiya",
+    "line": "samaria",
+    "kind": "station",
+    "remains": true,
+    "name": "תחנת מסעודיה",
+    "year": "1914",
+    "desc": "תחנת צומת מתחת לסבסטיה, שבה התפצלו השלוחה לשכם והקו לטולכרם. נותרו מבני התחנה ההרוסים.",
+    "wiki": "https://he.wikipedia.org/wiki/%D7%AA%D7%97%D7%A0%D7%AA_%D7%94%D7%A8%D7%9B%D7%91%D7%AA_%D7%9E%D7%A1%D7%A2%D7%95%D7%93%D7%99%D7%94",
+    "osm": "https://www.openstreetmap.org/node/2558613529",
+    "aa": "https://amudanan.co.il/#!wiki=P892667",
+    "img": "https://commons.wikimedia.org/wiki/Special:FilePath/16-18-Sabastiya-1949%20%28harvested%29%20-%20Masudiya%20train%20station.jpg?width=640",
+    "img_src": "https://commons.wikimedia.org/wiki/File:16-18-Sabastiya-1949%20%28harvested%29%20-%20Masudiya%20train%20station.jpg",
+    "img_by": "ויקישיתוף"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     35.1767,
+     32.2816
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "nablus",
+    "line": "samaria",
+    "kind": "station",
+    "remains": true,
+    "name": "תחנת שכם",
+    "year": "1914",
+    "desc": "הקצה הדרומי של מסילת השומרון. המסילה תוכננה להמשיך לירושלים, אך לא הגיעה אליה. לפי OpenStreetMap עומדים במקום מבנה התחנה הישן ומגדל המים שלה. האתר בתוך העיר שכם.",
+    "wiki": "https://he.wikipedia.org/wiki/%D7%AA%D7%97%D7%A0%D7%AA_%D7%94%D7%A8%D7%9B%D7%91%D7%AA_%D7%A9%D7%9B%D7%9D",
+    "osm": "https://www.openstreetmap.org/relation/18051653",
+    "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b6/Building_no_free_image_yet-he.svg/960px-Building_no_free_image_yet-he.svg.png?utm_source=he.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "img_src": "https://commons.wikimedia.org/wiki/File:Building_no_free_image_yet-he.svg",
+    "img_by": "ויקישיתוף"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     35.2663,
+     32.2195
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "tulkarm",
+    "line": "samaria",
+    "kind": "station",
+    "remains": true,
+    "name": "תחנת טולכרם",
+    "year": "1915",
+    "desc": "נקודת המוצא של המסילה המזרחית וחיבורה למסילת השומרון. מבני התחנה ומגדל המים שרדו בתוך אזור התעשייה ניצני שלום. הפסים פורקו.",
+    "wiki": "https://he.wikipedia.org/wiki/%D7%AA%D7%97%D7%A0%D7%AA_%D7%94%D7%A8%D7%9B%D7%91%D7%AA_%D7%98%D7%95%D7%9C%D7%9B%D7%A8%D7%9D",
+    "aa": "https://amudanan.co.il/#!wiki=P326163",
+    "img": "https://amudanan.co.il/services/thumb.php?file=../w/images/%D7%AA%D7%97%D7%A0%D7%AA_%D7%A8%D7%9B%D7%91%D7%AA_%D7%98%D7%95%D7%9C_%D7%9B%D7%A8%D7%9D.jpg&size=640",
+    "img_src": "https://amudanan.co.il/#!wiki=P326163",
+    "img_by": "עמוד ענן"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     35.0156,
+     32.3077
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "qaqun",
+    "line": "eastern",
+    "kind": "station",
+    "remains": true,
+    "name": "תחנת קאקון (אחיטוב)",
+    "year": "1915",
+    "desc": "תחנה על השלוחה שנסללה בזמן המלחמה לעבר יערות האלונים של חדרה. החלק המרכזי של המבנה עות'מאני.",
+    "wiki": "https://he.wikipedia.org/wiki/%D7%AA%D7%97%D7%A0%D7%AA_%D7%94%D7%A8%D7%9B%D7%91%D7%AA_%D7%90%D7%97%D7%99%D7%98%D7%95%D7%91",
+    "aa": "https://amudanan.co.il/#!wiki=P731955",
+    "img": "https://he.wikipedia.org/wiki/Special:FilePath/IL%20Qaqun%20station.jpg?width=640",
+    "img_src": "https://he.wikipedia.org/wiki/File:IL%20Qaqun%20station.jpg",
+    "img_by": "ויקיפדיה"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     35.0019,
+     32.3836
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "ein-shemer",
+    "line": "eastern",
+    "kind": "trackbed",
+    "remains": false,
+    "name": "רכבת האלונים, עין שמר",
+    "year": "1916",
+    "desc": "מסילות יער קלות הובילו מטולכרם לחדרה ולכפר קניר עצי אלון להסקת הקטרים, ופורקו ב-1920. בקיבוץ שוחזר קטע קצר, והחצר הישנה נבנתה מאדני המסילה. המסילה המקורית עצמה לא שרדה.",
+    "wiki": "https://he.wikipedia.org/wiki/%D7%A8%D7%9B%D7%91%D7%AA_%D7%94%D7%90%D7%9C%D7%95%D7%A0%D7%99%D7%9D",
+    "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/57/Track_Oak_Train_Ein_Shemer.jpg/960px-Track_Oak_Train_Ein_Shemer.jpg?utm_source=he.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "img_src": "https://commons.wikimedia.org/wiki/File:Track_Oak_Train_Ein_Shemer.jpg",
+    "img_by": "ויקישיתוף"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     35.0062,
+     32.4599
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "qalqilya",
+    "line": "eastern",
+    "kind": "station",
+    "remains": true,
+    "name": "תחנת קלקיליה (אייל)",
+    "year": "1915",
+    "desc": "תחנה שבנו העות'מאנים ושירתה את קלקיליה, ממערב לקיבוץ אייל.",
+    "wiki": "https://he.wikipedia.org/wiki/%D7%AA%D7%97%D7%A0%D7%AA_%D7%94%D7%A8%D7%9B%D7%91%D7%AA_%D7%90%D7%99%D7%99%D7%9C",
+    "osm": "https://www.openstreetmap.org/way/880991063",
+    "aa": "https://amudanan.co.il/#!wiki=P413500",
+    "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1c/08.04.25_02_Eyal_Train_Station.JPG/960px-08.04.25_02_Eyal_Train_Station.JPG?utm_source=he.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "img_src": "https://commons.wikimedia.org/wiki/File:08.04.25_02_Eyal_Train_Station.JPG",
+    "img_by": "ויקישיתוף"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     34.9639,
+     32.2116
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "loco-well",
+    "line": "eastern",
+    "kind": "water",
+    "remains": true,
+    "name": "באר המים לקטרי הרכבת הטורקית",
+    "year": "1915",
+    "desc": "באר ומתקני מים שחפר הצבא העות'מאני בזמן המלחמה כדי לספק מים לקטרים במסילה המזרחית.",
+    "osm": "https://www.openstreetmap.org/node/7056432986",
+    "img": "https://commons.wikimedia.org/wiki/Special:FilePath/Israel_Hiking_Map_20191214_113344.jpeg?width=640",
+    "img_src": "https://commons.wikimedia.org/wiki/File:Israel_Hiking_Map_20191214_113344.jpeg",
+    "img_by": "ויקישיתוף"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     34.9469,
+     32.1797
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "ras-el-ain",
+    "line": "eastern",
+    "kind": "station",
+    "remains": true,
+    "name": "תחנת ראס אל-עין (ראש העין דרום)",
+    "year": "1915",
+    "desc": "תחנה שבנו העות'מאנים ליד מעיינות הירקון ותל אפק.",
+    "wiki": "https://he.wikipedia.org/wiki/%D7%AA%D7%97%D7%A0%D7%AA_%D7%94%D7%A8%D7%9B%D7%91%D7%AA_%D7%A8%D7%90%D7%A9_%D7%94%D7%A2%D7%99%D7%9F_%E2%80%93_%D7%93%D7%A8%D7%95%D7%9D",
+    "img": "https://commons.wikimedia.org/wiki/Special:FilePath/Rosh%20HaAyin%20South%20railway%20station.JPG?width=640",
+    "img_src": "https://commons.wikimedia.org/wiki/File:Rosh%20HaAyin%20South%20railway%20station.JPG",
+    "img_by": "ויקישיתוף"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     34.9347,
+     32.1042
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "rantiya",
+    "line": "eastern",
+    "kind": "station",
+    "remains": false,
+    "name": "תחנת רינתיה",
+    "year": "1915",
+    "desc": "התחנה העות'מאנית נהרסה ב-1933. גם התחנה שנבנתה במקומה מאוחר יותר אינה פעילה.",
+    "wiki": "https://he.wikipedia.org/wiki/%D7%AA%D7%97%D7%A0%D7%AA_%D7%94%D7%A8%D7%9B%D7%91%D7%AA_%D7%A8%D7%99%D7%A0%D7%AA%D7%99%D7%94",
+    "aa": "https://amudanan.co.il/#!wiki=P641149",
+    "img": "https://he.wikipedia.org/wiki/Special:FilePath/IL%20Rinatiya%20station.jpg?width=640",
+    "img_src": "https://he.wikipedia.org/wiki/File:IL%20Rinatiya%20station.jpg",
+    "img_by": "ויקיפדיה"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     34.9357,
+     32.0418
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "sorek",
+    "line": "south",
+    "kind": "station",
+    "remains": true,
+    "name": "תחנת ואדי צראר (נחל שורק)",
+    "year": "1915",
+    "desc": "\"תחנת הצומת\", אבן הראשה של רשת המסילות במלחמה: כאן התפצלה המסילה הצבאית דרומה לבאר שבע ממסילת ירושלים. המבנים הנטושים עומדים לצד המסילה.",
+    "wiki": "https://he.wikipedia.org/wiki/%D7%AA%D7%97%D7%A0%D7%AA_%D7%94%D7%A8%D7%9B%D7%91%D7%AA_%D7%A0%D7%97%D7%9C_%D7%A9%D7%95%D7%A8%D7%A7",
+    "osm": "https://www.openstreetmap.org/way/446233752",
+    "aa": "https://amudanan.co.il/#!wiki=P280164",
+    "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a1/Vadi_tzrar_sorek_rail_station_efi_elian_free.JPG/960px-Vadi_tzrar_sorek_rail_station_efi_elian_free.JPG?utm_source=he.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "img_src": "https://commons.wikimedia.org/wiki/File:Vadi_tzrar_sorek_rail_station_efi_elian_free.JPG",
+    "img_by": "ויקישיתוף"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     34.8736,
+     31.8064
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "tina",
+    "line": "south",
+    "kind": "station",
+    "remains": false,
+    "name": "תחנת א-תינה",
+    "year": "1915",
+    "desc": "תחנה ומחנות צבא מצפון-מערב לכפר מנחם, שבה התפצלה השלוחה לעזה מהמסילה לבאר שבע. התחנה נהרסה.",
+    "approx": true
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     34.8,
+     31.745
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "manshiya",
+    "line": "south",
+    "kind": "station",
+    "remains": false,
+    "name": "תחנת עיראק אל-מנשייה",
+    "year": "1915",
+    "desc": "תחנה באזור שבו נמצא כיום אזור התעשייה של קריית גת.",
+    "approx": true
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     34.78,
+     31.607
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "shikma-bridge",
+    "line": "south",
+    "kind": "bridge",
+    "remains": true,
+    "name": "גשר נחל שקמה",
+    "year": "1915",
+    "desc": "שרידי גשר רב-קשתות ליד שמורת פורה: שתי אומנות הקצה ועמודי תמך, וקטע מסוללת המסילה.",
+    "wiki": "https://he.wikipedia.org/wiki/%D7%92%D7%A9%D7%A8_%D7%A0%D7%97%D7%9C_%D7%A9%D7%A7%D7%9E%D7%94",
+    "osm": "https://www.openstreetmap.org/node/7283016325",
+    "aa": "https://amudanan.co.il/#!wiki=P434890",
+    "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/03/PikiWiki_Israel_19281_Turkish_Bridge_on_Vadi_Pura.JPG/960px-PikiWiki_Israel_19281_Turkish_Bridge_on_Vadi_Pura.JPG?utm_source=he.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "img_src": "https://commons.wikimedia.org/wiki/File:PikiWiki_Israel_19281_Turkish_Bridge_on_Vadi_Pura.JPG",
+    "img_by": "ויקישיתוף"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     34.764,
+     31.5015
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "sheria",
+    "line": "south",
+    "kind": "station",
+    "remains": true,
+    "name": "הריסות תחנת תל א-שריעה",
+    "year": "1915",
+    "desc": "יסודות והריסות התחנה שהקימו הטורקים מדרום לנחל גרר, ממערב למסילה. התחנה שירתה את מחנות הצבא העות'מאני בקו עזה–באר שבע, וממנה יצאה שלוחה מערבה לתל אבו הרירה (תל הרור).",
+    "aa": "https://amudanan.co.il/#!wiki=P723029",
+    "img": "https://amudanan.co.il/services/thumb.php?file=../w/images/The_train_station_foundation_near_Tel_A-Sheria_1.jpg&size=640",
+    "img_src": "https://amudanan.co.il/#!wiki=P723029",
+    "img_by": "עמוד ענן"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     34.6786,
+     31.3884
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "patish-bridge",
+    "line": "south",
+    "kind": "bridge",
+    "remains": true,
+    "name": "גשר נחל פטיש",
+    "year": "1915",
+    "desc": "גשר בן חמש קשתות ליד ח'רבת רקיק. במשך עשרות שנים עבר עליו כביש עזה–באר שבע.",
+    "wiki": "https://he.wikipedia.org/wiki/%D7%92%D7%A9%D7%A8_%D7%94%D7%A8%D7%9B%D7%91%D7%AA_%D7%9E%D7%A2%D7%9C_%D7%A0%D7%97%D7%9C_%D7%A4%D7%98%D7%99%D7%A9",
+    "aa": "https://amudanan.co.il/#!wiki=P150957",
+    "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d0/Turkish_railway_bridge_north_of_be%27er_sheva.jpg/960px-Turkish_railway_bridge_north_of_be%27er_sheva.jpg?utm_source=he.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "img_src": "https://commons.wikimedia.org/wiki/File:Turkish_railway_bridge_north_of_be%27er_sheva.jpg",
+    "img_by": "ויקישיתוף"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     34.71,
+     31.3006
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "beersheba",
+    "line": "south",
+    "kind": "station",
+    "remains": true,
+    "name": "תחנת הרכבת הטורקית בבאר שבע",
+    "year": "1915",
+    "desc": "נחנכה ברוב פאר ב-30 באוקטובר 1915. בניין התחנה, בית מנהל התחנה ומגדל המים הבנוי אבן הם אתר לאומי.",
+    "wiki": "https://he.wikipedia.org/wiki/%D7%AA%D7%97%D7%A0%D7%AA_%D7%94%D7%A8%D7%9B%D7%91%D7%AA_%D7%94%D7%98%D7%95%D7%A8%D7%A7%D7%99%D7%AA_%D7%91%D7%91%D7%90%D7%A8_%D7%A9%D7%91%D7%A2",
+    "osm": "https://www.openstreetmap.org/way/372316411",
+    "aa": "https://amudanan.co.il/#!wiki=P919868",
+    "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0f/Turkish_train_bs.JPG/960px-Turkish_train_bs.JPG?utm_source=he.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "img_src": "https://commons.wikimedia.org/wiki/File:Turkish_train_bs.JPG",
+    "img_by": "ויקישיתוף"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     34.7853,
+     31.2454
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "beersheba-bridge",
+    "line": "south",
+    "kind": "bridge",
+    "remains": true,
+    "name": "גשר הרכבת הטורקי על נחל באר שבע",
+    "year": "1916",
+    "desc": "גשר קשתות ארוך מאבן מיד מדרום לעיר, המבנה הגדול ביותר ששרד מהמסילה. שוחזר ומשמש כגשר להולכי רגל.",
+    "wiki": "https://he.wikipedia.org/wiki/%D7%92%D7%A9%D7%A8_%D7%94%D7%A8%D7%9B%D7%91%D7%AA_%D7%94%D7%98%D7%95%D7%A8%D7%A7%D7%99_%D7%A2%D7%9C_%D7%A0%D7%97%D7%9C_%D7%91%D7%90%D7%A8_%D7%A9%D7%91%D7%A2",
+    "osm": "https://www.openstreetmap.org/way/624434434",
+    "aa": "https://amudanan.co.il/#!wiki=P633333",
+    "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e7/Turkish_bridge_bs.JPG/960px-Turkish_bridge_bs.JPG?utm_source=he.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "img_src": "https://commons.wikimedia.org/wiki/File:Turkish_bridge_bs.JPG",
+    "img_by": "ויקישיתוף"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     34.8031,
+     31.2343
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "asluj",
+    "line": "south",
+    "kind": "station",
+    "remains": true,
+    "name": "תחנת ביר עסלוג' ובאר התחנה",
+    "year": "1916",
+    "desc": "התחנה נחנכה בתחילת מרץ 1916. היו בה כמה מבנים, באר (\"ביר אל-מחטה\") ומגדל מים, ושבע-שמונה מסילות. המבנים פוצצו בידי הצבא הבריטי, ושרידיהם נפגעו עם השנים מכרייה ומסלילת כביש 40. באר התחנה נמצאת בסמוך.",
+    "wiki": "https://he.wikipedia.org/wiki/%D7%91%D7%90%D7%A8_%D7%9E%D7%A9%D7%90%D7%91%D7%99%D7%9D",
+    "aa": "https://amudanan.co.il/#!wiki=P816714",
+    "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ce/BeershebaNorthNegev.svg/960px-BeershebaNorthNegev.svg.png?utm_source=he.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "img_src": "https://commons.wikimedia.org/wiki/File:BeershebaNorthNegev.svg",
+    "img_by": "ויקישיתוף"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     34.7859,
+     31.015
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "revivim-bridge",
+    "line": "south",
+    "kind": "bridge",
+    "remains": true,
+    "name": "שרידי גשר נחל רביבים (עסלוג')",
+    "year": "1916",
+    "desc": "שרידי גשר 18 הקשתות מעל נחל רביבים, שפוצץ בפשיטה בריטית ב-23 במאי 1917 כדי לנתק את האספקה דרומה.",
+    "aa": "https://amudanan.co.il/#!wiki=P682631",
+    "img": "https://amudanan.co.il/services/thumb.php?file=../w/images/%D7%92%D7%A9%D7%A8_%D7%94%D7%A8%D7%9B%D7%91%D7%AA_%D7%94%D7%A2%D7%95%D7%AA%D7%9E%D7%90%D7%A0%D7%99%D7%AA.JPG&size=640",
+    "img_src": "https://amudanan.co.il/#!wiki=P682631",
+    "img_by": "עמוד ענן"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     34.7795,
+     31.0101
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "ashalim",
+    "line": "south",
+    "kind": "water",
+    "remains": true,
+    "name": "מאגר המים ושרידי התחנה ליד שבטה",
+    "year": "1916",
+    "desc": "מבנה ששימש מאגר מים לקטרים, עם גג מקושת, צמוד לסוללה מצפון, ולידו מבנה הרוס נוסף. ככל הנראה זו תחנת שבטה.",
+    "osm": "https://www.openstreetmap.org/node/13341910479",
+    "aa": "https://amudanan.co.il/#!wiki=P223968",
+    "img": "https://amudanan.co.il/services/thumb.php?file=../w/images/%D7%9E%D7%99%D7%9D%D7%A8%D7%9B%D7%91%D7%AA%D7%A9%D7%91%D7%98%D7%94.JPG&size=640",
+    "img_src": "https://amudanan.co.il/#!wiki=P223968",
+    "img_by": "עמוד ענן"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     34.6618,
+     30.9383
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "lavan-bridge",
+    "line": "south",
+    "kind": "bridge",
+    "remains": true,
+    "name": "גשר נחל לבן",
+    "year": "1916",
+    "desc": "במקור 11 קשתות. שרדו שלוש מהן וכמה אומנות. הגשר פוצץ בפשיטה הבריטית במאי 1917.",
+    "wiki": "https://he.wikipedia.org/wiki/%D7%92%D7%A9%D7%A8_%D7%94%D7%A8%D7%9B%D7%91%D7%AA_%D7%94%D7%98%D7%95%D7%A8%D7%A7%D7%99_%D7%A0%D7%97%D7%9C_%D7%9C%D7%91%D7%9F",
+    "osm": "https://www.openstreetmap.org/node/2465810345",
+    "aa": "https://amudanan.co.il/#!wiki=P822332",
+    "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c3/Lavan_stream_-_Turkish_train_bridge_3.jpg/960px-Lavan_stream_-_Turkish_train_bridge_3.jpg?utm_source=he.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "img_src": "https://commons.wikimedia.org/wiki/File:Lavan_stream_-_Turkish_train_bridge_3.jpg",
+    "img_by": "ויקישיתוף"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     34.5385,
+     30.9013
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "nitzana-bridge",
+    "line": "south",
+    "kind": "bridge",
+    "remains": true,
+    "name": "גשר נחל ניצנה",
+    "year": "1916",
+    "desc": "אומנות גשר שמונה הקשתות מעל ואדי אל-עוג'ה. הן נחשפו מחדש כשגשר הכביש הבריטי הצמוד קרס בשיטפון של 2010.",
+    "wiki": "https://he.wikipedia.org/wiki/%D7%92%D7%A9%D7%A8_%D7%94%D7%A8%D7%9B%D7%91%D7%AA_%D7%94%D7%98%D7%95%D7%A8%D7%A7%D7%99_%D7%A2%D7%9C_%D7%A0%D7%97%D7%9C_%D7%A0%D7%99%D7%A6%D7%A0%D7%94",
+    "aa": "https://amudanan.co.il/#!wiki=P805399",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/1/16/El_Auja_%28Auja_el_Hafir%29%2C_Palestine._c.1917-05._The_damaged_remains_of_a_bridge_which_was_blown_up_by_members_of_the_Camel_Brigade_and_C_Squadron.jpg?utm_source=he.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "img_src": "https://commons.wikimedia.org/wiki/File:El_Auja_%28Auja_el_Hafir%29%2C_Palestine._c.1917-05._The_damaged_remains_of_a_bridge_which_was_blown_up_by_members_of_the_Camel_Brigade_and_C_Squadron.jpg",
+    "img_by": "ויקישיתוף"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     34.4381,
+     30.878
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "auja",
+    "line": "south",
+    "kind": "water",
+    "remains": true,
+    "name": "מגדל המים ותחנת עוג'ה אל-חפיר (ניצנה)",
+    "year": "1916",
+    "desc": "מגדל מים גבוה וסגלגל שנבנה לאחסון מכלי המים של הקטרים, למרגלות תל ניצנה. לידו חורבות מבני התחנה; המסילה הבודדת התפצלה כאן לשמונה מסילות. מחסני הרכבת עומדים כקילומטר דרומה משם.",
+    "osm": "https://www.openstreetmap.org/node/9781599117",
+    "aa": "https://amudanan.co.il/#!wiki=P150843",
+    "img": "https://commons.wikimedia.org/wiki/Special:FilePath/IHM_%D7%AA%D7%97%D7%A0%D7%AA_%D7%94%D7%A8%D7%9B%D7%91%D7%AA_%D7%94%D7%98%D7%95%D7%A8%D7%A7%D7%99%D7%AA.jpeg?width=640",
+    "img_src": "https://commons.wikimedia.org/wiki/File:IHM_%D7%AA%D7%97%D7%A0%D7%AA_%D7%94%D7%A8%D7%9B%D7%91%D7%AA_%D7%94%D7%98%D7%95%D7%A8%D7%A7%D7%99%D7%AA.jpeg",
+    "img_by": "ויקישיתוף"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     34.4392,
+     30.8699
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "beerotayim-bridge",
+    "line": "south",
+    "kind": "bridge",
+    "remains": true,
+    "name": "גשר נחל בארותיים",
+    "year": "1916",
+    "desc": "גשר אבן בן שתי קשתות ליד עזוז, שלם ועדיין נושא דרך. מכאן והלאה לא הונחו פסים: רק הסוללה ממשיכה לכיוון קוסיימה.",
+    "wiki": "https://he.wikipedia.org/wiki/%D7%92%D7%A9%D7%A8_%D7%94%D7%A8%D7%9B%D7%91%D7%AA_%D7%94%D7%98%D7%95%D7%A8%D7%A7%D7%99_%D7%A2%D7%9C_%D7%A0%D7%97%D7%9C_%D7%91%D7%90%D7%A8%D7%95%D7%AA%D7%99%D7%99%D7%9D",
+    "osm": "https://www.openstreetmap.org/way/582369235",
+    "aa": "https://amudanan.co.il/#!wiki=P927598",
+    "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fa/%D7%92%D7%A9%D7%A8_%D7%94%D7%A8%D7%9B%D7%91%D7%AA_%D7%94%D7%98%D7%95%D7%A8%D7%A7%D7%99_%D7%94%D7%9E%D7%A9%D7%95%D7%A4%D7%A5_%D7%A2%D7%9C_%D7%A0%D7%97%D7%9C_%D7%91%D7%90%D7%A8%D7%95%D7%AA%D7%99%D7%99%D7%9D_%D7%9E%D7%91%D7%98_%D7%9E%D7%A7%D7%A8%D7%95%D7%91.jpg/960px-%D7%92%D7%A9%D7%A8_%D7%94%D7%A8%D7%9B%D7%91%D7%AA_%D7%94%D7%98%D7%95%D7%A8%D7%A7%D7%99_%D7%94%D7%9E%D7%A9%D7%95%D7%A4%D7%A5_%D7%A2%D7%9C_%D7%A0%D7%97%D7%9C_%D7%91%D7%90%D7%A8%D7%95%D7%AA%D7%99%D7%99%D7%9D_%D7%9E%D7%91%D7%98_%D7%9E%D7%A7%D7%A8%D7%95%D7%91.jpg?utm_source=he.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "img_src": "https://commons.wikimedia.org/wiki/File:%D7%92%D7%A9%D7%A8_%D7%94%D7%A8%D7%9B%D7%91%D7%AA_%D7%94%D7%98%D7%95%D7%A8%D7%A7%D7%99_%D7%94%D7%9E%D7%A9%D7%95%D7%A4%D7%A5_%D7%A2%D7%9C_%D7%A0%D7%97%D7%9C_%D7%91%D7%90%D7%A8%D7%95%D7%AA%D7%99%D7%99%D7%9D_%D7%9E%D7%91%D7%98_%D7%9E%D7%A7%D7%A8%D7%95%D7%91.jpg",
+    "img_by": "ויקישיתוף"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     34.4683,
+     30.7952
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "ela-bridge",
+    "line": "gaza",
+    "kind": "bridge",
+    "remains": true,
+    "name": "גשר נחל האלה",
+    "year": "1917",
+    "desc": "שתי קשתות רחבות מאבן מסותתת בין קריית מלאכי לכפר אחים, שבנו מהנדסים גרמנים עבור הצבא העות'מאני.",
+    "wiki": "https://he.wikipedia.org/wiki/%D7%92%D7%A9%D7%A8_%D7%94%D7%A8%D7%9B%D7%91%D7%AA_%D7%94%D7%98%D7%95%D7%A8%D7%A7%D7%99_%D7%A2%D7%9C_%D7%A0%D7%97%D7%9C_%D7%94%D7%90%D7%9C%D7%94",
+    "osm": "https://www.openstreetmap.org/node/11881652669",
+    "aa": "https://amudanan.co.il/#!wiki=P404726",
+    "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c6/Turky_train_rail_bridgh_kefar_achim_kmalachi_efi_elian_4.JPG/960px-Turky_train_rail_bridgh_kefar_achim_kmalachi_efi_elian_4.JPG?utm_source=he.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "img_src": "https://commons.wikimedia.org/wiki/File:Turky_train_rail_bridgh_kefar_achim_kmalachi_efi_elian_4.JPG",
+    "img_by": "ויקישיתוף"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     34.7568,
+     31.7377
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "beit-hanoun",
+    "line": "gaza",
+    "kind": "station",
+    "remains": false,
+    "name": "קצה המסילה בבית חאנון",
+    "year": "1917",
+    "desc": "השלוחה נועדה להגיע לעזה אך נעצרה כאן, בעורף קו עזה–באר שבע. שימשה חודשים ספורים בלבד עד הפריצה הבריטית.",
+    "approx": true
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     34.537,
+     31.541
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "huj",
+    "line": "gaza",
+    "kind": "station",
+    "remains": false,
+    "name": "כפר הוג'",
+    "year": "1917",
+    "desc": "קצה שלוחה צבאית באורך 12 ק\"מ שנסללה באביב 1917 ונכבשה ב-8 בנובמבר 1917. לאורך התוואי, ליד ארז ואור הנר, נותרו מבתרים וגשרונים.",
+    "wiki": "https://he.wikipedia.org/wiki/%D7%A9%D7%9C%D7%95%D7%97%D7%AA_%D7%94%D7%A8%D7%9B%D7%91%D7%AA_%D7%9C%D7%9B%D7%A4%D7%A8_%D7%94%D7%95%D7%92%27",
+    "approx": true
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     34.623,
+     31.51
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "rail-cistern",
+    "line": "jj",
+    "kind": "water",
+    "remains": true,
+    "name": "בור מים עם פסי רכבת",
+    "year": "התקופה העות'מאנית",
+    "desc": "בור מים בעומק כחמישה מטרים מעל נחל שורק, שדפנותיו נתמכות בפסי רכבת מהתקופה הטורקית. לידו שתי שקתות.",
+    "osm": "https://www.openstreetmap.org/node/12323849901",
+    "img": "https://commons.wikimedia.org/wiki/Special:FilePath/IHM_%D7%91%D7%95%D7%A8_%D7%9E%D7%99%D7%9D_33.jpeg?width=640",
+    "img_src": "https://commons.wikimedia.org/wiki/File:IHM_%D7%91%D7%95%D7%A8_%D7%9E%D7%99%D7%9D_33.jpeg",
+    "img_by": "ויקישיתוף"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     35.081,
+     31.7587
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "naharayim",
+    "line": "valley",
+    "kind": "bridge",
+    "remains": true,
+    "name": "גשרי המסילה בנהריים",
+    "year": "1905",
+    "desc": "שני גשרי מסילה נטושים ליד מפגש הירמוך והירדן. האתר צמוד לגבול, ויש לברר מראש את אפשרות הגישה.",
+    "osm": "https://www.openstreetmap.org/way/417219167",
+    "aa": "https://amudanan.co.il/#!wiki=P463602",
+    "img": "https://amudanan.co.il/services/thumb.php?file=../w/images/%D7%92%D7%A9%D7%A8_%D7%9E%D7%A4%D7%95%D7%A6%D7%A5_1.JPG&size=640",
+    "img_src": "https://amudanan.co.il/#!wiki=P463602",
+    "img_by": "עמוד ענן"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     35.5728,
+     32.6447
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "teenim-bridge",
+    "line": "eastern",
+    "kind": "bridge",
+    "remains": true,
+    "name": "גשר נחל תאנים",
+    "year": "1915",
+    "desc": "גשר מסילה נטוש בצמוד לכביש 6, מדרום לטולכרם. לפי המקורות זהו גשר טורקי באורך כ-50 מטר, בן שלוש קשתות. הזיהוי נעשה לפי המיקום ב-OpenStreetMap.",
+    "wiki": "https://he.wikipedia.org/wiki/%D7%94%D7%9E%D7%A1%D7%99%D7%9C%D7%94_%D7%94%D7%9E%D7%96%D7%A8%D7%97%D7%99%D7%AA_%D7%94%D7%94%D7%99%D7%A1%D7%98%D7%95%D7%A8%D7%99%D7%AA",
+    "osm": "https://www.openstreetmap.org/way/1573776702",
+    "aa": "https://amudanan.co.il/#!wiki=P601468",
+    "img": "https://amudanan.co.il/services/thumb.php?file=../w/images/%D7%92%D7%A9%D7%A8%D7%AA%D7%90%D7%A0%D7%99%D7%9D.JPG&size=640",
+    "img_src": "https://amudanan.co.il/#!wiki=P601468",
+    "img_by": "עמוד ענן"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     35.0094,
+     32.2942
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "alexander-bridge",
+    "line": "eastern",
+    "kind": "bridge",
+    "remains": true,
+    "name": "גשר נחל אלכסנדר",
+    "year": "1915",
+    "desc": "גשר מסילה נטוש על המסילה המזרחית, בין טייבה לאייל. לפי המקורות זהו גשר טורקי בן ארבע קשתות, ולצידו פילבוקס בריטי. הזיהוי נעשה לפי המיקום ב-OpenStreetMap.",
+    "wiki": "https://he.wikipedia.org/wiki/%D7%94%D7%9E%D7%A1%D7%99%D7%9C%D7%94_%D7%94%D7%9E%D7%96%D7%A8%D7%97%D7%99%D7%AA_%D7%94%D7%94%D7%99%D7%A1%D7%98%D7%95%D7%A8%D7%99%D7%AA",
+    "osm": "https://www.openstreetmap.org/way/880991073",
+    "aa": "https://amudanan.co.il/#!wiki=P469191",
+    "img": "https://amudanan.co.il/services/thumb.php?file=../w/images/Darphk.jpg&size=640",
+    "img_src": "https://amudanan.co.il/#!wiki=P469191",
+    "img_by": "עמוד ענן"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     34.9815,
+     32.2394
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "lod-ottoman",
+    "line": "eastern",
+    "kind": "station",
+    "remains": true,
+    "name": "מבנה התחנה העות'מאנית בלוד",
+    "year": "1915",
+    "desc": "מבנה תחנה מהתקופה העות'מאנית ליד מסילות לוד, כפי שהוא מסומן ב-OpenStreetMap. בסמוך עומד מגדל מים ישן.",
+    "osm": "https://www.openstreetmap.org/way/417176213",
+    "img": "https://commons.wikimedia.org/wiki/Special:FilePath/Israel_Hiking_Map_%D7%9E%D7%92%D7%93%D7%9C_%D7%94%D7%9E%D7%99%D7%9D_%D7%94%D7%99%D7%A9%D7%9F.jpeg?width=640",
+    "img_src": "https://commons.wikimedia.org/wiki/File:Israel_Hiking_Map_%D7%9E%D7%92%D7%93%D7%9C_%D7%94%D7%9E%D7%99%D7%9D_%D7%94%D7%99%D7%A9%D7%9F.jpeg",
+    "img_by": "ויקישיתוף"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     34.8918,
+     31.9482
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "culvert-sheria",
+    "line": "south",
+    "kind": "bridge",
+    "remains": true,
+    "name": "מעביר מים מצפון לתל שרע",
+    "year": "1915",
+    "desc": "מעביר מים בנוי אבן מתחת לסוללת המסילה העות'מאנית.",
+    "osm": "https://www.openstreetmap.org/node/14373935701"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     34.7006,
+     31.4127
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "hubarot",
+    "line": "south",
+    "kind": "trackbed",
+    "remains": true,
+    "name": "מצפור החוברות",
+    "year": "1916",
+    "desc": "קרונות רכבת שהוצבו על קטע מסוללת המסילה ומשמשים מצפור לצפייה בחוברות.",
+    "osm": "https://www.openstreetmap.org/node/5600031734",
+    "aa": "https://amudanan.co.il/#!wiki=P775390",
+    "img": "https://commons.wikimedia.org/wiki/Special:FilePath/Israel_Hiking_Map_%D7%9E%D7%A6%D7%A4%D7%95%D7%A8_%D7%94%D7%97%D7%95%D7%91%D7%A8%D7%95%D7%AA.jpeg?width=640",
+    "img_src": "https://commons.wikimedia.org/wiki/File:Israel_Hiking_Map_%D7%9E%D7%A6%D7%A4%D7%95%D7%A8_%D7%94%D7%97%D7%95%D7%91%D7%A8%D7%95%D7%AA.jpeg",
+    "img_by": "ויקישיתוף"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     34.47,
+     30.8255
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "auja-village",
+    "line": "south",
+    "kind": "building",
+    "remains": true,
+    "name": "מבני עובדי המסילה בניצנה",
+    "year": "1916",
+    "desc": "מבני אבן של יישוב עובדי המסילה העות'מאנית, מדרום לתחנת עוג'ה אל-חפיר.",
+    "osm": "https://www.openstreetmap.org/node/14303862601",
+    "aa": "https://amudanan.co.il/#!wiki=P564741",
+    "img": "https://amudanan.co.il/services/thumb.php?file=../w/images/Auja_El_Hafir_Turkish_camp_3.jpg&size=640",
+    "img_src": "https://amudanan.co.il/#!wiki=P564741",
+    "img_by": "עמוד ענן"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     34.4427,
+     30.8646
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "timna-bridge",
+    "line": "south",
+    "kind": "bridge",
+    "remains": true,
+    "name": "גשר נחל תמנה",
+    "year": "1915",
+    "desc": "גשר אבן בן קשת אחת ממזרח לקיבוץ רבדים. רובו בנוי אבן גיר בהירה וחזית הקשת מאבן חול כהה. מעקה הבטון נוסף כשהגשר הפך לדרך רכב. לצידו נותרו שרידי סוללת המסילה, חורשת אקליפטוס ושולחן פיקניק.",
+    "aa": "https://amudanan.co.il/#!wiki=P674943",
+    "img": "https://amudanan.co.il/services/thumb.php?file=../w/images/2015.07.17-183552.137.android.jpg&size=640",
+    "img_src": "https://amudanan.co.il/#!wiki=P674943",
+    "img_by": "עמוד ענן"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     34.8316,
+     31.7775
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "besor-bridge",
+    "line": "south",
+    "kind": "bridge",
+    "remains": true,
+    "name": "גשר נחל הבשור",
+    "year": "1916",
+    "desc": "גשר אבן ארוך, הרוס ברובו. בולטות שתי אומנות הקצה וביניהן בסיסי שלושה עמודים. האומנה הצפונית השתמרה טוב יותר.",
+    "aa": "https://amudanan.co.il/#!wiki=P209974",
+    "img": "https://amudanan.co.il/services/thumb.php?file=../w/images/%D7%AA%D7%9E%D7%95%D7%A0%D7%94_%D7%A1%D7%A7%D7%A8.jpg&size=640",
+    "img_src": "https://amudanan.co.il/#!wiki=P209974",
+    "img_by": "עמוד ענן"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     34.6941,
+     30.9641
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "yardena-rails",
+    "line": "valley",
+    "kind": "trackbed",
+    "remains": true,
+    "name": "פסי המסילה ליד ירדנה",
+    "year": "1905",
+    "desc": "קטע של המסילה המקורית עם פסים שלמים, מול הכניסה לבית יוסף, ממזרח לכביש.",
+    "aa": "https://amudanan.co.il/#!wiki=P816881",
+    "img": "https://amudanan.co.il/services/thumb.php?file=../w/images/2019.01.18-164208.389.android.jpg&size=640",
+    "img_src": "https://amudanan.co.il/#!wiki=P816881",
+    "img_by": "עמוד ענן"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     35.5466,
+     32.5629
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "beersheba-water",
+    "line": "south",
+    "kind": "water",
+    "remains": true,
+    "name": "מגדל המים של תחנת באר שבע",
+    "year": "1915",
+    "desc": "מגדל אבן ברחוב הרמב\"ם, כ-250 מטר מדרום-מזרח לתחנה. נבנה ב-1915 בתכנון היינריך מייסנר, ובראשו עמדו שני מכלים גליליים שסיפקו מים לקטרי הקיטור עד סגירת התחנה ב-1927. אחר כך שימש את העיר העתיקה עד שנות ה-60.",
+    "wiki": "https://he.wikipedia.org/wiki/%D7%9E%D7%92%D7%93%D7%9C_%D7%94%D7%9E%D7%99%D7%9D_%28%D7%91%D7%90%D7%A8_%D7%A9%D7%91%D7%A2%29",
+    "osm": "https://www.openstreetmap.org/way/1573729313",
+    "aa": "https://amudanan.co.il/#!wiki=P479804",
+    "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/55/PikiWiki_Israel_13210_The_water_tower_of_the_Turkish_railway_station_in.jpg/960px-PikiWiki_Israel_13210_The_water_tower_of_the_Turkish_railway_station_in.jpg?utm_source=he.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "img_src": "https://commons.wikimedia.org/wiki/File:PikiWiki_Israel_13210_The_water_tower_of_the_Turkish_railway_station_in.jpg",
+    "img_by": "ויקישיתוף"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     34.78792,
+     31.24458
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "tulkarm-water",
+    "line": "samaria",
+    "kind": "water",
+    "remains": true,
+    "name": "מגדל המים של תחנת טולכרם",
+    "year": "1915",
+    "desc": "מגדל המים של תחנת הצומת, שמור היטב, בתוך אזור התעשייה ניצני שלום.",
+    "aa": "https://amudanan.co.il/#!wiki=P326209",
+    "img": "https://amudanan.co.il/services/thumb.php?file=../w/images/2016.04.10-163637.624.android.jpg&size=640",
+    "img_src": "https://amudanan.co.il/#!wiki=P326209",
+    "img_by": "עמוד ענן"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     35.0156,
+     32.3084
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "tzemah-water",
+    "line": "valley",
+    "kind": "water",
+    "remains": true,
+    "name": "מגדל המים של תחנת סמח' (צמח)",
+    "year": "1905",
+    "desc": "מבנה בזלת בן שני חדרים, ללא גג. מעל כל חדר עמד מכל ברזל עגול למילוי הקטרים. הסובבן האמיתי נמצא כ-50 מטר ממערב לו, מחוץ לגדר המכללה.",
+    "osm": "https://www.openstreetmap.org/way/914243871",
+    "aa": "https://amudanan.co.il/#!wiki=P676343",
+    "img": "https://amudanan.co.il/services/thumb.php?file=../w/images/IMAG1533.jpg&size=640",
+    "img_src": "https://amudanan.co.il/#!wiki=P676343",
+    "img_by": "עמוד ענן"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     35.5941,
+     32.7047
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "beit-shean-water",
+    "line": "valley",
+    "kind": "water",
+    "remains": true,
+    "name": "מגדל המים של תחנת ביסאן (בית שאן)",
+    "year": "1905",
+    "desc": "מגדל המים המשוחזר של התחנה העות'מאנית, לצד מבנה התחנה ומול תחנת הרכבת החדשה.",
+    "osm": "https://www.openstreetmap.org/way/1313538584"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     35.493,
+     32.513
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "birein",
+    "line": "south",
+    "kind": "station",
+    "remains": true,
+    "name": "תחנת ביריין (עזוז)",
+    "year": "1916",
+    "desc": "התחנה האחרונה שאליה הגיעו הפסים. נראים יסודות בית מנהל התחנה, בריכת מים שנבנתה מעל המסילה ומתקן בן שישה תאים מרובעים.",
+    "aa": "https://amudanan.co.il/#!wiki=P971087"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     34.4661,
+     30.7913
+    ]
+   }
+  }
+ ]
+}
