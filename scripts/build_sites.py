@@ -65,6 +65,8 @@ S = [
   'התחנה האחרונה בתחומי ארץ ישראל המנדטורית, לפני שהמסילה טיפסה בגשרים ובמנהרות אל החורן. הבניין עומד בכניסה לאתר חמת גדר.', 'תחנת הרכבת אל חמה', {}),
  ('butma-bridge', 'valley', 'bridge', True, 32.6908, 35.6716, 'גשר בטנה (אום בוטמה)', '1905',
   'גשר נטוש מיד אחרי תחנת אל-חמה, בקצה הקטע הנגיש של הקניון.', None, {}),
+ ('yarmouk-tunnel', 'valley', 'tunnel', True, 32.72656, 35.72461, "מנהרת הירמוך (מנהרה 105)", '1905',
+  "המערבית מבין שמונה המנהרות של המסילה בקניון הירמוך, סמוך למושב מיצר. אורכה כ-200 מטר, היא חצובה בקירטון ומחופה אבן גיר, ואפשר לעבור בה ברגל. הכניסה לאזור דורשת תיאום עם הצבא.", "מנהרה מס' 1 של מסילת הרכבת דרעא-צמח", {}),
 
  # ---- מסילת השומרון, 1912–1915 ----
  ('jenin', 'samaria', 'station', True, 32.4625, 35.2881, "תחנת ג'נין", '1913',
@@ -179,7 +181,7 @@ OSM = {
  'jaffa': 'way/104320166', 'ta-park': 'way/855004769', 'bargiora': 'way/472328217', 'jerusalem': 'way/44718669', 'jlm-park': 'way/261120043',
  'kishon-bridge': 'way/251770874', 'elroi': 'node/429882192', 'kfar-yehoshua': 'way/981611337', 'beit-shean': 'node/3644691995',
  'yissachar-bridge': 'way/880394101', 'tavor-bridge': 'node/6466538661', 'majami': 'way/417219165', 'tzemah': 'node/278477173',
- 'hamma-bridge': 'way/177941567', 'bana-bridge': 'way/112450375', 'hamma': 'way/145621270', 'butma-bridge': 'way/415073769',
+ 'hamma-bridge': 'way/177941567', 'bana-bridge': 'way/112450375', 'hamma': 'way/145621270', 'butma-bridge': 'way/415073769', 'yarmouk-tunnel': 'way/229601223',
  'atara-tunnel': 'node/5752407724', 'masudiya': 'node/2558613529', 'nablus': 'relation/18051653', 'qalqilya': 'way/880991063',
  'loco-well': 'node/7056432986', 'sorek': 'way/446233752', 'shikma-bridge': 'node/7283016325', 'beersheba': 'way/372316411',
  'beersheba-bridge': 'way/624434434', 'ashalim': 'node/13341910479', 'auja': 'node/9781599117', 'beerotayim-bridge': 'way/582369235',
@@ -193,7 +195,7 @@ AA = {
  'jaffa': 'P635177', 'ta-park': 'P961051', 'lod': 'P588034', 'ramla': 'P635002', 'sejed': 'P254416', 'bargiora': 'P396025', 'battir': 'P874576',
  'jerusalem': 'P607659', 'haifa-east': 'P695246', 'kishon-bridge': 'P132865', 'kfar-yehoshua': 'P397094', 'afula': 'P611302',
  'beit-shean': 'P980687', 'yissachar-bridge': 'P100982', 'tavor-bridge': 'P901790', 'majami': 'P227156', 'tzemah': 'P300828',
- 'hamma-bridge': 'P479794', 'bana-bridge': 'P110812', 'hamma': 'P718682', 'butma-bridge': 'P836261', 'atara-tunnel': 'P113297',
+ 'hamma-bridge': 'P479794', 'bana-bridge': 'P110812', 'hamma': 'P718682', 'butma-bridge': 'P836261', 'yarmouk-tunnel': 'P123568', 'atara-tunnel': 'P113297',
  'masudiya': 'P892667', 'tulkarm': 'P326163', 'qaqun': 'P731955', 'qalqilya': 'P413500', 'rantiya': 'P641149', 'sorek': 'P280164',
  'shikma-bridge': 'P434890', 'patish-bridge': 'P150957', 'beersheba': 'P919868', 'beersheba-bridge': 'P633333', 'ashalim': 'P223968',
  'auja': 'P150843', 'beerotayim-bridge': 'P927598', 'ela-bridge': 'P404726', 'naharayim': 'P463602', 'teenim-bridge': 'P601468',
@@ -202,6 +204,7 @@ AA = {
 }
 # photographs that the automatic lookups do not find: (file name, where it is hosted)
 PHOTO = {
+ 'yarmouk-tunnel': ('The first train tunnel of Samakh–Daraa line of Hejaz Railway West portal.jpg', 'commons'),
  'masudiya': ('16-18-Sabastiya-1949 (harvested) - Masudiya train station.jpg', 'commons'),
  'ras-el-ain': ('Rosh HaAyin South railway station.JPG', 'commons'),
  'artuf': ('Artuf train station.jpg', 'commons'),

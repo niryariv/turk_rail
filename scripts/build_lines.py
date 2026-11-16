@@ -69,10 +69,12 @@ def route(*via):
     return out
 
 features = []
-def add(line, remains, geom, src):
+def add(line, remains, geom, src, osm=None):
     geom = [g for i, g in enumerate(geom) if i == 0 or g != geom[i-1]]
     if len(geom) < 2: return
-    features.append({'type': 'Feature', 'properties': {'line': line, 'remains': remains, 'src': src},
+    props = {'line': line, 'remains': remains, 'src': src}
+    if osm: props['osm'] = osm                      # OSM way id the segment was taken from
+    features.append({'type': 'Feature', 'properties': props,
                      'geometry': {'type': 'LineString', 'coordinates': [[round(p[1], 5), round(p[0], 5)] for p in geom]}})
 
 def take(line, pred):
@@ -82,7 +84,7 @@ def take(line, pred):
         if not st or not is_line(t): continue
         g = pts(e)
         if pred(e, t, g):
-            add(line, st in ('abandoned', 'disused'), g, 'osm'); n += 1
+            add(line, st in ('abandoned', 'disused'), g, 'osm', e['id']); n += 1
     print(line, 'osm ways:', n)
 
 # ---------- 1. Jaffa–Jerusalem (1892) ----------
@@ -99,7 +101,7 @@ add('jj', False, route((32.0537, 34.7848), (31.9459, 34.8756), (31.9294, 34.8768
 
 # ---------- 2. Jezreel Valley railway (1905) ----------
 HAIFA_E = (32.8118, 35.0048); AFULA = (32.6106, 35.2903); BEITSHEAN = (32.5128, 35.4936)
-VALLEY_BOX = (32.49, 35.45, 32.76, 35.686)
+VALLEY_BOX = (32.49, 35.45, 32.76, 35.756)   # east to Yarmouk tunnel no. 1 and the Wadi Khaled bend, the last stretch on the Israeli-held bank
 take('valley', lambda e, t, g: t.get('gauge') != '1435' and inbox(mid(g), VALLEY_BOX))
 take('valley', lambda e, t, g: e['id'] == 251770874 or 'Jezreel' in t.get('name', '') + t.get('description', '') or t.get('name') == 'השוק')
 add('valley', False, [HAIFA_E] + route(HAIFA_E, (32.7740, 35.0489), (32.7194, 35.0908), (32.6676, 35.1455),

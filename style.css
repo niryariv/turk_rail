@@ -139,6 +139,7 @@ h2 { font-family: var(--display); font-weight: 400; font-size: 23px; margin: 30p
 .about { margin-top: 32px; font-size: 14px; color: var(--ink-soft); }
 .about summary { cursor: pointer; color: var(--ink); font-size: 15px; }
 .about p { margin: 10px 0 0; }
+.how { margin: 14px 0 0; font-size: 15px; }
 
 /* detail */
 .back { background: none; border: 0; padding: 16px 26px 12px; font-size: 14px; color: var(--ink-soft); display: block; }
@@ -172,6 +173,9 @@ h2 { font-family: var(--display); font-weight: 400; font-size: 23px; margin: 30p
 .pop .leaflet-popup-content p { margin: 0 0 6px; }
 .pop-h.yes { color: var(--tile); }
 .pop-h.no { color: var(--ink-soft); }
+.lk-h { color: var(--ink-soft); }
+.links.more { border-top: 0; margin-top: 8px; padding-top: 0; }
+.pop-src { font-size: 13px; }
 .pop-links { display: flex; flex-wrap: wrap; gap: 4px 12px; }
 .pop .leaflet-popup-content a { color: var(--sea); }
 .pop-more { background: none; border: 0; padding: 0; color: var(--ink-soft); text-decoration: underline; text-underline-offset: 3px; font-size: 14px; }

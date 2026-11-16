@@ -2779,6 +2779,66 @@
 "geometry": {
 "type": "Point",
 "coordinates": [
+35.727312,
+32.727404
+]
+},
+"properties": {
+"id": "P529061",
+"line": "valley",
+"kind": "bridge",
+"name": "גשר מקומי",
+"desc": "פסי רכבת על פני גשר אבנים",
+"by": "שמעון כהן, צוות08",
+"url": "https://amudanan.co.il/#!wiki=P529061",
+"img": "https://amudanan.co.il/services/thumb.php?file=../w/images/2018.04.02-136027.705.android.jpg&size=640"
+}
+},
+{
+"type": "Feature",
+"geometry": {
+"type": "Point",
+"coordinates": [
+35.721145,
+32.72537
+]
+},
+"properties": {
+"id": "P830780",
+"line": "valley",
+"kind": "culvert",
+"name": "גשרון רכבת חיג'אזית לפני מנהרת הירמוך1",
+"desc": "גשרון של הרכבת החיג'אזית בערוץ הירמוך ציר חדש של צהל עולה מכאן עד לגדר הגבול..",
+"by": "13021974,יהונתן יהודה",
+"url": "https://amudanan.co.il/#!wiki=P830780",
+"img": "https://amudanan.co.il/services/thumb.php?file=../w/images/2018.12.05-134613.313.android.jpg&size=640"
+}
+},
+{
+"type": "Feature",
+"geometry": {
+"type": "Point",
+"coordinates": [
+35.698696,
+32.712902
+]
+},
+"properties": {
+"id": "P994768",
+"line": "valley",
+"kind": "bridge",
+"name": "גשר שק אל ברד",
+"desc": "גשר הרכבת הטורקית בקטע אל חמה- דרעה, סמוך לכפר הירדני אל מחיבה.זהו גשר הירמוך מס'-5, בקטע שבו הרכבת החיג'אזית נעה לאורך תוואי הירמוך עד לדרעה שבסוריה. גבול ישראל-ירדן עובר למעשה באמצע נהר הירמוך ולמעשה חציו של הגשר בשליטה ישראלית, וחציו בשליטה ירדנית. אין גישה למקום, שטח צבאי סגור.",
+"by": "Israelnac",
+"url": "https://amudanan.co.il/#!wiki=P994768",
+"img": "https://amudanan.co.il/services/thumb.php?file=../w/images/IMG_5396.JPG&size=640"
+}
+},
+{
+"type": "Feature",
+"geometry": {
+"type": "Point",
+"coordinates": [
 35.622268,
 32.690676
 ]

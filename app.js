@@ -6,19 +6,19 @@
 
   var TITLE = "מסילות הרכבת העות'מאניות";
   var LINES = {
-    jj: { name: 'מסילת יפו–ירושלים', years: '1892', gauge: '1,000 מ"מ',
+    jj: { wiki: 'מסילת הרכבת יפו–ירושלים', name: 'מסילת יפו–ירושלים', years: '1892', gauge: '1,000 מ"מ',
       text: 'מסילת הרכבת הראשונה בארץ. נבנתה בידי חברה צרפתית על סמך זיכיון שהשיג יוסף נבון ונחנכה בספטמבר 1892: 87 ק"מ ו-176 גשרים, בעלייה לירושלים לאורך נחל שורק ונחל רפאים. קטע מישור החוף הוא כיום מסילה מודרנית פעילה. בקטע ההררי הפסים עדיין מונחים על התוואי של 1892, אך רכבות אינן נוסעות בו מאז 2020. שני קצות המסילה, ביפו ובירושלים, הפכו לפארקים.' },
-    valley: { name: 'רכבת העמק', years: '1905', gauge: '1,050 מ"מ',
+    valley: { wiki: 'רכבת העמק', name: 'רכבת העמק', years: '1905', gauge: '1,050 מ"מ',
       text: "שלוחת חיפה–דרעא של המסילה החיג'אזית, שנתנה לדמשק נמל בים התיכון. המסילה חצתה את עמק יזרעאל ועמק בית שאן, ירדה אל הירדן לגובה 246 מטר מתחת לפני הים וטיפסה בקניון הירמוך. נסגרה ב-1951. ממערב לבית שאן נסללה מסילה חדשה בתוואי דומה; ממזרח לה שרדו הסוללה הישנה, גשרי הבזלת והתחנות." },
-    samaria: { name: 'מסילת השומרון', years: '1912–1915', gauge: '1,050 מ"מ',
+    samaria: { wiki: 'מסילת השומרון', name: 'מסילת השומרון', years: '1912–1915', gauge: '1,050 מ"מ',
       text: "נסללה מעפולה דרומה דרך ג'נין למסעודיה ולשכם, ונועדה להגיע לירושלים. המלחמה שינתה את התוכנית: ממסעודיה נסלל קו מערבה לטולכרם, שחיבר את המסילה החיג'אזית למסילה הצבאית החדשה. הפסים פורקו מזמן, אך את הסוללה המתפתלת אפשר לזהות לאורך רוב הדרך." },
-    eastern: { name: 'המסילה המזרחית', years: '1915', gauge: '1,050 מ"מ',
+    eastern: { wiki: 'המסילה המזרחית ההיסטורית', name: 'המסילה המזרחית', years: '1915', gauge: '1,050 מ"מ',
       text: "נסללה בקיץ 1915 בניהולו של היינריך מייסנר מטולכרם ללוד, הרחק מהחוף ומטווח תותחי הצי הבריטי. שלוחות יער הובילו צפונה לחדרה ולכפר קניר, להבאת עצי אלון להסקת הקטרים. הבריטים הרחיבו אותה לרוחב תקני והיא הייתה לקו הראשי של הארץ. כיום היא נסללת מחדש, ולכן נותרו ממנה בעיקר תחנות וגשרים אחדים מהתקופה העות'מאנית." },
-    south: { name: 'המסילה הדרומית לסיני', years: '1915–1916', gauge: '1,050 מ"מ',
+    south: { wiki: 'מסילת הרכבת מנחל שורק לקוסיימה', name: 'המסילה הדרומית לסיני', years: '1915–1916', gauge: '1,050 מ"מ',
       text: "\"השלוחה המצרית\", שנסללה כדי לתמוך במתקפה על תעלת סואץ. היא התפצלה ממסילת ירושלים בוואדי צראר, הגיעה לבאר שבע באוקטובר 1915, לביר עסלוג' במרץ 1916 ולעוג'ה אל-חפיר במאי, וסוללתה נמשכה עד קוסיימה שבסיני. לאורכה נבנו כ-140 גשרי אבן ומעבירי מים. הבריטים פוצצו את הגשרים הגדולים במאי 1917 והעות'מאנים פירקו את הפסים בנסיגתם, אך בנגב היבש הסוללה נמשכת עד היום לאורך עשרות קילומטרים." },
-    gaza: { name: 'השלוחה לעזה', years: '1917', gauge: '1,050 מ"מ',
+    gaza: { wiki: 'מסילת הרכבת מנחל שורק לעזה', name: 'השלוחה לעזה', years: '1917', gauge: '1,050 מ"מ',
       text: "נסללה באביב 1917 מא-תינה לכיוון עזה כדי לתמוך בקו עזה–באר שבע, עם שלוחה לכפר הוג'. היא הגיעה עד בית חאנון ושימשה חודשים ספורים, עד שהחזית נפרצה בנובמבר 1917. כמעט דבר לא נותר ממנה מלבד גשר אחד נאה." },
-    acre: { name: 'שלוחת עכו', years: '1913', gauge: '1,050 מ"מ',
+    acre: { wiki: 'רכבת העמק', name: 'שלוחת עכו', years: '1913', gauge: '1,050 מ"מ',
       text: "שלוחה קצרה מבלד א-שייח' סביב מפרץ חיפה לעכו. פסיה פורקו ב-1915 לטובת המסילה הצבאית בדרום, ומסילת החוף המאוחרת נסללה על חלק ניכר מהתוואי. לא נותרו ממנה שרידים." }
   };
   var ORDER = ['jj', 'valley', 'samaria', 'eastern', 'south', 'gaza', 'acre'];
@@ -43,7 +43,7 @@
   var osmAttr = '© תורמי <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a>';
   var bases = {
     map: L.tileLayer('https://tile.openstreetmap.org/{z}/{x}/{y}.png', { pane: 'base', maxZoom: 19, attribution: osmAttr }),
-    hike: L.tileLayer('https://israelhiking.osm.org.il/Hebrew/Tiles/{z}/{x}/{y}.png', { pane: 'base', maxNativeZoom: 16, maxZoom: 19, attribution: '<a href="https://israelhiking.osm.org.il">Israel Hiking Map</a> CC BY-NC-SA, ' + osmAttr }),
+    hike: L.tileLayer('https://israelhiking.osm.org.il/Hebrew/Tiles/{z}/{x}/{y}.png', { pane: 'base', maxNativeZoom: 16, maxZoom: 19, attribution: '<a href="https://mapeak.com">Israel Hiking Map</a> CC BY-NC-SA, ' + osmAttr }),
     sat: L.tileLayer('https://server.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer/tile/{z}/{y}/{x}', { pane: 'base', maxNativeZoom: 18, maxZoom: 19, attribution: 'צילום: Esri, Maxar, Earthstar Geographics' })
   };
   var mapEl = $('map');
@@ -90,8 +90,18 @@
     return d / 1000;
   }
 
+  function ext(href, label) { return '<a href="' + esc(href) + '" target="_blank" rel="noopener">' + label + '</a>'; }
+  function lineWiki(id, label) { return ext('https://he.wikipedia.org/wiki/' + encodeURIComponent(LINES[id].wiki.replace(/ /g, '_')), label || 'ויקיפדיה'); }
+  /* where a line segment comes from: the OSM way itself, or how it was drawn */
+  function segSource(p) {
+    var w = lineWiki(p.line, 'ערך המסילה בוויקיפדיה');
+    if (p.osm) return ext('https://www.openstreetmap.org/way/' + p.osm, 'קטע המסילה ב-OpenStreetMap');
+    if (p.src === 'modern') return 'מסילה מודרנית על התוואי הישן, לפי ' + ext('https://www.openstreetmap.org/#map=14/' + p.at, 'OpenStreetMap') + ' ו' + w;
+    if (p.src === 'gap') return 'קטע חיבור משוער בין קטעים ממופים, לפי ' + w;
+    return 'שרטוט משוער לפי ' + w;
+  }
   function hikeLink(lat, lon) {
-    return '<a href="https://israelhiking.osm.org.il/map/16/' + lat + '/' + lon + '" target="_blank" rel="noopener">מפת טיולים</a>';
+    return '<a href="https://mapeak.com/map/16/' + lat + '/' + lon + '" target="_blank" rel="noopener">מפת טיולים</a>';
   }
 
   Promise.all([fetch('data/lines.geojson').then(function (r) { return r.json(); }),
@@ -121,8 +131,10 @@
         L.DomEvent.stopPropagation(e);
         var lat = e.latlng.lat.toFixed(5), lon = e.latlng.lng.toFixed(5);
         var h = p.remains
-          ? '<p class="pop-h yes">סוללה או פסים ששרדו</p><p>כאן אפשר לראות בשטח את תוואי ' + esc(LINES[p.line].name) + '.</p><p class="pop-links">' + hikeLink(lat, lon) + '</p>'
+          ? '<p class="pop-h yes">סוללה או פסים ששרדו</p><p>כאן אפשר לראות בשטח את תוואי ' + esc(LINES[p.line].name) + '.</p>'
           : '<p class="pop-h no">תוואי היסטורי – אין מה לראות</p><p>כאן עברה ' + esc(LINES[p.line].name) + ', אך לא נותרו ממנה שרידים בשטח.</p>';
+        h += '<p class="pop-src"><span class="lk-h">מקור:</span> ' + segSource({ line: p.line, osm: p.osm, src: p.src, at: lat + '/' + lon }) + '</p>';
+        if (p.remains) h += '<p class="pop-links">' + hikeLink(lat, lon) + '</p>';
         h += '<button type="button" class="pop-more" data-line="' + p.line + '">על ' + esc(LINES[p.line].name) + '</button>';
         L.popup({ className: 'pop', maxWidth: 260, autoPanPadding: [30, 80] }).setLatLng(e.latlng).setContent(h).openOn(map);
       });
@@ -184,7 +196,8 @@
       n += list.length;
       return '<p class="group-h">' + esc(LINES[id].name) + '</p>' + list.map(siteBtn).join('');
     }).join('');
-    $('lede').insertAdjacentHTML('beforeend', ' מסומנים בה ' + n + ' אתרים עיקריים שבהם יש מה לראות, עוד ' + Object.keys(minor).length + ' שרידים קטנים שתיעדו מטיילים, וכ-' + Math.round(totalKm / 10) * 10 + ' ק"מ של סוללות ופסים ששרדו.');
+    $('n-km').textContent = Math.round(totalKm);
+    $('n-sites').textContent = n + Object.keys(minor).length;
     document.addEventListener('click', function (e) {
       var b = e.target.closest('[data-line],[data-site]'); if (!b) return;
       map.closePopup();
@@ -206,11 +219,12 @@
     if (s.minor) h += '<p class="d-note">תיאור ומיקום מתוך עמוד ענן' + (s.by ? ', תרמו: ' + esc(s.by) : '') + '.</p>';
     h += '<dl class="facts"><dt>מסילה</dt><dd><button type="button" data-line="' + s.line + '">' + esc(LINES[s.line].name) + '</button></dd>' +
          (s.year ? '<dt>נבנה</dt><dd>' + esc(s.year) + '</dd>' : '') + '<dt>סוג</dt><dd>' + KIND[s.kind] + '</dd></dl>';
-    h += '<p class="links">';
-    if (s.wiki) h += '<a href="' + esc(s.wiki) + '" target="_blank" rel="noopener">ויקיפדיה</a>';
-    if (s.aa || s.url) h += '<a href="' + esc(s.aa || s.url) + '" target="_blank" rel="noopener">עמוד ענן</a>';
-    if (s.osm) h += '<a href="' + esc(s.osm) + '" target="_blank" rel="noopener">OpenStreetMap</a>';
-    h += hikeLink(lat, lon) + '</p></div>';
+    h += '<p class="links"><span class="lk-h">מקורות:</span>';
+    if (s.wiki) h += ext(s.wiki, 'ויקיפדיה');
+    if (s.aa || s.url) h += ext(s.aa || s.url, 'עמוד ענן');
+    if (s.osm) h += ext(s.osm, 'OpenStreetMap');
+    if (!s.wiki && !s.aa && !s.url && !s.osm) h += lineWiki(s.line, 'ערך המסילה בוויקיפדיה');
+    h += '</p><p class="links more">' + hikeLink(lat, lon) + '</p></div>';
     return h;
   }
   function lineHTML(id) {
@@ -223,8 +237,9 @@
     h += '<p class="d-desc">' + esc(l.text) + '</p>';
     var nm = Object.keys(minor).filter(function (m) { return minor[m].line === id; }).length;
     if (yes.length) h += '<h3>שרידים לביקור</h3>' + yes.map(siteBtn).join('');
-    if (nm) h += '<p class="d-note">ועוד ' + nm + ' שרידים קטנים לאורך המסילה (גשרונים, מעבירי מים, מבתרים), מסומנים במפה במעוינים קטנים.</p>';
+    if (nm) h += '<p class="d-note">ועוד ' + nm + ' שרידים קטנים לאורך המסילה (גשרונים, מעבירי מים, מבתרים), מסומנים במפה בנקודות אדומות קטנות.</p>';
     if (no.length) h += '<h3 class="faint">אתרים ידועים ללא שרידים</h3>' + no.map(siteBtn).join('');
+    h += '<p class="links"><span class="lk-h">מקורות:</span>' + lineWiki(id) + ext('https://www.openstreetmap.org/copyright', 'OpenStreetMap') + '<a href="about.html">איך נוצרה המפה</a></p>';
     return h + '</div>';
   }
 
