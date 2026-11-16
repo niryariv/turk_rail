@@ -15,28 +15,10 @@
 <style>
   html, body { height: auto; }
   body.doc { overflow: auto; background: var(--sand); }
-  .doc main { max-width: 39em; margin: 0 auto; padding: 28px 22px calc(64px + env(safe-area-inset-bottom)); font-size: 17px; line-height: 1.75; }
-  .doc .home { font-size: 15px; margin: 0 0 28px; }
-  .doc .home a::before { content: "› "; }
-  .doc h1 { font-family: var(--display); font-weight: 400; font-size: 38px; line-height: 1.1; margin: 0 0 12px; text-wrap: balance; }
-  .doc .intro { color: var(--ink-soft); margin: 0 0 8px; }
-  .doc h2 { margin-top: 40px; font-size: 25px; }
-  .doc p { margin: 12px 0 0; }
-  .doc ul { margin: 12px 0 0; padding-inline-start: 1.2em; }
-  .doc li { margin: 6px 0 0; }
-  .doc li::marker { color: var(--tile); }
-  .doc code { font-family: ui-monospace, Menlo, monospace; font-size: .85em; direction: ltr; unicode-bidi: isolate; background: var(--tile-wash); padding: 1px 5px; border-radius: 3px; }
-  .doc table { border-collapse: collapse; width: 100%; margin: 16px 0 0; font-size: 15.5px; }
-  .doc th, .doc td { text-align: start; padding: 8px 0 8px 12px; border-bottom: 1px solid var(--rule); vertical-align: top; }
-  .doc th { font-weight: 500; color: var(--ink-soft); }
-  .doc td.n { font-variant-numeric: tabular-nums; white-space: nowrap; }
-  .doc .caveat { border-inline-start: 3px solid var(--tile); background: var(--tile-wash); padding: 12px 16px; margin: 18px 0 0; }
-  .doc .caveat p:first-child { margin-top: 0; }
-  @media (max-width: 760px) { .doc h1 { font-size: 30px; } .doc main { font-size: 16.5px; } }
 </style>
 </head>
 <body class="doc">
-<main>
+<main class="doc-in">
   <p class="home"><a href="./">חזרה למפה</a></p>
 
   <h1>איך נוצרה המפה</h1>
@@ -74,7 +56,7 @@
   <h2>האתרים העיקריים</h2>
   <p>72 האתרים העיקריים (61 מהם עם שרידים) נבחרו ונכתבו אחד-אחד. נקודת המוצא הייתה ערכי ויקיפדיה העברית על כל מסילה, תחנה וגשר. לכל אתר נבדקו שלושה דברים:</p>
   <ul>
-    <li><strong>מיקום:</strong> הנקודה הוצלבה עם האובייקט הממופה ב-OpenStreetMap ועם נקודות של מטיילים ב<a href="https://amudanan.co.il" target="_blank" rel="noopener">עמוד ענן</a>. כשהמקורות לא הסכימו, העדפתי את המיקום שבו רואים את המבנה בתצלום הלוויין. כך תוקנו למשל גשר נחל לבן וגשר נחל ניצנה, שהנקודה שלהם בוויקיפדיה סטתה בכ-400 מטר ובכ-2 ק"מ.</li>
+    <li><strong>מיקום:</strong> הנקודה הוצלבה עם האובייקט הממופה ב-OpenStreetMap ועם נקודות של מטיילים ב<a href="https://amudanan.co.il" target="_blank" rel="noopener">עמוד ענן</a>. כשהמקורות לא הסכימו, העדפתי את המיקום שעליו הסכימו OpenStreetMap ועמוד ענן ושנמצא על תוואי המסילה הממופה. את המיקומים לא אימתתי מול תצלום הלוויין. כך תוקנו למשל גשר נחל לבן וגשר נחל ניצנה, שהנקודה שלהם בוויקיפדיה סטתה בכ-400 מטר ובכ-2 ק"מ.</li>
     <li><strong>מצב:</strong> אתר סומן כבעל שרידים רק כשמקור אחד לפחות מתאר מבנה שעומד במקום, או כשהמבנה ממופה ב-OpenStreetMap. אתר שידוע רק מהספרות סומן כאתר בלי שרידים.</li>
     <li><strong>תיאור:</strong> התיאורים הם סיכום קצר שלי של המקורות, ולא ציטוט שלהם.</li>
   </ul>

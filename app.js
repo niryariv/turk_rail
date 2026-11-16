@@ -308,6 +308,28 @@
   map.on('click', function () { if (mobile.matches) sheet(false); });
 
   /* ------------------------------------------------- mobile bottom sheet */
+  /* "how the map was made": the text of about.html, shown as a modal */
+  var aboutLoaded = false;
+  function openAbout() {
+    var dlg = $('about');
+    if (!dlg.showModal) { location.href = 'about.html'; return; }
+    dlg.showModal(); dlg.scrollTop = 0;
+    if (aboutLoaded) return;
+    fetch('about.html').then(function (r) { if (!r.ok) throw 0; return r.text(); }).then(function (t) {
+      var m = new DOMParser().parseFromString(t, 'text/html').querySelector('main');
+      m.querySelectorAll('.home').forEach(function (n) { n.remove(); });
+      var h1 = m.querySelector('h1'); if (h1) h1.id = 'about-title';
+      $('about-body').innerHTML = m.innerHTML; aboutLoaded = true;
+    }).catch(function () { $('about-body').innerHTML = '<p>הטקסט לא נטען. <a href="about.html">לפתיחה בדף נפרד</a></p>'; });
+  }
+  $('about-btn').addEventListener('click', openAbout);
+  $('about-close').addEventListener('click', function () { $('about').close(); });
+  $('about').addEventListener('click', function (e) { if (e.target === $('about')) $('about').close(); });
+  document.addEventListener('click', function (e) {
+    var a = e.target.closest('a[href="about.html"]');
+    if (a && !a.closest('#about')) { e.preventDefault(); openAbout(); }
+  });
+
   function sheet(open) {
     $('panel').classList.toggle('open', open);
     $('handle').setAttribute('aria-expanded', open);

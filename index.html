@@ -101,6 +101,8 @@
   </div>
 </aside>
 
+<button type="button" id="about-btn" aria-haspopup="dialog">איך נוצרה המפה</button>
+
 <div class="mapctl">
   <div class="basemaps" role="group" aria-label="מפת רקע">
     <button type="button" data-base="sat" class="on">לווין</button>
@@ -111,6 +113,11 @@
     <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true"><circle cx="12" cy="12" r="4"/><path d="M12 2v4M12 18v4M2 12h4M18 12h4"/></svg>
   </button>
 </div>
+
+<dialog id="about" class="doc" aria-labelledby="about-title">
+  <div class="doc-close"><button type="button" id="about-close">סגירה</button></div>
+  <div id="about-body" class="doc-in"><p>טוען…</p></div>
+</dialog>
 
 <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js" integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo=" crossorigin=""></script>
 <script src="app.js"></script>

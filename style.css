@@ -212,3 +212,33 @@ h2 { font-family: var(--display); font-weight: 400; font-size: 23px; margin: 30p
 @media (prefers-reduced-motion: reduce) {
   #panel, .mk, .mn { transition: none; }
 }
+
+/* ------------------------------------------------- "how the map was made" */
+#about-btn { position: fixed; top: 16px; right: calc(var(--panel-w) + 32px); z-index: 800; height: 34px; border: 1px solid var(--rule); border-radius: 6px; background: var(--sand-glass); padding: 0 13px; font-size: 14px; color: var(--ink-soft); white-space: nowrap; backdrop-filter: blur(10px); -webkit-backdrop-filter: blur(10px); }
+#about-btn:hover { color: var(--ink); }
+.doc .doc-in { max-width: 39em; margin: 0 auto; padding: 28px 22px calc(64px + env(safe-area-inset-bottom)); font-size: 17px; line-height: 1.75; }
+.doc .home { font-size: 15px; margin: 0 0 28px; }
+.doc .home a::before { content: "› "; }
+.doc h1 { font-family: var(--display); font-weight: 400; font-size: 38px; line-height: 1.1; margin: 0 0 12px; text-wrap: balance; }
+.doc .intro { color: var(--ink-soft); margin: 0 0 8px; }
+.doc h2 { margin-top: 40px; font-size: 25px; }
+.doc p { margin: 12px 0 0; }
+.doc ul { margin: 12px 0 0; padding-inline-start: 1.2em; }
+.doc li { margin: 6px 0 0; }
+.doc li::marker { color: var(--tile); }
+.doc code { font-family: ui-monospace, Menlo, monospace; font-size: .85em; direction: ltr; unicode-bidi: isolate; background: var(--tile-wash); padding: 1px 5px; border-radius: 3px; }
+.doc table { border-collapse: collapse; width: 100%; margin: 16px 0 0; font-size: 15.5px; }
+.doc th, .doc td { text-align: start; padding: 8px 0 8px 12px; border-bottom: 1px solid var(--rule); vertical-align: top; }
+.doc th { font-weight: 500; color: var(--ink-soft); }
+.doc td.n { font-variant-numeric: tabular-nums; white-space: nowrap; }
+.doc .caveat { border-inline-start: 3px solid var(--tile); background: var(--tile-wash); padding: 12px 16px; margin: 18px 0 0; }
+.doc .caveat p:first-child { margin-top: 0; }
+@media (max-width: 760px) { .doc h1 { font-size: 30px; } .doc .doc-in { font-size: 16.5px; } }
+dialog.doc { width: min(46em, calc(100% - 24px)); max-height: min(88dvh, 900px); padding: 0; border: 1px solid rgba(44, 42, 37, .25); border-radius: 10px; background: var(--sand); color: var(--ink); overflow: auto; overscroll-behavior: contain; }
+dialog.doc::backdrop { background: rgba(30, 26, 20, .5); backdrop-filter: blur(3px); -webkit-backdrop-filter: blur(3px); }
+dialog.doc .home { display: none; }
+dialog.doc .doc-in { padding-top: 8px; padding-bottom: 40px; }
+.doc-close { position: sticky; top: 0; z-index: 1; display: flex; justify-content: flex-end; padding: 10px 12px 0; background: linear-gradient(var(--sand) 70%, transparent); }
+.doc-close button { border: 1px solid var(--rule); border-radius: 20px; background: var(--sand); padding: 4px 14px; font-size: 14px; color: var(--ink-soft); }
+.doc-close button:hover { color: var(--ink); border-color: rgba(44, 42, 37, .4); }
+@media (max-width: 760px) { #about-btn { top: 10px; right: 10px; } }
