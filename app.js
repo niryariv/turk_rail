@@ -335,7 +335,44 @@
     $('handle').setAttribute('aria-expanded', open);
     $('handle-hint').textContent = open ? 'למפה' : ($('view-detail').hidden ? 'למדריך' : 'לפרטים');
   }
-  $('handle').addEventListener('click', function () { sheet(!$('panel').classList.contains('open')); });
+  $('handle').addEventListener('click', function (e) {
+    if (dragged) { dragged = false; e.preventDefault(); return; }
+    sheet(!$('panel').classList.contains('open'));
+  });
+
+  /* swipe the open sheet down to close it: from the handle, or from the content when it is scrolled to the top */
+  var drag = null, dragged = false;
+  function dragStart(e) {
+    if (!mobile.matches || !$('panel').classList.contains('open') || e.touches.length !== 1) return;
+    var fromHandle = !!e.target.closest('#handle');
+    if (!fromHandle && $('panel-body').scrollTop > 0) return;
+    drag = { y0: e.touches[0].clientY, t0: Date.now(), dy: 0, fromHandle: fromHandle, active: false };
+  }
+  function dragMove(e) {
+    if (!drag) return;
+    var dy = e.touches[0].clientY - drag.y0;
+    if (!drag.active) {
+      if (Math.abs(dy) < 8) return;
+      if (dy < 0 || (!drag.fromHandle && $('panel-body').scrollTop > 0)) { drag = null; return; }   // scrolling the content up
+      drag.active = true; $('panel').style.transition = 'none';
+    }
+    e.preventDefault();
+    drag.dy = Math.max(0, dy);
+    $('panel').style.transform = 'translateY(' + drag.dy + 'px)';
+  }
+  function dragEnd() {
+    if (!drag) return;
+    var d = drag; drag = null;
+    if (!d.active) return;
+    dragged = d.fromHandle;
+    var p = $('panel'); p.style.transition = ''; p.style.transform = '';
+    var fast = d.dy / Math.max(1, Date.now() - d.t0) > 0.5;
+    if (d.dy > Math.min(120, p.offsetHeight * 0.25) || (fast && d.dy > 30)) sheet(false);
+  }
+  $('panel').addEventListener('touchstart', dragStart, { passive: true });
+  $('panel').addEventListener('touchmove', dragMove, { passive: false });
+  $('panel').addEventListener('touchend', dragEnd);
+  $('panel').addEventListener('touchcancel', dragEnd);
 
   /* ------------------------------------------------------------ controls */
   $('show-gone').addEventListener('change', function (e) { mapEl.classList.toggle('hide-gone', !e.target.checked); });
