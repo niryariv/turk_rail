@@ -82,6 +82,7 @@ def take(line, pred):
     for e in old_ways:
         t = e['tags']; st = status(t)
         if not st or not is_line(t): continue
+        if 'light_rail' in t.values() or 'tram' in t.values() or 'הקו ה' in t.get('name', ''): continue   # Jerusalem light rail (e.g. Red Line stub tagged disused)
         g = pts(e)
         if pred(e, t, g):
             add(line, st in ('abandoned', 'disused'), g, 'osm', e['id']); n += 1
