@@ -77,11 +77,15 @@ def add(line, remains, geom, src, osm=None):
     features.append({'type': 'Feature', 'properties': props,
                      'geometry': {'type': 'LineString', 'coordinates': [[round(p[1], 5), round(p[0], 5)] for p in geom]}})
 
+# OSM ways tagged as old railway that are not the trackbed: 1317104529 is an Africover road near Kusseima
+# running parallel to the mapped 'Al Kusseima Railway Extension', which made the line jog sideways between them
+SKIP_WAYS = {1317104529}
 def take(line, pred):
     n = 0
     for e in old_ways:
         t = e['tags']; st = status(t)
         if not st or not is_line(t): continue
+        if e['id'] in SKIP_WAYS: continue
         if 'light_rail' in t.values() or 'tram' in t.values() or 'הקו ה' in t.get('name', ''): continue   # Jerusalem light rail (e.g. Red Line stub tagged disused)
         g = pts(e)
         if pred(e, t, g):

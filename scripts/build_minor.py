@@ -74,10 +74,14 @@ def aa_thumb(name):
 def short(s, n=320):
     s = re.sub(r'https?://\S+', '', re.sub(r'\s+', ' ', s)).strip()
     return s if len(s) <= n else s[:n].rsplit(' ', 1)[0] + '…'
+REPORTS = {}
+for r in json.load(open(os.path.join(D, 'src', 'ride_reports.json'))):
+    for i in r['ids']: REPORTS.setdefault(i, []).append([r['label'], r['url']])
 feats = [{'type': 'Feature', 'geometry': {'type': 'Point', 'coordinates': [p['lon'], p['lat']]},
           'properties': {'id': 'P' + p['id'], 'line': p['line'], 'kind': p['kind'], 'name': p['title'], 'desc': short(p['desc']),
                          'by': short(p['by'], 80), 'url': 'https://amudanan.co.il/#!wiki=P' + p['id'],
-                         **({'img': aa_thumb(p['img'])} if p['img'] else {})}} for p in out]
+                         **({'img': aa_thumb(p['img'])} if p['img'] else {}),
+                         **({'more': REPORTS['P' + p['id']]} if 'P' + p['id'] in REPORTS else {})}} for p in out]
 json.dump({'type': 'FeatureCollection', 'features': feats}, open(os.path.join(D, 'minor.geojson'), 'w'), ensure_ascii=False, indent=0)
 import collections
 print(len(feats), 'minor remains', dict(collections.Counter(f['properties']['line'] for f in feats)), dict(collections.Counter(f['properties']['kind'] for f in feats)))

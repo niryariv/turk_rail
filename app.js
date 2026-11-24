@@ -225,7 +225,9 @@
     if (s.aa || s.url) h += ext(s.aa || s.url, 'עמוד ענן');
     if (s.osm) h += ext(s.osm, 'OpenStreetMap');
     if (!s.wiki && !s.aa && !s.url && !s.osm) h += lineWiki(s.line, 'ערך המסילה בוויקיפדיה');
-    h += '</p><p class="links more">' + hikeLink(lat, lon) + '</p></div>';
+    h += '</p>';
+    if (s.more) h += '<p class="links"><span class="lk-h">לקריאה נוספת:</span>' + s.more.map(function (m) { return ext(m[1], m[0]); }).join('') + '</p>';
+    h += '<p class="links more">' + hikeLink(lat, lon) + '</p></div>';
     return h;
   }
   function lineHTML(id) {

@@ -107,7 +107,7 @@ S = [
  ('manshiya', 'south', 'station', False, 31.6070, 34.7800, 'תחנת עיראק אל-מנשייה', '1915',
   'תחנה באזור שבו נמצא כיום אזור התעשייה של קריית גת.', None, {'approx': True}),
  ('shikma-bridge', 'south', 'bridge', True, 31.5015, 34.7640, 'גשר נחל שקמה', '1915',
-  'שרידי גשר רב-קשתות ליד שמורת פורה: שתי אומנות הקצה ועמודי תמך, וקטע מסוללת המסילה.', 'גשר נחל שקמה', {}),
+  'שרידי גשר רב-קשתות ליד שמורת פורה: שתי אומנות הקצה ועמודי תמך, וקטע מסוללת המסילה. בוויקיפדיה הוא נקרא גשר נחל שקמה, אבל לפי מפת הנחלים הגשר חוצה את נחל פורה, סמוך למפגשו עם נחל שקמה. מעבר המסילה על נחל שקמה עצמו נמצא כקילומטר דרומה, ושם נותרו רק הסוללה ושרידים מעטים.', 'גשר נחל שקמה', {}),
  ('sheria', 'south', 'station', True, 31.3884, 34.6786, 'הריסות תחנת תל א-שריעה', '1915',
   'יסודות והריסות התחנה שהקימו הטורקים מדרום לנחל גרר, ממערב למסילה. התחנה שירתה את מחנות הצבא העות\'מאני בקו עזה–באר שבע, וממנה יצאה שלוחה מערבה לתל אבו הרירה (תל הרור).', None, {'aa': 'P723029'}),
  ('patish-bridge', 'south', 'bridge', True, 31.3006, 34.7100, 'גשר נחל פטיש', '1915',
@@ -216,6 +216,11 @@ aa_pts = {p['id']: p for p in json.load(open(os.path.join(HERE, 'raw', 'amudanan
 def aa_thumb(name):
     return 'https://amudanan.co.il/services/thumb.php?file=' + ('../images/user/' if 'my.' in name else '../w/images/') + urllib.parse.quote(name.replace(' ', '_')) + '&size=640'
 
+# trip reports that describe and photograph a site (linked from the card as further reading)
+REPORTS = {}
+for r in json.load(open(os.path.join(HERE, '..', 'data', 'src', 'ride_reports.json'))):
+    for i in r['ids']: REPORTS.setdefault(i, []).append([r['label'], r['url']])
+
 feats = []
 for (sid, line, kind, remains, lat, lon, he, year, desc, wt, ex) in S:
     p = dict(id=sid, line=line, kind=kind, remains=remains, name=he, year=year, desc=desc)
@@ -237,6 +242,7 @@ for (sid, line, kind, remains, lat, lon, he, year, desc, wt, ex) in S:
     elif aid and aa_pts.get(aid[1:], {}).get('img'):
         p['img'] = aa_thumb(aa_pts[aid[1:]]['img']); p['img_src'] = p['aa']; p['img_by'] = 'עמוד ענן'
     if ex.get('approx'): p['approx'] = True
+    if sid in REPORTS: p['more'] = REPORTS[sid]
     feats.append({'type': 'Feature', 'properties': p, 'geometry': {'type': 'Point', 'coordinates': [lon, lat]}})
 out = os.path.join(HERE, '..', 'data', 'sites.geojson')
 json.dump({'type': 'FeatureCollection', 'features': feats}, open(out, 'w'), ensure_ascii=False, indent=1)
