@@ -1018,6 +1018,26 @@
 "geometry": {
 "type": "Point",
 "coordinates": [
+34.667959,
+31.344474
+]
+},
+"properties": {
+"id": "P239010",
+"line": "south",
+"kind": "embankment",
+"name": "מעקף מסילת הרכת בתורכית",
+"desc": "מעקף שנבנה עת נבנה גשר נחל זכריה בתוואי הרכבת התורכית לבאר שבע ולקסיימה.",
+"by": "Ilafer, Marikriber",
+"url": "https://amudanan.co.il/#!wiki=P239010",
+"img": "https://amudanan.co.il/services/thumb.php?file=../w/images/%D7%9E%D7%A2%D7%A7%D7%A3%D7%A81.jpg&size=640"
+}
+},
+{
+"type": "Feature",
+"geometry": {
+"type": "Point",
+"coordinates": [
 34.661543,
 31.344165
 ]

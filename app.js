@@ -97,6 +97,7 @@
     var w = lineWiki(p.line, 'ערך המסילה בוויקיפדיה');
     if (p.osm) return ext('https://www.openstreetmap.org/way/' + p.osm, 'קטע המסילה ב-OpenStreetMap');
     if (p.src === 'modern') return 'מסילה מודרנית על התוואי הישן, לפי ' + ext('https://www.openstreetmap.org/#map=14/' + p.at, 'OpenStreetMap') + ' ו' + w;
+    if (p.src === 'cluster') return 'תוואי המסילה שמיפה אשכול נגב מערבי (שירי)';
     if (p.src === 'gap') return 'קטע חיבור משוער בין קטעים ממופים, לפי ' + w;
     return 'שרטוט משוער לפי ' + w;
   }

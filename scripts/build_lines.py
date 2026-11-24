@@ -147,7 +147,6 @@ def link(line, via):
 south_done = len(features)
 link('south', [(31.6000, 34.7820), (31.5750, 34.7800), (31.5510, 34.7760)])                      # Iraq al-Manshiya – Nahal Shikma
 link('south', [(31.4690, 34.7640), (31.4500, 34.7450), (31.4300, 34.7150), (31.4170, 34.7000)])  # Nahal Pura – Tell esh-Sheria
-link('south', [(31.3320, 34.6740), (31.3150, 34.6900), (31.3006, 34.7100), (31.2830, 34.7280)])  # – Nahal Patish bridge
 link('south', [(31.2570, 34.7530), (31.2520, 34.7700), BS_STN])                                  # into Beersheba station
 link('south', [BS_STN, (31.2400, 34.7950), (31.2351, 34.8029)])                                  # station – Turkish bridge
 link('south', [(31.2336, 34.8035), (31.2100, 34.8080), (31.1920, 34.8070)])                      # bridge – Ramat Hovav
@@ -181,6 +180,47 @@ fill_gaps('south', 3.0)
 fill_gaps('valley', 2.5, anchors=[BEITSHEAN])
 fill_gaps('samaria', 2.5, anchors=[AFULA, TULKARM])
 fill_gaps('jj', 1.5)
+
+# ---------- Western Negev Cluster trace of the southern line (Shiri, Eshkol Negev Maaravi) ----------
+# Surveyed route, ITM converted to WGS84 in data/src/negev_cluster.geojson. Where it runs along an OSM
+# trackbed piece the OSM piece stays; elsewhere it replaces our sketched / gap connectors.
+def seg_dist(p, a, b):
+    k = math.cos(math.radians(p[0]))
+    ax, ay = (a[1] - p[1]) * k, a[0] - p[0]; bx, by = (b[1] - p[1]) * k, b[0] - p[0]
+    dx, dy = bx - ax, by - ay; l2 = dx * dx + dy * dy
+    t = 0 if l2 == 0 else max(0, min(1, -(ax * dx + ay * dy) / l2))
+    return math.hypot(ax + t * dx, ay + t * dy) * 111.2
+def densify(c, step=0.05):
+    out = [c[0]]
+    for a, b in zip(c, c[1:]):
+        n = max(1, int(km(a, b) / step))
+        out += [(a[0] + (b[0] - a[0]) * i / n, a[1] + (b[1] - a[1]) * i / n) for i in range(1, n + 1)]
+    return out
+def near(p, segs, r):
+    return any(abs(a[0] - p[0]) < 0.02 and seg_dist(p, a, b) < r for a, b in segs)
+def pairs(f):
+    c = [(y, x) for x, y in f['geometry']['coordinates']]; return list(zip(c, c[1:]))
+cluster = json.load(open(os.path.join(os.path.dirname(OUT), 'src', 'negev_cluster.geojson')))
+trace = [[(y, x) for x, y in part] for part in cluster['features'][0]['geometry']['coordinates']]
+osm_segs = [s for f in features if f['properties']['line'] == 'south' and f['properties']['src'] == 'osm' for s in pairs(f)]
+trace_segs = [s for part in trace for s in zip(part, part[1:])]
+# drop sketched / gap pieces that the surveyed trace now covers
+before = len(features)
+features[:] = [f for f in features if not (f['properties']['line'] == 'south' and f['properties']['src'] in ('approx', 'gap')
+               and (lambda d: sum(near(p, trace_segs, 0.5) for p in d) >= 0.6 * len(d))(densify(pairs(f) and [a for a, _ in pairs(f)] + [pairs(f)[-1][1]])))]
+print('south sketched pieces replaced by cluster trace:', before - len(features))
+n = 0
+for part in trace:
+    d = densify(part); cov = [near(p, osm_segs, 0.08) for p in d]
+    i = 0
+    while i < len(d):
+        if cov[i]: i += 1; continue
+        j = i
+        while j < len(d) and not cov[j]: j += 1
+        run = d[max(0, i - 1):j + 1]
+        if length(run) > 0.15: add('south', False, run, 'cluster'); n += 1
+        i = j
+print('south cluster pieces:', n)
 
 tot = {}
 for f in features:
